@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <document uuid="52bdd3d2-d82c-557c-937c-27ffca98fdb4">
   <metadata>
     <acquirer>The Walt Disney Co.</acquirer>
@@ -23,91 +23,247 @@
     <article title="ARTICLE I CERTAIN DEFINITIONS" standardId="43f412ac5c772c0a">
       <section title="1.1 Definitions." order="1" standardId="a3315f05e6460096">
         <text>As used in this Agreement, the following terms shall have the meanings set forth below.</text>
-        <definition standardID="3297c10e95744588">“1998 Stock Incentive Plan” means the Company’s 1998 Stock Incentive Plan, as amended.</definition>
-        <definition standardID="9abc663267585c00">“2005 Stock Incentive Plan” means the Company’s 2005 Stock Incentive Plan as amended and restated on December 31, 2008.</definition>
+        <definition standardID="3297c10e95744588">
+          <text>“1998 Stock Incentive Plan” means the Company’s 1998 Stock Incentive Plan, as amended.</text>
+        </definition>
+        <definition standardID="9abc663267585c00">
+          <text>“2005 Stock Incentive Plan” means the Company’s 2005 Stock Incentive Plan as amended and restated on December 31, 2008.</text>
+        </definition>
         <pageUUID>afb04d02-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="323838c9cfeca4d4">“Action” means any claim, action, suit, proceeding, arbitration, mediation or investigation by or before any Governmental Authority.</definition>
-        <definition standardID="64ca3f63a5877674">“Adjustment Price” means the average of (a) the Parent Signing Date Price and (b) the Parent Closing Date Share Price.</definition>
-        <definition standardID="1198c4a699797a12">“Affiliate” means with respect to any Person, another Person that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such first Person, where “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise.</definition>
-        <definition standardID="3acb933f8c2904a5">“Alternative Transaction” means any of the following transactions: (a) any merger, consolidation, share exchange, business combination, reorganization, recapitalization, liquidation, dissolution or other similar transaction involving the Company, (b) any direct or indirect acquisition or purchase, by any Person or group of Persons, in a single transaction or a series of related transactions, including by means of the acquisition of capital stock of any Subsidiary of the Company, of assets or properties that constitute twenty percent (20%) or more of the fair market value of the assets and properties of the Company and its Subsidiaries, taken as a whole, (c) any direct or indirect acquisition or purchase, in a single transaction, or series of related transactions, of twenty percent (20%) or more of any class of equity securities of the Company, or (d) any other transaction having a similar effect to those described in clauses (a)-(c), in each case, other than the Merger and the transactions contemplated by this Agreement and the Voting Agreement.</definition>
-        <definition standardID="3acb933f8c2904a5">“Alternative Transaction Proposal” means any offer, inquiry, proposal or indication of interest, written or oral (whether binding or non-binding and other than an offer, inquiry, proposal or indication of interest by Parent or an Affiliate of Parent), relating to an Alternative Transaction.</definition>
-        <definition standardID="c6f00f2ba0e36bec">“Base Merger Consideration” means the sum of (a) the aggregate Cash Consideration (including any cash paid in lieu of fractional shares and cash paid in respect of Dissenting Shares) plus (b) the Total Stock Consideration. For purposes of this calculation, the cash paid in respect of Dissenting Shares shall be deemed to be that amount of cash equal to the product of (i) the number of Dissenting Shares multiplied by (ii) the sum of (A) the Cash Consideration and (B) the product of the Exchange Ratio multiplied by the Parent Closing Date Share Price (with such Cash Consideration and Exchange Ratio determined without regard to any Adjustment pursuant to Section 2.10.)</definition>
-        <definition standardID="a5200bdd4f9d84cd">“Business Day” means any day on which the principal offices of the SEC in Washington, D.C. are open to accept filings and on which banks are not required or authorized to close in New York, New York.</definition>
-        <definition standardID="068b372713ab93bb">“Certificate of Merger” means a certificate of merger, in such appropriate form as is determined by the parties.</definition>
-        <definition standardID="231497ddcfbdfe5d">“Characters” means all fictitious characters, including characters in comic books, as well as all derivative works based thereon in all media, whether existing now or in the future.</definition>
-        <definition standardID="80e0b1493ec809fd">“Closing Date Parent Closing Price” means the closing price of Parent Common Stock on the Closing Date, as reported on the NYSE.</definition>
-        <definition standardID="0fed90ed5779814c">“Company Bylaws” means the Amended and Restated Bylaws of the Company, dated as of October 23, 2008, as amended.</definition>
-        <definition standardID="3a173dcd209beac5">“Company Charter” means the Restated Certificate of Incorporation of the Company, dated as of February 23, 2006.</definition>
+        <definition standardID="323838c9cfeca4d4">
+          <text>“Action” means any claim, action, suit, proceeding, arbitration, mediation or investigation by or before any Governmental Authority.</text>
+        </definition>
+        <definition standardID="64ca3f63a5877674">
+          <text>“Adjustment Price” means the average of (a) the Parent Signing Date Price and (b) the Parent Closing Date Share Price.</text>
+        </definition>
+        <definition standardID="1198c4a699797a12">
+          <text>“Affiliate” means with respect to any Person, another Person that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such first Person, where “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise.</text>
+        </definition>
+        <definition standardID="3acb933f8c2904a5">
+          <text>“Alternative Transaction” means any of the following transactions: (a) any merger, consolidation, share exchange, business combination, reorganization, recapitalization, liquidation, dissolution or other similar transaction involving the Company, (b) any direct or indirect acquisition or purchase, by any Person or group of Persons, in a single transaction or a series of related transactions, including by means of the acquisition of capital stock of any Subsidiary of the Company, of assets or properties that constitute twenty percent (20%) or more of the fair market value of the assets and properties of the Company and its Subsidiaries, taken as a whole, (c) any direct or indirect acquisition or purchase, in a single transaction, or series of related transactions, of twenty percent (20%) or more of any class of equity securities of the Company, or (d) any other transaction having a similar effect to those described in clauses (a)-(c), in each case, other than the Merger and the transactions contemplated by this Agreement and the Voting Agreement.</text>
+        </definition>
+        <definition standardID="3acb933f8c2904a5">
+          <text>“Alternative Transaction Proposal” means any offer, inquiry, proposal or indication of interest, written or oral (whether binding or non-binding and other than an offer, inquiry, proposal or indication of interest by Parent or an Affiliate of Parent), relating to an Alternative Transaction.</text>
+        </definition>
+        <definition standardID="c6f00f2ba0e36bec">
+          <text>“Base Merger Consideration” means the sum of (a) the aggregate Cash Consideration (including any cash paid in lieu of fractional shares and cash paid in respect of Dissenting Shares) plus (b) the Total Stock Consideration. For purposes of this calculation, the cash paid in respect of Dissenting Shares shall be deemed to be that amount of cash equal to the product of (i) the number of Dissenting Shares multiplied by (ii) the sum of (A) the Cash Consideration and (B) the product of the Exchange Ratio multiplied by the Parent Closing Date Share Price (with such Cash Consideration and Exchange Ratio determined without regard to any Adjustment pursuant to Section 2.10.)</text>
+        </definition>
+        <definition standardID="a5200bdd4f9d84cd">
+          <text>“Business Day” means any day on which the principal offices of the SEC in Washington, D.C. are open to accept filings and on which banks are not required or authorized to close in New York, New York.</text>
+        </definition>
+        <definition standardID="068b372713ab93bb">
+          <text>“Certificate of Merger” means a certificate of merger, in such appropriate form as is determined by the parties.</text>
+        </definition>
+        <definition standardID="231497ddcfbdfe5d">
+          <text>“Characters” means all fictitious characters, including characters in comic books, as well as all derivative works based thereon in all media, whether existing now or in the future.</text>
+        </definition>
+        <definition standardID="80e0b1493ec809fd">
+          <text>“Closing Date Parent Closing Price” means the closing price of Parent Common Stock on the Closing Date, as reported on the NYSE.</text>
+        </definition>
+        <definition standardID="0fed90ed5779814c">
+          <text>“Company Bylaws” means the Amended and Restated Bylaws of the Company, dated as of October 23, 2008, as amended.</text>
+        </definition>
+        <definition standardID="3a173dcd209beac5">
+          <text>“Company Charter” means the Restated Certificate of Incorporation of the Company, dated as of February 23, 2006.</text>
+        </definition>
         <pageUUID>afb05eaa-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="5f28ce08edc6b326">“Company Common Stock” means the common stock, par value $0.01 per share, of the Company, together with the rights attached thereto issued pursuant to the Rights Agreement.</definition>
-        <definition standardID="bf52234cf490e0b1">“Company Disclosure Letter” means the disclosure letter delivered by the Company to Parent concurrently with the execution of this Agreement.</definition>
-        <definition standardID="cfbc705a19a3d042">“Company Material Adverse Effect” means any event, occurrence, fact, condition, change, development or effect that is materially adverse to the business, assets, properties, liabilities, results of operations or condition (financial or otherwise) of the Company and its Subsidiaries, taken as a whole, except to the extent that such event, occurrence, fact, condition, change, development or effect results from (a) general economic or political conditions or changes therein, (b) financial or security market fluctuations or conditions, (c) changes in, or events affecting, the industries in which the Company and its Subsidiaries operate, (d) any effect arising out of a change in GAAP or applicable Law, (e) actions taken pursuant to this Agreement or at the request of Parent, (f) any changes in the price or trading volume of the Company’s stock, in and of itself, (g) any failure by the Company to meet published or unpublished revenue or earning projections, in and of itself or (h) any legal claims or other proceedings made by any of the Company Stockholders (on their own behalf as Company Stockholders or on behalf of the Company) arising out of or relating to this Agreement, in and of itself; provided, that (i) in the cases of clauses (a) through (c), any such event, occurrence, fact, condition, change, development or effect which disproportionately affects the Company and its Subsidiaries relative to other participants in the industries in which the Company or its Subsidiaries operate and (ii) in the case of clauses (f) through (h), the underlying cause of any such change or event, in each case of clauses (i) and (ii), shall not be excluded from the determination of whether there has been a Company Material Adverse Effect.</definition>
-        <definition standardID="54483ae54440cfdc">“Company Preferred Stock” means the preferred stock, par value $0.01 per share, of the Company.</definition>
-        <definition standardID="b2de77da89a85c52">“Company Restricted Stock” means shares of restricted Company Common Stock issued pursuant to an Incentive Plan.</definition>
-        <definition standardID="cfb1b1ac11bbeb2e">“Company Stockholders” means the holders of shares of Company Common Stock.</definition>
-        <definition standardID="cfb1b1ac11bbeb2e">“Company Stock Option” means any option to purchase shares of Company Common Stock issued pursuant to Incentive Plans.</definition>
-        <definition standardID="ce1936e43a099772">“Contract” means any written or oral binding contract, agreement, instrument, commitment or undertaking (including leases, licenses, mortgages, notes, guarantees, sublicenses, subcontracts and purchase orders).</definition>
-        <definition standardID="d81e5a1f628dde5c">“Encumbrance” means, with respect to any asset, any mortgage, deed of trust, lien, pledge, charge, security interest, title retention device, collateral assignment, adverse claim, restriction or other encumbrance of any kind in respect of such asset (including any restriction on the voting of any security, any restriction on the transfer of any security or other asset, any restriction on the receipt of any income derived from any asset, any restriction on the use of any asset and any restriction on the possession, exercise or transfer of any other attribute of ownership of any asset).</definition>
-        <definition standardID="cb75fb473fd318db">“Environmental Laws” means all applicable Laws relating to the environment, natural resources, or safety or health of humans or other living organisms (as it relates to exposure to Hazardous Substances).</definition>
-        <definition standardID="5bcbc3b673bfc55d">“ERISA” means the Employee Retirement Income Security Act of 1974.</definition>
-        <definition standardID="af14b9374a223e77">“Exchange Act” means the Securities Exchange Act of 1934.</definition>
-        <definition standardID="5fed63bc634d0665">“Exchange Ratio” means 0.7452.</definition>
+        <definition standardID="5f28ce08edc6b326">
+          <text>“Company Common Stock” means the common stock, par value $0.01 per share, of the Company, together with the rights attached thereto issued pursuant to the Rights Agreement.</text>
+        </definition>
+        <definition standardID="bf52234cf490e0b1">
+          <text>“Company Disclosure Letter” means the disclosure letter delivered by the Company to Parent concurrently with the execution of this Agreement.</text>
+        </definition>
+        <definition standardID="cfbc705a19a3d042">
+          <text>“Company Material Adverse Effect” means any event, occurrence, fact, condition, change, development or effect that is materially adverse to the business, assets, properties, liabilities, results of operations or condition (financial or otherwise) of the Company and its Subsidiaries, taken as a whole, except to the extent that such event, occurrence, fact, condition, change, development or effect results from (a) general economic or political conditions or changes therein, (b) financial or security market fluctuations or conditions, (c) changes in, or events affecting, the industries in which the Company and its Subsidiaries operate, (d) any effect arising out of a change in GAAP or applicable Law, (e) actions taken pursuant to this Agreement or at the request of Parent, (f) any changes in the price or trading volume of the Company’s stock, in and of itself, (g) any failure by the Company to meet published or unpublished revenue or earning projections, in and of itself or (h) any legal claims or other proceedings made by any of the Company Stockholders (on their own behalf as Company Stockholders or on behalf of the Company) arising out of or relating to this Agreement, in and of itself; provided, that (i) in the cases of clauses (a) through (c), any such event, occurrence, fact, condition, change, development or effect which disproportionately affects the Company and its Subsidiaries relative to other participants in the industries in which the Company or its Subsidiaries operate and (ii) in the case of clauses (f) through (h), the underlying cause of any such change or event, in each case of clauses (i) and (ii), shall not be excluded from the determination of whether there has been a Company Material Adverse Effect.</text>
+        </definition>
+        <definition standardID="54483ae54440cfdc">
+          <text>“Company Preferred Stock” means the preferred stock, par value $0.01 per share, of the Company.</text>
+        </definition>
+        <definition standardID="b2de77da89a85c52">
+          <text>“Company Restricted Stock” means shares of restricted Company Common Stock issued pursuant to an Incentive Plan.</text>
+        </definition>
+        <definition standardID="cfb1b1ac11bbeb2e">
+          <text>“Company Stockholders” means the holders of shares of Company Common Stock.</text>
+        </definition>
+        <definition standardID="cfb1b1ac11bbeb2e">
+          <text>“Company Stock Option” means any option to purchase shares of Company Common Stock issued pursuant to Incentive Plans.</text>
+        </definition>
+        <definition standardID="ce1936e43a099772">
+          <text>“Contract” means any written or oral binding contract, agreement, instrument, commitment or undertaking (including leases, licenses, mortgages, notes, guarantees, sublicenses, subcontracts and purchase orders).</text>
+        </definition>
+        <definition standardID="d81e5a1f628dde5c">
+          <text>“Encumbrance” means, with respect to any asset, any mortgage, deed of trust, lien, pledge, charge, security interest, title retention device, collateral assignment, adverse claim, restriction or other encumbrance of any kind in respect of such asset (including any restriction on the voting of any security, any restriction on the transfer of any security or other asset, any restriction on the receipt of any income derived from any asset, any restriction on the use of any asset and any restriction on the possession, exercise or transfer of any other attribute of ownership of any asset).</text>
+        </definition>
+        <definition standardID="cb75fb473fd318db">
+          <text>“Environmental Laws” means all applicable Laws relating to the environment, natural resources, or safety or health of humans or other living organisms (as it relates to exposure to Hazardous Substances).</text>
+        </definition>
+        <definition standardID="5bcbc3b673bfc55d">
+          <text>“ERISA” means the Employee Retirement Income Security Act of 1974.</text>
+        </definition>
+        <definition standardID="af14b9374a223e77">
+          <text>“Exchange Act” means the Securities Exchange Act of 1934.</text>
+        </definition>
+        <definition standardID="5fed63bc634d0665">
+          <text>“Exchange Ratio” means 0.7452.</text>
+        </definition>
         <pageUUID>afb0656c-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="93088121a441b278">“Exploit” means, with respect to Films, to release, reproduce and distribute, perform, display, exhibit, broadcast or telecast, license, or sell, market, create merchandising or otherwise commercially exploit by any and all known or new or future (a) technology, (b) uses, (c) media, (d) formats, (e) modes of transmission and (f) methods of distribution, dissemination or performance. The meaning of the term “Exploitation” shall be correlative to the foregoing.</definition>
-        <definition standardID="c3694b95c2e0966c">“Films” means motion pictures (including features, shorts and trailers), television, cable or satellite programming (including on-demand and pay-per-view programming), Internet programming, direct-to-video/DVD programming or other live action, animated, filmed, taped or recorded entertainment of any kind or nature, known now or in the future, and all components thereof, including titles, themes, content, dialogue, Characters, plots, concepts, scenarios, characterizations, elements and music (whether or not now known or recognized) as to which the Company or any of its Subsidiaries owns or controls any right, title or interest, including: (a) completed and released works or projects, (b) works or projects in any stage of progress, including works or projects in development and/or pre-production, in principal photography and/or post-production, and completed but not released as of the Closing Date, (c) “turnaround” works or projects, (d) Copyright and other Intellectual Property rights in and to the literary, dramatic and musical and other material associated with or related to or necessary to the Exploitation of the works or projects referred to in the foregoing clauses (a) through (c), (e) to the extent related to the works or projects referred to in the foregoing clauses (a) through (c), sequel, prequel and remake rights and other derivative production rights, including all novelization, merchandising, character, serialization, game and interactive rights, (f) all other allied, ancillary, subsidiary and derivative rights (including theme park rights), known and unknown, throughout the world related to the works and projects referenced in the foregoing clauses (a) through (e) and (g) all contractual and other rights associated with or related to such works or projects referenced in the foregoing clauses (a) through (e), whether in any media now known or hereafter developed.</definition>
-        <definition standardID="12024e80ae327bfd">“GAAP” means United States generally accepted accounting principles.</definition>
-        <definition standardID="3af35c84d74f202e">“Governmental Authority” means any national, supranational, federal, state, county, local or municipal government or any court or tribunal, regulatory or administrative agency, board or commission, arbitrator, arbitration tribunal or other governmental authority or instrumentality, domestic or foreign.</definition>
-        <definition standardID="3af35c84d74f202e">“Governmental Permit” means with respect to the Company or any of its Subsidiaries, any consent, license, permit, grant, or other authorization of a Governmental Authority.</definition>
-        <definition standardID="9667d46a700941de">“Grant Date” means, with respect to a Company Stock Option, the date on which the grant of such option was required by its terms to be effective.</definition>
-        <definition standardID="0857d2bc7dfa7467">“Hazardous Substance” means any pollutant, contaminant, hazardous substance, hazardous waste, medical waste, special waste, toxic substance, petroleum or petroleum-derived substance, waste or additive, asbestos, polychlorinated biphenyl (PCB), radioactive material, or other compound, element or substance in any form (including products) regulated, restricted or addressed by or under any Environmental Law.</definition>
-        <definition standardID="37eda8e87f558c04">“HSR Act” means the Hart-Scott-Rodino Antitrust Improvements Act of 1976.</definition>
-        <definition standardID="71f18a59b6a93d8b">“Incentive Plans” means the 2005 Stock Incentive Plan and the 1998 Stock Incentive Plan.</definition>
-        <definition standardID="47b60bf6aebacc6c">“Intercompany Payable” means, with respect to the Company, any amount owing by the Company to any Subsidiary of the Company.</definition>
-        <definition standardID="47b60bf6aebacc6c">“Intercompany Receivable” means, with respect to any Subsidiary of the Company, any amount owed to such Subsidiary by the Company.</definition>
-        <definition standardID="e52465f78d43e2d7">“IRS” means the Internal Revenue Service.</definition>
+        <definition standardID="93088121a441b278">
+          <text>“Exploit” means, with respect to Films, to release, reproduce and distribute, perform, display, exhibit, broadcast or telecast, license, or sell, market, create merchandising or otherwise commercially exploit by any and all known or new or future (a) technology, (b) uses, (c) media, (d) formats, (e) modes of transmission and (f) methods of distribution, dissemination or performance. The meaning of the term “Exploitation” shall be correlative to the foregoing.</text>
+        </definition>
+        <definition standardID="c3694b95c2e0966c">
+          <text>“Films” means motion pictures (including features, shorts and trailers), television, cable or satellite programming (including on-demand and pay-per-view programming), Internet programming, direct-to-video/DVD programming or other live action, animated, filmed, taped or recorded entertainment of any kind or nature, known now or in the future, and all components thereof, including titles, themes, content, dialogue, Characters, plots, concepts, scenarios, characterizations, elements and music (whether or not now known or recognized) as to which the Company or any of its Subsidiaries owns or controls any right, title or interest, including: (a) completed and released works or projects, (b) works or projects in any stage of progress, including works or projects in development and/or pre-production, in principal photography and/or post-production, and completed but not released as of the Closing Date, (c) “turnaround” works or projects, (d) Copyright and other Intellectual Property rights in and to the literary, dramatic and musical and other material associated with or related to or necessary to the Exploitation of the works or projects referred to in the foregoing clauses (a) through (c), (e) to the extent related to the works or projects referred to in the foregoing clauses (a) through (c), sequel, prequel and remake rights and other derivative production rights, including all novelization, merchandising, character, serialization, game and interactive rights, (f) all other allied, ancillary, subsidiary and derivative rights (including theme park rights), known and unknown, throughout the world related to the works and projects referenced in the foregoing clauses (a) through (e) and (g) all contractual and other rights associated with or related to such works or projects referenced in the foregoing clauses (a) through (e), whether in any media now known or hereafter developed.</text>
+        </definition>
+        <definition standardID="12024e80ae327bfd">
+          <text>“GAAP” means United States generally accepted accounting principles.</text>
+        </definition>
+        <definition standardID="3af35c84d74f202e">
+          <text>“Governmental Authority” means any national, supranational, federal, state, county, local or municipal government or any court or tribunal, regulatory or administrative agency, board or commission, arbitrator, arbitration tribunal or other governmental authority or instrumentality, domestic or foreign.</text>
+        </definition>
+        <definition standardID="3af35c84d74f202e">
+          <text>“Governmental Permit” means with respect to the Company or any of its Subsidiaries, any consent, license, permit, grant, or other authorization of a Governmental Authority.</text>
+        </definition>
+        <definition standardID="9667d46a700941de">
+          <text>“Grant Date” means, with respect to a Company Stock Option, the date on which the grant of such option was required by its terms to be effective.</text>
+        </definition>
+        <definition standardID="0857d2bc7dfa7467">
+          <text>“Hazardous Substance” means any pollutant, contaminant, hazardous substance, hazardous waste, medical waste, special waste, toxic substance, petroleum or petroleum-derived substance, waste or additive, asbestos, polychlorinated biphenyl (PCB), radioactive material, or other compound, element or substance in any form (including products) regulated, restricted or addressed by or under any Environmental Law.</text>
+        </definition>
+        <definition standardID="37eda8e87f558c04">
+          <text>“HSR Act” means the Hart-Scott-Rodino Antitrust Improvements Act of 1976.</text>
+        </definition>
+        <definition standardID="71f18a59b6a93d8b">
+          <text>“Incentive Plans” means the 2005 Stock Incentive Plan and the 1998 Stock Incentive Plan.</text>
+        </definition>
+        <definition standardID="47b60bf6aebacc6c">
+          <text>“Intercompany Payable” means, with respect to the Company, any amount owing by the Company to any Subsidiary of the Company.</text>
+        </definition>
+        <definition standardID="47b60bf6aebacc6c">
+          <text>“Intercompany Receivable” means, with respect to any Subsidiary of the Company, any amount owed to such Subsidiary by the Company.</text>
+        </definition>
+        <definition standardID="e52465f78d43e2d7">
+          <text>“IRS” means the Internal Revenue Service.</text>
+        </definition>
         <pageUUID>afb06b0c-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="8cda2561a05fa33f">“Knowledge of the Company” means the actual knowledge of the individuals listed on Section 1.1(b) of the Company Disclosure Letter.</definition>
-        <definition standardID="d3a0a4989c28a607">“Law” means all foreign, federal, state, local or municipal laws, statutes, ordinances, regulations and rules of any Governmental Authority, and all Orders.</definition>
-        <definition standardID="6d082bdf1f63d836">“Lee” means Mr. Stan Lee.</definition>
-        <definition standardID="6184901b4f4953cd">“Liabilities” means debts, liabilities, commitments and obligations, whether accrued or fixed, absolute or contingent, matured or unmatured, determined or determinable, known or unknown, asserted or unasserted, including those arising under any Law, Action or Order and those arising under any Contract.</definition>
-        <definition standardID="067c54a75345a1b7">“Library Films” means any and all Films that have been completed and/or acquired, delivered, and for which the Exploitation has commenced on or prior to the date of this Agreement, and any and all additional Films that have been completed and/or acquired, delivered, and for which the Exploitation has commenced after the date of this Agreement, but on or prior to the Closing Date. For the avoidance of doubt, the term “Library Films” shall include all Films other than Films In Progress.</definition>
-        <definition standardID="f02129d9d90e91a7">“Major Properties” means the Properties (including referenced families of characters) listed in Section 1.1(c) of the Company Disclosure Letter.</definition>
-        <definition standardID="f02129d9d90e91a7">“Major Properties Contracts” means all Contracts relating to the Major Properties.</definition>
-        <definition standardID="ca4ee24a2a51e9e4">“Material IP Contracts” means (a) all Contracts to which the Company or a Subsidiary is a party with royalty or other payments in excess of One Million Dollars ($1,000,000) per year during the immediately preceding fiscal year or with respect to which payments in any of the next three (3) succeeding fiscal years could, based on current projections, reasonably be expected to exceed One Million Dollars ($1,000,000) per year, (b) all exclusive license agreements to which the Company or a Subsidiary is a party, (c) all license agreements relating to Intellectual Property to which the Company or a Subsidiary is a party which expire on or after the date which is three (3) years after the date of this Agreement, (d) all licensing, distribution or sub-distribution agreements with respect to any theatrical motion picture, direct-to-video production or episodic made-for-television animation owned or controlled by the Company or any of its Subsidiaries, (e) all licensing, distribution or sub-distribution agreement to which the Company or a Subsidiary is a party with respect to theme parks, hotels and entertainment complexes and (f) all interactive (including video game, mobile, wireless) licensing, distribution or sub-distribution agreements to which the Company or a Subsidiary is a party.</definition>
-        <definition standardID="b94acfde3038aa31">“Merger Sub Common Stock” means the common stock, par value $0.01 per share, of Merger Sub.</definition>
-        <definition standardID="be8a83297d8236be">“NYSE” means the New York Stock Exchange.</definition>
-        <definition standardID="c770eb43cadcc66e">“Order” means any judgment, order, writ, award, preliminary or permanent injunction or decree of any Governmental Authority.</definition>
-        <definition standardID="cb08f10cb74a6a2d">“Parent Closing Date Share Price” means the lesser of (a) the closing price, (b) the average of the high and low sales prices and (c) the weighted average trading price of one share of Parent Common Stock on the Closing Date, as reported on the NYSE.</definition>
-        <definition standardID="fa9a7bb116418cc6">“Parent Common Stock” means the common stock, par value $0.01 per share, of Parent.</definition>
-        <definition standardID="639f9ef1b7e241da">“Parent Disclosure Letter” means the disclosure letter delivered by Parent and Merger Sub to the Company concurrently with the execution of this Agreement.</definition>
+        <definition standardID="8cda2561a05fa33f">
+          <text>“Knowledge of the Company” means the actual knowledge of the individuals listed on Section 1.1(b) of the Company Disclosure Letter.</text>
+        </definition>
+        <definition standardID="d3a0a4989c28a607">
+          <text>“Law” means all foreign, federal, state, local or municipal laws, statutes, ordinances, regulations and rules of any Governmental Authority, and all Orders.</text>
+        </definition>
+        <definition standardID="6d082bdf1f63d836">
+          <text>“Lee” means Mr. Stan Lee.</text>
+        </definition>
+        <definition standardID="6184901b4f4953cd">
+          <text>“Liabilities” means debts, liabilities, commitments and obligations, whether accrued or fixed, absolute or contingent, matured or unmatured, determined or determinable, known or unknown, asserted or unasserted, including those arising under any Law, Action or Order and those arising under any Contract.</text>
+        </definition>
+        <definition standardID="067c54a75345a1b7">
+          <text>“Library Films” means any and all Films that have been completed and/or acquired, delivered, and for which the Exploitation has commenced on or prior to the date of this Agreement, and any and all additional Films that have been completed and/or acquired, delivered, and for which the Exploitation has commenced after the date of this Agreement, but on or prior to the Closing Date. For the avoidance of doubt, the term “Library Films” shall include all Films other than Films In Progress.</text>
+        </definition>
+        <definition standardID="f02129d9d90e91a7">
+          <text>“Major Properties” means the Properties (including referenced families of characters) listed in Section 1.1(c) of the Company Disclosure Letter.</text>
+        </definition>
+        <definition standardID="f02129d9d90e91a7">
+          <text>“Major Properties Contracts” means all Contracts relating to the Major Properties.</text>
+        </definition>
+        <definition standardID="ca4ee24a2a51e9e4">
+          <text>“Material IP Contracts” means (a) all Contracts to which the Company or a Subsidiary is a party with royalty or other payments in excess of One Million Dollars ($1,000,000) per year during the immediately preceding fiscal year or with respect to which payments in any of the next three (3) succeeding fiscal years could, based on current projections, reasonably be expected to exceed One Million Dollars ($1,000,000) per year, (b) all exclusive license agreements to which the Company or a Subsidiary is a party, (c) all license agreements relating to Intellectual Property to which the Company or a Subsidiary is a party which expire on or after the date which is three (3) years after the date of this Agreement, (d) all licensing, distribution or sub-distribution agreements with respect to any theatrical motion picture, direct-to-video production or episodic made-for-television animation owned or controlled by the Company or any of its Subsidiaries, (e) all licensing, distribution or sub-distribution agreement to which the Company or a Subsidiary is a party with respect to theme parks, hotels and entertainment complexes and (f) all interactive (including video game, mobile, wireless) licensing, distribution or sub-distribution agreements to which the Company or a Subsidiary is a party.</text>
+        </definition>
+        <definition standardID="b94acfde3038aa31">
+          <text>“Merger Sub Common Stock” means the common stock, par value $0.01 per share, of Merger Sub.</text>
+        </definition>
+        <definition standardID="be8a83297d8236be">
+          <text>“NYSE” means the New York Stock Exchange.</text>
+        </definition>
+        <definition standardID="c770eb43cadcc66e">
+          <text>“Order” means any judgment, order, writ, award, preliminary or permanent injunction or decree of any Governmental Authority.</text>
+        </definition>
+        <definition standardID="cb08f10cb74a6a2d">
+          <text>“Parent Closing Date Share Price” means the lesser of (a) the closing price, (b) the average of the high and low sales prices and (c) the weighted average trading price of one share of Parent Common Stock on the Closing Date, as reported on the NYSE.</text>
+        </definition>
+        <definition standardID="fa9a7bb116418cc6">
+          <text>“Parent Common Stock” means the common stock, par value $0.01 per share, of Parent.</text>
+        </definition>
+        <definition standardID="639f9ef1b7e241da">
+          <text>“Parent Disclosure Letter” means the disclosure letter delivered by Parent and Merger Sub to the Company concurrently with the execution of this Agreement.</text>
+        </definition>
         <pageUUID>afb06f76-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="29cc606db84b6893">“Parent Material Adverse Effect” means any event, occurrence, fact, condition, change, development or effect that is materially adverse to the business, assets, properties, liabilities, results of operations or condition (financial or otherwise) of Parent and its Subsidiaries, taken as a whole, except to the extent that such event, occurrence, fact, condition, change, development or effect results from (a) general economic or political conditions or changes therein, (b) financial or security market fluctuations or conditions, (c) changes in, or events affecting, the industries in which Parent and its Subsidiaries operate, (d) any effect arising out of a change in GAAP or applicable Law, (e) actions taken pursuant to this Agreement or at the request of the Company, (f) any changes in the price or trading volume of Parent’s stock, in and of itself, (g) any failure by Parent to meet published or unpublished revenue or earning projections, in and of itself or (h) any legal claims or other proceedings made by any of Parent Stockholders (on their own behalf as Parent Stockholders or on behalf of Parent) arising out of or relating to this Agreement, in and of itself; provided, that (i) in the cases of clauses (a) through (c), any such event, occurrence, fact, condition, change, development or effect which disproportionately affects Parent and its Subsidiaries relative to other participants in the industries in which Parent or its Subsidiaries operate and (ii) in the case of clauses (f) through (h), the underlying cause of any such change or event, in each case of clauses (i) and (ii), shall not be excluded from the determination of whether there has been a Parent Material Adverse Effect.</definition>
-        <definition standardID="456638eea1521f0c">“Parent Preferred Stock” means the preferred stock, par value $0.01 per share, of Parent.</definition>
-        <definition standardID="9cafe36bb5f0e864">“Parent Signing Date Price” means $26.84.</definition>
-        <definition standardID="84ee69342f821635">“Permitted Encumbrances” means: (a) statutory Encumbrances for current Taxes or other payments that are not yet due and payable, (b) deposits or pledges made in connection with, or to secure payment of, workers’ compensation, unemployment insurance or similar programs mandated by applicable Law, and (c) statutory Encumbrances in favor of carriers, warehousemen, mechanics and materialmen, to secure claims for labor, materials or supplies and other like Encumbrances.</definition>
-        <definition standardID="b0e470147e4d35ca">“Person” means any individual, corporation, company, limited liability company, general or limited partnership, trust, estate, proprietorship, joint venture, association, organization, entity or Governmental Authority.</definition>
-        <definition standardID="b61c6ebb7b68016f">“Properties” means all Characters, Works and Films.</definition>
-        <definition standardID="c63b6676df2ecf21">“Proxy Statement” means the proxy statement/prospectus to be filed with the SEC as part of the Registration Statement.</definition>
-        <definition standardID="397e211440854102">“Registration Statement” means the registration statement on Form S-4 to be filed by Parent with the SEC in connection with the issuance of Parent Common Stock pursuant to the Merger.</definition>
-        <definition standardID="ab774e8e1a3b5b1f">“Regulations” means the Treasury Regulations (including Temporary Regulations) promulgated by the United States Department of Treasury with respect to the Code or other United States federal Tax statutes.</definition>
-        <definition standardID="b5c6294f8125ee48">“Release” means any release, pumping, pouring, emptying, injecting, escaping, leaching, migrating, dumping, seepage, spill, leak, flow, discharge or emission.</definition>
-        <definition standardID="7981d0ead65f0728">“Representatives” means, with respect to Parent or the Company or any of their Subsidiaries, financial advisors, legal counsel, financing sources, accountants or other advisors, agents or representatives.</definition>
-        <definition standardID="2d5b36bc4e67cbb1">“Rights Agreement” means the Rights Agreement, dated as of August 22, 2000, between the Company and American Stock Transfer &amp; Trust Company.</definition>
-        <definition standardID="b6e02f6242a1a0b0">“Sarbanes Act” means the Sarbanes-Oxley Act of 2002.</definition>
-        <definition standardID="90e5a112fef977b4">“SEC” means the Securities and Exchange Commission.</definition>
+        <definition standardID="29cc606db84b6893">
+          <text>“Parent Material Adverse Effect” means any event, occurrence, fact, condition, change, development or effect that is materially adverse to the business, assets, properties, liabilities, results of operations or condition (financial or otherwise) of Parent and its Subsidiaries, taken as a whole, except to the extent that such event, occurrence, fact, condition, change, development or effect results from (a) general economic or political conditions or changes therein, (b) financial or security market fluctuations or conditions, (c) changes in, or events affecting, the industries in which Parent and its Subsidiaries operate, (d) any effect arising out of a change in GAAP or applicable Law, (e) actions taken pursuant to this Agreement or at the request of the Company, (f) any changes in the price or trading volume of Parent’s stock, in and of itself, (g) any failure by Parent to meet published or unpublished revenue or earning projections, in and of itself or (h) any legal claims or other proceedings made by any of Parent Stockholders (on their own behalf as Parent Stockholders or on behalf of Parent) arising out of or relating to this Agreement, in and of itself; provided, that (i) in the cases of clauses (a) through (c), any such event, occurrence, fact, condition, change, development or effect which disproportionately affects Parent and its Subsidiaries relative to other participants in the industries in which Parent or its Subsidiaries operate and (ii) in the case of clauses (f) through (h), the underlying cause of any such change or event, in each case of clauses (i) and (ii), shall not be excluded from the determination of whether there has been a Parent Material Adverse Effect.</text>
+        </definition>
+        <definition standardID="456638eea1521f0c">
+          <text>“Parent Preferred Stock” means the preferred stock, par value $0.01 per share, of Parent.</text>
+        </definition>
+        <definition standardID="9cafe36bb5f0e864">
+          <text>“Parent Signing Date Price” means $26.84.</text>
+        </definition>
+        <definition standardID="84ee69342f821635">
+          <text>“Permitted Encumbrances” means: (a) statutory Encumbrances for current Taxes or other payments that are not yet due and payable, (b) deposits or pledges made in connection with, or to secure payment of, workers’ compensation, unemployment insurance or similar programs mandated by applicable Law, and (c) statutory Encumbrances in favor of carriers, warehousemen, mechanics and materialmen, to secure claims for labor, materials or supplies and other like Encumbrances.</text>
+        </definition>
+        <definition standardID="b0e470147e4d35ca">
+          <text>“Person” means any individual, corporation, company, limited liability company, general or limited partnership, trust, estate, proprietorship, joint venture, association, organization, entity or Governmental Authority.</text>
+        </definition>
+        <definition standardID="b61c6ebb7b68016f">
+          <text>“Properties” means all Characters, Works and Films.</text>
+        </definition>
+        <definition standardID="c63b6676df2ecf21">
+          <text>“Proxy Statement” means the proxy statement/prospectus to be filed with the SEC as part of the Registration Statement.</text>
+        </definition>
+        <definition standardID="397e211440854102">
+          <text>“Registration Statement” means the registration statement on Form S-4 to be filed by Parent with the SEC in connection with the issuance of Parent Common Stock pursuant to the Merger.</text>
+        </definition>
+        <definition standardID="ab774e8e1a3b5b1f">
+          <text>“Regulations” means the Treasury Regulations (including Temporary Regulations) promulgated by the United States Department of Treasury with respect to the Code or other United States federal Tax statutes.</text>
+        </definition>
+        <definition standardID="b5c6294f8125ee48">
+          <text>“Release” means any release, pumping, pouring, emptying, injecting, escaping, leaching, migrating, dumping, seepage, spill, leak, flow, discharge or emission.</text>
+        </definition>
+        <definition standardID="7981d0ead65f0728">
+          <text>“Representatives” means, with respect to Parent or the Company or any of their Subsidiaries, financial advisors, legal counsel, financing sources, accountants or other advisors, agents or representatives.</text>
+        </definition>
+        <definition standardID="2d5b36bc4e67cbb1">
+          <text>“Rights Agreement” means the Rights Agreement, dated as of August 22, 2000, between the Company and American Stock Transfer &amp; Trust Company.</text>
+        </definition>
+        <definition standardID="b6e02f6242a1a0b0">
+          <text>“Sarbanes Act” means the Sarbanes-Oxley Act of 2002.</text>
+        </definition>
+        <definition standardID="90e5a112fef977b4">
+          <text>“SEC” means the Securities and Exchange Commission.</text>
+        </definition>
         <pageUUID>afb07638-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="70ee2b7c25af1529">“Securities Act” means the Securities Act of 1933.</definition>
-        <definition standardID="a7730ae3a47c5805">“Software” means all computer programs, code, and related documentation and materials (including Internet Web sites and Intranet sites), including programs, tools, operating system programs, application software, system software, databases, firmware and middleware, including the source and object code versions thereof, in any and all forms and media, and all documentation, user manuals, training materials and development materials related to the foregoing.</definition>
-        <definition standardID="acf26aa6537ca6e1">“Subsidiary” means, with respect to any Person, any corporation, general or limited partnership, limited liability company, joint venture or other entity in which such Person (a) owns, directly or indirectly, fifty percent (50%) or more of the outstanding voting securities, equity securities, profits interest or capital interest, (b) is entitled to elect at least one-half of the board of directors or similar governing body or (c) in the case of a limited partnership or limited liability company, is a general partner or managing member and has the power to direct the policies, management and affairs of such entity, respectively.</definition>
-        <definition standardID="5381b58174a51b09">“Superior Proposal” means a bona fide written Alternative Transaction Proposal which the Board of Directors of the Company determines in good faith, (after consultation with its outside legal counsel and an independent financial advisor of nationally recognized reputation), taking into account all legal, financial, regulatory, timing and other aspects of the proposal and the Person making the proposal, that (a) is reasonably likely to be consummated on the terms proposed, (b) to the extent financing is required, such financing is then fully committed or reasonably capable of being obtained, (c) the per-share consideration offered is greater than the Merger Consideration and (d) is otherwise on terms that the Board of Directors of the Company has determined superior to the transaction contemplated by this Agreement; provided, however, that for purposes of this definition of “Superior Proposal,” the term Alternative Transaction Proposal shall have the meaning assigned to such term herein, except that all references to “twenty percent (20%)” in the definition of “Alternative Transaction” when it is used in the definition of Alternative Transaction Proposal shall be deemed to be a reference to “fifty percent (50%)”.</definition>
-        <text>“Tax” (and, with correlative meaning, “Taxes”) means (a) any net income, alternative or add-on minimum tax, estimated, gross income, gross receipts, sales, use, ad valorem, transfer, franchise, profits, license, withholding, payroll, employment, excise, severance, stamp, occupation, premium, property, environmental or windfall profit tax, custom duty or other tax, governmental fee or other like assessment or charge of any kind whatsoever, (b) any Liability pursuant to Section 1.1502-6 of the Regulations or comparable provisions of state, local or foreign Tax Law, any obligations under any Contract with any Person with respect to the Liability for, or sharing of, Taxes (including pursuant to Section 1.1502-6 of the Regulations or comparable provisions of state, local or foreign Tax Law) and any Liability for Taxes as a transferee or successor, by Contract, indemnity or otherwise and (c) all interest, penalties, fines, additions to Tax, deficiency assessments or additional amounts imposed by any Tax Authority or other Governmental Authority in connection with any item described in clauses (a) and (b).</text>
-        <definition standardID="62cc55fab7add61c">“Tax Authority” means any Governmental Authority charged with the administration of any Tax Law.</definition>
-        <definition standardID="fae853d4ea6c3b58">“Tax Law” means any applicable Law relating to Taxes.</definition>
-        <definition standardID="a708f83a2fd82bd5">“Tax Return” means any returns, declarations, reports, estimates, information returns and statements in respect of any Taxes (including any schedules or attachments thereto or amendments thereof).</definition>
-        <definition standardID="24380219a7e6857f">“Total Stock Consideration” means the product of the Parent Closing Date Share Price multiplied by the aggregate number of shares of Parent Common Stock to be issued pursuant to this Agreement (other than pursuant to Section 2.6(a)).</definition>
-        <definition standardID="f14cd2d01148fcbd">“Use” means to use, reproduce, prepare derivative works based upon, distribute, perform, display, make, have made, sell, license, sublicense and otherwise exploit.</definition>
+        <definition standardID="70ee2b7c25af1529">
+          <text>“Securities Act” means the Securities Act of 1933.</text>
+        </definition>
+        <definition standardID="a7730ae3a47c5805">
+          <text>“Software” means all computer programs, code, and related documentation and materials (including Internet Web sites and Intranet sites), including programs, tools, operating system programs, application software, system software, databases, firmware and middleware, including the source and object code versions thereof, in any and all forms and media, and all documentation, user manuals, training materials and development materials related to the foregoing.</text>
+        </definition>
+        <definition standardID="acf26aa6537ca6e1">
+          <text>“Subsidiary” means, with respect to any Person, any corporation, general or limited partnership, limited liability company, joint venture or other entity in which such Person (a) owns, directly or indirectly, fifty percent (50%) or more of the outstanding voting securities, equity securities, profits interest or capital interest, (b) is entitled to elect at least one-half of the board of directors or similar governing body or (c) in the case of a limited partnership or limited liability company, is a general partner or managing member and has the power to direct the policies, management and affairs of such entity, respectively.</text>
+        </definition>
+        <definition standardID="5381b58174a51b09">
+          <text>“Superior Proposal” means a bona fide written Alternative Transaction Proposal which the Board of Directors of the Company determines in good faith, (after consultation with its outside legal counsel and an independent financial advisor of nationally recognized reputation), taking into account all legal, financial, regulatory, timing and other aspects of the proposal and the Person making the proposal, that (a) is reasonably likely to be consummated on the terms proposed, (b) to the extent financing is required, such financing is then fully committed or reasonably capable of being obtained, (c) the per-share consideration offered is greater than the Merger Consideration and (d) is otherwise on terms that the Board of Directors of the Company has determined superior to the transaction contemplated by this Agreement; provided, however, that for purposes of this definition of “Superior Proposal,” the term Alternative Transaction Proposal shall have the meaning assigned to such term herein, except that all references to “twenty percent (20%)” in the definition of “Alternative Transaction” when it is used in the definition of Alternative Transaction Proposal shall be deemed to be a reference to “fifty percent (50%)”.</text>
+        </definition>
+        <definition standardID="15308ef6ac224f29">
+          <text>“Tax” (and, with correlative meaning, “Taxes”) means (a) any net income, alternative or add-on minimum tax, estimated, gross income, gross receipts, sales, use, ad valorem, transfer, franchise, profits, license, withholding, payroll, employment, excise, severance, stamp, occupation, premium, property, environmental or windfall profit tax, custom duty or other tax, governmental fee or other like assessment or charge of any kind whatsoever, (b) any Liability pursuant to Section 1.1502-6 of the Regulations or comparable provisions of state, local or foreign Tax Law, any obligations under any Contract with any Person with respect to the Liability for, or sharing of, Taxes (including pursuant to Section 1.1502-6 of the Regulations or comparable provisions of state, local or foreign Tax Law) and any Liability for Taxes as a transferee or successor, by Contract, indemnity or otherwise and (c) all interest, penalties, fines, additions to Tax, deficiency assessments or additional amounts imposed by any Tax Authority or other Governmental Authority in connection with any item described in clauses (a) and (b).</text>
+        </definition>
+        <definition standardID="62cc55fab7add61c">
+          <text>“Tax Authority” means any Governmental Authority charged with the administration of any Tax Law.</text>
+        </definition>
+        <definition standardID="fae853d4ea6c3b58">
+          <text>“Tax Law” means any applicable Law relating to Taxes.</text>
+        </definition>
+        <definition standardID="a708f83a2fd82bd5">
+          <text>“Tax Return” means any returns, declarations, reports, estimates, information returns and statements in respect of any Taxes (including any schedules or attachments thereto or amendments thereof).</text>
+        </definition>
+        <definition standardID="24380219a7e6857f">
+          <text>“Total Stock Consideration” means the product of the Parent Closing Date Share Price multiplied by the aggregate number of shares of Parent Common Stock to be issued pursuant to this Agreement (other than pursuant to Section 2.6(a)).</text>
+        </definition>
+        <definition standardID="f14cd2d01148fcbd">
+          <text>“Use” means to use, reproduce, prepare derivative works based upon, distribute, perform, display, make, have made, sell, license, sublicense and otherwise exploit.</text>
+        </definition>
         <pageUUID>afb07a34-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="56c88c794c8a97b4">“Works” means all books, titles, scripts, storyboards and other works (including drafts and manuscripts, whether or not published) and publications, including comic books, as well as all derivative works based thereon in all media, whether existing now or in the future.</definition>
+        <definition standardID="56c88c794c8a97b4">
+          <text>“Works” means all books, titles, scripts, storyboards and other works (including drafts and manuscripts, whether or not published) and publications, including comic books, as well as all derivative works based thereon in all media, whether existing now or in the future.</text>
+        </definition>
       </section>
       <section title="1.2 Additional Definitions." order="2" standardId="a3315f05e6460096">
         <text>Other capitalized terms defined elsewhere in this Agreement and not defined in this Article I shall have the meanings assigned to such terms in this Agreement in the sections set forth below.</text>

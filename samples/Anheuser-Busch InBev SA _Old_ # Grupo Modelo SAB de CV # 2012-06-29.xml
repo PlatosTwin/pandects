@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <document uuid="ac77e1a4-769c-548e-8aea-6ffb6fd7e77a">
   <metadata>
     <acquirer>Anheuser-Busch InBev SA /Old/</acquirer>
@@ -28,69 +28,181 @@
     <article title="ARTICLE 1 DEFINITIONS AND INTERPRETATION" standardId="2642cfbca44922d6">
       <section title="Section 1.01 Definitions." order="1" standardId="a3315f05e6460096">
         <text>The following terms, as used herein, have the following meanings:</text>
-        <definition standardID="6fe6468b6e17a817">“1933 Act” means the U.S. Securities Act of 1933.</definition>
-        <definition standardID="7bd27ff0e4009a86">“1934 Act” means the U.S. Securities Exchange Act of 1934.</definition>
-        <definition standardID="6ac95f89defd0a11">“Acquisition Proposal” means, other than the transactions contemplated by this Agreement and the DIFA Merger Agreement, any bona fide proposal or offer made by any Person or group of Persons for or with respect to (i) a merger, reorganization, share exchange, consolidation, business combination, recapitalization, dissolution, liquidation or similar</definition>
-        <pageUUID>ea3e376e-4a0e-11f0-8d00-be44a5e954c9</pageUUID>
-        <text>transaction involving the Company or any Subsidiary of the Company, (ii) the direct or indirect acquisition in a single transaction or series of related transactions by any Person of all or substantially all of the assets of the Company or any Subsidiary of the Company, (iii) the direct or indirect acquisition in a single transaction or series of related transactions by any Person of ten percent (10%) or more of the outstanding shares of capital stock of the Company or the direct or indirect acquisition in a single transaction or series of related transactions by any Person of assets of the Company or any Subsidiary of the Company (including capital stock) that represent ten percent (10%) or more of the assets, revenues or net income of the Company and its Subsidiaries, taken as a whole, or (iv) any tender offer or exchange offer that if consummated would result in any Person beneficially owning ten percent (10%) or more of the capital stock of the Company or any Subsidiary of the Company then outstanding. For purposes of clauses (i), (ii) and (iv) of this definition, “Subsidiary of the Company” shall refer only to any Subsidiary of the Company which holds assets or has revenues or net income, in each case representing ten percent (10%) or more of the assets, revenues or net income of the Company and its Subsidiaries, taken as a whole.</text>
-        <definition standardID="1198c4a699797a12">“Affiliate” means, with respect to any Person, any other Person directly or indirectly controlling, controlled by or under common control with such first Person, including all Subsidiaries of such first Person. Notwithstanding the foregoing, for purposes of this Agreement, (a) none of the Company or any of its Affiliates (excluding ABI and its Affiliates) shall be deemed to be “Affiliates” of ABI or any of its Affiliates (excluding the Company and its Affiliates), (b) none of ABI or any of its Affiliates (excluding the Company and its Affiliates) shall be deemed to be “Affiliates” of the Company or any of its Affiliates (excluding ABI and its Affiliates) and (c) none of the Joint Ventures, DIFA or any of their respective controlled Affiliates shall be deemed to be “Affiliates” of the Company, Diblo, ABI or any of their respective Affiliates (excluding the Joint Ventures, DIFA and their respective controlled Affiliates).</definition>
-        <definition standardID="6cfe91c9414f2d7d">“ABI Material Adverse Effect” means any change, effect or circumstance that would reasonably be expected to prevent or materially delay the consummation of the transactions contemplated by this Agreement.</definition>
-        <definition standardID="92de6de35c7ae8b4">“Antitrust Laws” means the HSR Act, the Clayton Act of 1914, the Sherman Antitrust Act of 1890, the Federal Trade Commission Act, the Federal Economic Competition Law (Ley Federal de Competencia Económica) of Mexico and any other United States, Mexican, Belgian or other foreign, supranational, federal or state Laws that are designed to prohibit, restrict or regulate actions having the purpose or effect of monopolization or restraint of trade, including any applicable merger control rules.</definition>
-        <definition standardID="011697d17a28559c">“BMV” or “Mexican Stock Exchange” means the Bolsa Mexicana de Valores, S.A.B. de C.V.</definition>
-        <definition standardID="a5200bdd4f9d84cd">“Business Day” means a day other than Saturday, Sunday or a day on which commercial banks in New York, New York, Mexico City, Mexico or Brussels, Belgium are required by law to close.</definition>
+        <definition standardID="6fe6468b6e17a817">
+          <text>“1933 Act” means the U.S. Securities Act of 1933.</text>
+        </definition>
+        <definition standardID="7bd27ff0e4009a86">
+          <text>“1934 Act” means the U.S. Securities Exchange Act of 1934.</text>
+        </definition>
+        <definition standardID="6ac95f89defd0a11">
+          <text>“Acquisition Proposal” means, other than the transactions contemplated by this Agreement and the DIFA Merger Agreement, any bona fide proposal or offer made by any Person or group of Persons for or with respect to (i) a merger, reorganization, share exchange, consolidation, business combination, recapitalization, dissolution, liquidation or similar</text>
+          <pageUUID>ea3e376e-4a0e-11f0-8d00-be44a5e954c9</pageUUID>
+          <text>transaction involving the Company or any Subsidiary of the Company, (ii) the direct or indirect acquisition in a single transaction or series of related transactions by any Person of all or substantially all of the assets of the Company or any Subsidiary of the Company, (iii) the direct or indirect acquisition in a single transaction or series of related transactions by any Person of ten percent (10%) or more of the outstanding shares of capital stock of the Company or the direct or indirect acquisition in a single transaction or series of related transactions by any Person of assets of the Company or any Subsidiary of the Company (including capital stock) that represent ten percent (10%) or more of the assets, revenues or net income of the Company and its Subsidiaries, taken as a whole, or (iv) any tender offer or exchange offer that if consummated would result in any Person beneficially owning ten percent (10%) or more of the capital stock of the Company or any Subsidiary of the Company then outstanding. For purposes of clauses (i), (ii) and (iv) of this definition, “Subsidiary of the Company” shall refer only to any Subsidiary of the Company which holds assets or has revenues or net income, in each case representing ten percent (10%) or more of the assets, revenues or net income of the Company and its Subsidiaries, taken as a whole.</text>
+        </definition>
+        <definition standardID="1198c4a699797a12">
+          <text>“Affiliate” means, with respect to any Person, any other Person directly or indirectly controlling, controlled by or under common control with such first Person, including all Subsidiaries of such first Person. Notwithstanding the foregoing, for purposes of this Agreement, (a) none of the Company or any of its Affiliates (excluding ABI and its Affiliates) shall be deemed to be “Affiliates” of ABI or any of its Affiliates (excluding the Company and its Affiliates), (b) none of ABI or any of its Affiliates (excluding the Company and its Affiliates) shall be deemed to be “Affiliates” of the Company or any of its Affiliates (excluding ABI and its Affiliates) and (c) none of the Joint Ventures, DIFA or any of their respective controlled Affiliates shall be deemed to be “Affiliates” of the Company, Diblo, ABI or any of their respective Affiliates (excluding the Joint Ventures, DIFA and their respective controlled Affiliates).</text>
+        </definition>
+        <definition standardID="6cfe91c9414f2d7d">
+          <text>“ABI Material Adverse Effect” means any change, effect or circumstance that would reasonably be expected to prevent or materially delay the consummation of the transactions contemplated by this Agreement.</text>
+        </definition>
+        <definition standardID="92de6de35c7ae8b4">
+          <text>“Antitrust Laws” means the HSR Act, the Clayton Act of 1914, the Sherman Antitrust Act of 1890, the Federal Trade Commission Act, the Federal Economic Competition Law (Ley Federal de Competencia Económica) of Mexico and any other United States, Mexican, Belgian or other foreign, supranational, federal or state Laws that are designed to prohibit, restrict or regulate actions having the purpose or effect of monopolization or restraint of trade, including any applicable merger control rules.</text>
+        </definition>
+        <definition standardID="011697d17a28559c">
+          <text>“BMV” or “Mexican Stock Exchange” means the Bolsa Mexicana de Valores, S.A.B. de C.V.</text>
+        </definition>
+        <definition standardID="a5200bdd4f9d84cd">
+          <text>“Business Day” means a day other than Saturday, Sunday or a day on which commercial banks in New York, New York, Mexico City, Mexico or Brussels, Belgium are required by law to close.</text>
+        </definition>
         <pageUUID>ea3e394e-4a0e-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="f2c898f2bdb162d4">“Charter Documents” of any Person means the articles of incorporation, bylaws, partnership agreement, limited liability company agreement, trust agreement or other constitutive documents, as applicable, of such Person.</definition>
-        <definition standardID="8fd1fd44b8a0dad7">“CNBV” means the Comisión Nacional Bancaria y de Valores of Mexico.</definition>
-        <definition standardID="157cf7f97ce83913">“Company Benefit Plans” means any bonus, pension, profit sharing, deferred compensation, incentive compensation, stock ownership, stock purchase, stock option, phantom stock, retirement, severance, termination or change in control plan, program or arrangement providing compensation and benefits to any current or former employee, officer or director of the Company or any of its Subsidiaries.</definition>
-        <definition standardID="bf52234cf490e0b1">“Company Disclosure Schedule” means the disclosure schedule of the Company and Diblo delivered to ABI, ABI Holdings and ABI Sub immediately prior to the execution of this Agreement.</definition>
-        <definition standardID="cfbc705a19a3d042">“Company Material Adverse Effect” means a Material Adverse Effect on the Company and its Subsidiaries, as a whole.</definition>
-        <definition standardID="c17829f0326bad47">“Company Series A Shares” means the shares of Series A voting capital stock, no par value per share, of the Company.</definition>
-        <definition standardID="c17829f0326bad47">“Company Series B Shares” means the shares of Series B voting capital stock, no par value per share, of the Company.</definition>
-        <definition standardID="c17829f0326bad47">“Company Series C Non-Voting Shares” means the shares of Series C non-voting capital stock, no par value per share, of the Company.</definition>
-        <definition standardID="c17829f0326bad47">“Company Series C Shares” means the shares of Series C voting capital stock, no par value per share, of the Company that shall exist following the Share Restructuring, (i) into which the Company Series C Non-Voting Shares will be redenominated and for which the Company Series A Shares will be exchanged, in each case pursuant to the Share Restructuring, (ii) for which the portion of the capital stock of Diblo owned by ABI Holdings will be exchanged as of the Effective Time and (iii) for which the shares of capital stock of DIFA not owned by Diblo will be exchanged as of the effectiveness of the DIFA Merger.</definition>
-        <definition standardID="dbf182ea0f515b45">“Company Shares” means, from time to time, all outstanding shares of capital stock of the Company not owned directly or indirectly by ABI.</definition>
-        <definition standardID="cfb1b1ac11bbeb2e">“Company Stock Purchase Plan” means the Plan de Compra de Acciones para Ejecutivos de Modelo as applied in accordance with the Política de Designación y Retribución Integral a Directivos Relevantes that was approved by the board of directors of the Company prior to the date of this Agreement.</definition>
-        <definition standardID="969054151aeb5eea">“Confidentiality Agreement” means the letter agreement, dated as of March 20, 2012, as amended from time to time, by and between ABI and the Company.</definition>
+        <definition standardID="f2c898f2bdb162d4">
+          <text>“Charter Documents” of any Person means the articles of incorporation, bylaws, partnership agreement, limited liability company agreement, trust agreement or other constitutive documents, as applicable, of such Person.</text>
+        </definition>
+        <definition standardID="8fd1fd44b8a0dad7">
+          <text>“CNBV” means the Comisión Nacional Bancaria y de Valores of Mexico.</text>
+        </definition>
+        <definition standardID="157cf7f97ce83913">
+          <text>“Company Benefit Plans” means any bonus, pension, profit sharing, deferred compensation, incentive compensation, stock ownership, stock purchase, stock option, phantom stock, retirement, severance, termination or change in control plan, program or arrangement providing compensation and benefits to any current or former employee, officer or director of the Company or any of its Subsidiaries.</text>
+        </definition>
+        <definition standardID="bf52234cf490e0b1">
+          <text>“Company Disclosure Schedule” means the disclosure schedule of the Company and Diblo delivered to ABI, ABI Holdings and ABI Sub immediately prior to the execution of this Agreement.</text>
+        </definition>
+        <definition standardID="cfbc705a19a3d042">
+          <text>“Company Material Adverse Effect” means a Material Adverse Effect on the Company and its Subsidiaries, as a whole.</text>
+        </definition>
+        <definition standardID="c17829f0326bad47">
+          <text>“Company Series A Shares” means the shares of Series A voting capital stock, no par value per share, of the Company.</text>
+        </definition>
+        <definition standardID="c17829f0326bad47">
+          <text>“Company Series B Shares” means the shares of Series B voting capital stock, no par value per share, of the Company.</text>
+        </definition>
+        <definition standardID="c17829f0326bad47">
+          <text>“Company Series C Non-Voting Shares” means the shares of Series C non-voting capital stock, no par value per share, of the Company.</text>
+        </definition>
+        <definition standardID="c17829f0326bad47">
+          <text>“Company Series C Shares” means the shares of Series C voting capital stock, no par value per share, of the Company that shall exist following the Share Restructuring, (i) into which the Company Series C Non-Voting Shares will be redenominated and for which the Company Series A Shares will be exchanged, in each case pursuant to the Share Restructuring, (ii) for which the portion of the capital stock of Diblo owned by ABI Holdings will be exchanged as of the Effective Time and (iii) for which the shares of capital stock of DIFA not owned by Diblo will be exchanged as of the effectiveness of the DIFA Merger.</text>
+        </definition>
+        <definition standardID="dbf182ea0f515b45">
+          <text>“Company Shares” means, from time to time, all outstanding shares of capital stock of the Company not owned directly or indirectly by ABI.</text>
+        </definition>
+        <definition standardID="cfb1b1ac11bbeb2e">
+          <text>“Company Stock Purchase Plan” means the Plan de Compra de Acciones para Ejecutivos de Modelo as applied in accordance with the Política de Designación y Retribución Integral a Directivos Relevantes that was approved by the board of directors of the Company prior to the date of this Agreement.</text>
+        </definition>
+        <definition standardID="969054151aeb5eea">
+          <text>“Confidentiality Agreement” means the letter agreement, dated as of March 20, 2012, as amended from time to time, by and between ABI and the Company.</text>
+        </definition>
         <pageUUID>ea3e3ad4-4a0e-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="ce1936e43a099772">“Contract” means any agreement, contract, subcontract, settlement agreement, lease, sublease, binding understanding, instrument, note, option, bond, mortgage, indenture, trust document, loan or credit agreement, purchase order, license, sublicense, insurance policy, benefit plan or legally binding commitment or undertaking of any nature, whether oral, executed in writing, or otherwise.</definition>
-        <definition standardID="5a61a958385e3947">“Crown Agreements” means the Importer Agreement, dated as of January 2, 2007, by and between EXT and Crown JV, and any other agreements between or among the Company, EXT, Crown JV or any of their Affiliates.</definition>
-        <definition standardID="566a0b860d2799f3">“Crown JV” means Crown Imports LLC.</definition>
-        <definition standardID="bc39065f594efcdd">“EXT” means Extrade II, S.A. de C.V.</definition>
-        <definition standardID="120983552693baea">“EXT Agreement” means the letter agreement, dated as of the date hereof (and without giving effect to any amendments after the date hereof), by and among Carlos Fernández González, Juan Sánchez Navarro Redo and the Company.</definition>
-        <definition standardID="c2ccdd6eb9f8a9e9">“General Issuers Rules” means the General Rules Applicable to Securities Issuers and to Other Participants of the Securities Market (Disposiciones de Carácter General Aplicables a las Emisoras de Valores y a Otros Participantes del Mercado de Valores) issued by the CNBV, as amended.</definition>
-        <definition standardID="4d4d8fe85f14b8ac">“Gondi Supply Agreement” means the supply agreement, dated as of the date hereof (and without giving effect to any amendments after the date hereof), by and among GONDI, S.A. de C.V., the Company and certain Subsidiaries of the Company.</definition>
-        <definition standardID="3af35c84d74f202e">“Governmental Authority” means any branch of power of any state, whether legislative, executive, administrative or judicial, or any governmental, administrative or regulatory body, agency, bureau, official or authority, any court, tribunal or arbitrator and any governmental or financial industry self-regulatory organization, in each case, whether Mexican, United States, Belgian, national, supranational (including the European Union) or other.</definition>
-        <definition standardID="37eda8e87f558c04">“HSR Act” means the U.S. Hart-Scott-Rodino Antitrust Improvements Act of 1976.</definition>
-        <definition standardID="ef8a5acb4f959989">“IFRS” means International Financial Reporting Standards as issued by the International Accounting Standards Board from time to time.</definition>
-        <definition standardID="0b37c1e44f097705">“Indeval” means S.D. Indeval Institución para el Depósito de Valores, S.A. de C.V., the central securities depository for the Mexican Stock Exchange.</definition>
-        <definition standardID="1e85ed8f06deb27b">“Investment Agreement” means the investment agreement, dated June 16, 1993, as amended, by and among Anheuser-Busch Companies, LLC (formerly Anheuser-Busch Companies, Inc.), a Delaware limited liability company, Anheuser-Busch International, Inc., a Delaware corporation, ABI Holdings, the Company, Diblo and certain other parties thereto.</definition>
+        <definition standardID="ce1936e43a099772">
+          <text>“Contract” means any agreement, contract, subcontract, settlement agreement, lease, sublease, binding understanding, instrument, note, option, bond, mortgage, indenture, trust document, loan or credit agreement, purchase order, license, sublicense, insurance policy, benefit plan or legally binding commitment or undertaking of any nature, whether oral, executed in writing, or otherwise.</text>
+        </definition>
+        <definition standardID="5a61a958385e3947">
+          <text>“Crown Agreements” means the Importer Agreement, dated as of January 2, 2007, by and between EXT and Crown JV, and any other agreements between or among the Company, EXT, Crown JV or any of their Affiliates.</text>
+        </definition>
+        <definition standardID="566a0b860d2799f3">
+          <text>“Crown JV” means Crown Imports LLC.</text>
+        </definition>
+        <definition standardID="bc39065f594efcdd">
+          <text>“EXT” means Extrade II, S.A. de C.V.</text>
+        </definition>
+        <definition standardID="120983552693baea">
+          <text>“EXT Agreement” means the letter agreement, dated as of the date hereof (and without giving effect to any amendments after the date hereof), by and among Carlos Fernández González, Juan Sánchez Navarro Redo and the Company.</text>
+        </definition>
+        <definition standardID="c2ccdd6eb9f8a9e9">
+          <text>“General Issuers Rules” means the General Rules Applicable to Securities Issuers and to Other Participants of the Securities Market (Disposiciones de Carácter General Aplicables a las Emisoras de Valores y a Otros Participantes del Mercado de Valores) issued by the CNBV, as amended.</text>
+        </definition>
+        <definition standardID="4d4d8fe85f14b8ac">
+          <text>“Gondi Supply Agreement” means the supply agreement, dated as of the date hereof (and without giving effect to any amendments after the date hereof), by and among GONDI, S.A. de C.V., the Company and certain Subsidiaries of the Company.</text>
+        </definition>
+        <definition standardID="3af35c84d74f202e">
+          <text>“Governmental Authority” means any branch of power of any state, whether legislative, executive, administrative or judicial, or any governmental, administrative or regulatory body, agency, bureau, official or authority, any court, tribunal or arbitrator and any governmental or financial industry self-regulatory organization, in each case, whether Mexican, United States, Belgian, national, supranational (including the European Union) or other.</text>
+        </definition>
+        <definition standardID="37eda8e87f558c04">
+          <text>“HSR Act” means the U.S. Hart-Scott-Rodino Antitrust Improvements Act of 1976.</text>
+        </definition>
+        <definition standardID="ef8a5acb4f959989">
+          <text>“IFRS” means International Financial Reporting Standards as issued by the International Accounting Standards Board from time to time.</text>
+        </definition>
+        <definition standardID="0b37c1e44f097705">
+          <text>“Indeval” means S.D. Indeval Institución para el Depósito de Valores, S.A. de C.V., the central securities depository for the Mexican Stock Exchange.</text>
+        </definition>
+        <definition standardID="1e85ed8f06deb27b">
+          <text>“Investment Agreement” means the investment agreement, dated June 16, 1993, as amended, by and among Anheuser-Busch Companies, LLC (formerly Anheuser-Busch Companies, Inc.), a Delaware limited liability company, Anheuser-Busch International, Inc., a Delaware corporation, ABI Holdings, the Company, Diblo and certain other parties thereto.</text>
+        </definition>
         <pageUUID>ea3e8ce6-4a0e-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="246207d922b97fd5">“Joint Ventures” means Modelo Molson Imports LP, Modelo Molson Imports Ltd, International CO2 Extraction LLC, Integrow Malt LLC, Manantiales la Asunción, S.A.P.I. de C.V., Crown JV or any of their respective Subsidiaries.</definition>
-        <definition standardID="07ee285e092e383a">“knowledge” means actual knowledge after reasonable due inquiry of a Person and, with respect to any Person that is not an individual, actual knowledge after reasonable due inquiry of such Person’s executive officers.</definition>
-        <definition standardID="d3a0a4989c28a607">“Law” means any United States, Mexican, Belgian or other domestic or foreign, federal, state, local or municipal statute, law, ordinance, rule, administrative code, administrative interpretation, regulation, order, writ, injunction, directive, judgment, decree, promulgated policy, decision or other requirement of any Governmental Authority.</definition>
-        <definition standardID="f43d56bbfaf177fb">“LIBOR” means the display rate per annum of the offered quotation for deposits in dollars for a period of three (3) months which appears on the appropriate page of the Reuters Screen (or such other page as the parties may agree) at or about 11.00 a.m. London time on the date on which payment of the applicable sum under this Agreement was due but not paid.</definition>
-        <definition standardID="4d91d1f8124c2d5c">“Lien” means, with respect to any property or asset, any mortgage, lien, pledge, charge, security interest, or encumbrance or other adverse claim of any kind in respect of such property or asset. For purposes of this Agreement, a Person shall be deemed to own subject to a Lien any property or asset that it has acquired or holds subject to the interest of a vendor or lessor under any conditional sale agreement, capital lease or other title retention agreement relating to such property or asset.</definition>
-        <definition standardID="40d55cec7c99475d">“LMV” means Mexico’s Securities Market Law (Ley del Mercado de Valores).</definition>
-        <definition standardID="32d9b79490f77899">“Material Adverse Effect” means, with respect to any party, any change, effect or circumstance that is materially adverse to the business, results of operations or financial condition of such party and its Subsidiaries taken as a whole, in each case, other than and without taking into account any change, effect, development or circumstance relating to or resulting from (i) changes in general political or economic conditions; (ii) changes in general financial or securities markets conditions (including changes in exchange rates, commodities markets, exchange controls, monetary policy and inflation); (iii) any event, circumstance, change or effect that affects the industry or industries in which such party operates generally; (iv) any changes in Laws or interpretations thereof applicable to or affecting the party or its Subsidiaries or any of their respective properties or assets; (v) any changes in IFRS, Mexican GAAP or other accounting principles or requirements; (vi) any outbreak or escalation of hostilities or war or any act of terrorism, or any natural disaster or other calamity; (vii) the announcement or the existence of this Agreement and the transactions contemplated hereby, including any related or resulting loss of or change in relationship with any customer, supplier, distributor or other business partner, or departure of any employee or officer, or any litigation or other proceeding; (viii) any decline in the market price, or change in trading volume, of the capital stock of such party; (ix) any failure to meet any internal or public projections, forecasts or estimates of earnings or revenue (provided, however, that, in the case of this clause (ix), the underlying cause for such failure may be considered in determining whether there may be a Material Adverse Effect); or (x) compliance with the terms of, or the taking of any action permitted, contemplated or required by, or the not-taking of any action prohibited by, this Agreement, or the taking or not-taking of any such action with the prior written consent of the other parties hereto.</definition>
+        <definition standardID="246207d922b97fd5">
+          <text>“Joint Ventures” means Modelo Molson Imports LP, Modelo Molson Imports Ltd, International CO2 Extraction LLC, Integrow Malt LLC, Manantiales la Asunción, S.A.P.I. de C.V., Crown JV or any of their respective Subsidiaries.</text>
+        </definition>
+        <definition standardID="07ee285e092e383a">
+          <text>“knowledge” means actual knowledge after reasonable due inquiry of a Person and, with respect to any Person that is not an individual, actual knowledge after reasonable due inquiry of such Person’s executive officers.</text>
+        </definition>
+        <definition standardID="d3a0a4989c28a607">
+          <text>“Law” means any United States, Mexican, Belgian or other domestic or foreign, federal, state, local or municipal statute, law, ordinance, rule, administrative code, administrative interpretation, regulation, order, writ, injunction, directive, judgment, decree, promulgated policy, decision or other requirement of any Governmental Authority.</text>
+        </definition>
+        <definition standardID="f43d56bbfaf177fb">
+          <text>“LIBOR” means the display rate per annum of the offered quotation for deposits in dollars for a period of three (3) months which appears on the appropriate page of the Reuters Screen (or such other page as the parties may agree) at or about 11.00 a.m. London time on the date on which payment of the applicable sum under this Agreement was due but not paid.</text>
+        </definition>
+        <definition standardID="4d91d1f8124c2d5c">
+          <text>“Lien” means, with respect to any property or asset, any mortgage, lien, pledge, charge, security interest, or encumbrance or other adverse claim of any kind in respect of such property or asset. For purposes of this Agreement, a Person shall be deemed to own subject to a Lien any property or asset that it has acquired or holds subject to the interest of a vendor or lessor under any conditional sale agreement, capital lease or other title retention agreement relating to such property or asset.</text>
+        </definition>
+        <definition standardID="40d55cec7c99475d">
+          <text>“LMV” means Mexico’s Securities Market Law (Ley del Mercado de Valores).</text>
+        </definition>
+        <definition standardID="32d9b79490f77899">
+          <text>“Material Adverse Effect” means, with respect to any party, any change, effect or circumstance that is materially adverse to the business, results of operations or financial condition of such party and its Subsidiaries taken as a whole, in each case, other than and without taking into account any change, effect, development or circumstance relating to or resulting from (i) changes in general political or economic conditions; (ii) changes in general financial or securities markets conditions (including changes in exchange rates, commodities markets, exchange controls, monetary policy and inflation); (iii) any event, circumstance, change or effect that affects the industry or industries in which such party operates generally; (iv) any changes in Laws or interpretations thereof applicable to or affecting the party or its Subsidiaries or any of their respective properties or assets; (v) any changes in IFRS, Mexican GAAP or other accounting principles or requirements; (vi) any outbreak or escalation of hostilities or war or any act of terrorism, or any natural disaster or other calamity; (vii) the announcement or the existence of this Agreement and the transactions contemplated hereby, including any related or resulting loss of or change in relationship with any customer, supplier, distributor or other business partner, or departure of any employee or officer, or any litigation or other proceeding; (viii) any decline in the market price, or change in trading volume, of the capital stock of such party; (ix) any failure to meet any internal or public projections, forecasts or estimates of earnings or revenue (provided, however, that, in the case of this clause (ix), the underlying cause for such failure may be considered in determining whether there may be a Material Adverse Effect); or (x) compliance with the terms of, or the taking of any action permitted, contemplated or required by, or the not-taking of any action prohibited by, this Agreement, or the taking or not-taking of any such action with the prior written consent of the other parties hereto.</text>
+        </definition>
         <pageUUID>ea3e8f02-4a0e-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="24709ada0b10424e">“Material Contract” means, as to any party, any Contract that is material to the business (as currently conducted), assets, results of operations or financial condition of such party and its Subsidiaries, taken as a whole.</definition>
-        <definition standardID="84e557b3752ee130">“Mexican GAAP” means the generally accepted accounting principles of Mexico, including the Financial Information Rules (Normas de Información Financiera) issued by the Consejo Mexicano de Normas de Información Financiera, A.C.</definition>
-        <definition standardID="425b733e8d72a251">“Mexican Securities Laws” means the collective reference to the LMV, the General Issuers Rules and any regulations issued under the LMV.</definition>
-        <definition standardID="3f8daf7441317cec">“Mexican Income Tax Law” means the Ley del Impuesto Sobre la Renta currently in force in Mexico.</definition>
-        <definition standardID="d3e4d6df0a8cc09a">“Mexico” means the United Mexican States.</definition>
-        <definition standardID="3d0c1ebfb6939e86">“Miscellaneous Tax Resolutions for 2012” means the Resolución Miscelánea Fiscal para 2012 published in the Mexican Official Gazette (Diario Oficial de la Federación) on December 28, 2011.</definition>
-        <definition standardID="c770eb43cadcc66e">“Order” means any decree, order, judgment, injunction, temporary restraining order or other order in any suit or proceeding by or with any Governmental Authority.</definition>
-        <definition standardID="b0e470147e4d35ca">“Person” means an individual, corporation, partnership, limited liability company, association, trust or other entity or organization, including a Governmental Authority.</definition>
-        <definition standardID="7ff5944010fedc23">“Pesos” or “Ps$” means the lawful currency of Mexico.</definition>
-        <definition standardID="fc9a402ceb72e53e">“Previously-Approved Information” means any information (a) discussed or reviewed at, or specifically reflected in any resolution adopted at, any duly called meeting of the board of directors of the Company or any committee of the board of directors of the Company at which any director appointed by ABI or its Affiliates was present, or specifically reflected in any written consent signed by any director of the Company appointed by ABI or its Affiliates, in each case to the extent reflected in the minutes of such meeting or written consent, (b) delivered to members of the board of directors of the Company or any committee of the board of directors of the Company appointed by ABI or its Affiliates (other than independent directors) in their capacity as directors or members of such committee of the board of directors of the Company, or (c) delivered to ABI or its Affiliates pursuant to the terms of or in accordance with the Investment Agreement, but, in the case of (a), (b) and (c), only to the extent such information was discussed, reviewed, delivered or otherwise disseminated in writing prior to the date of this Agreement.</definition>
-        <definition standardID="7981d0ead65f0728">“Representatives” of any party means such party’s directors, officers, partners, investment bankers, advisors, Affiliates, employees, agents, representatives, financial advisors, consultants, accountants and attorneys and, in the case of ABI, financing sources.</definition>
+        <definition standardID="24709ada0b10424e">
+          <text>“Material Contract” means, as to any party, any Contract that is material to the business (as currently conducted), assets, results of operations or financial condition of such party and its Subsidiaries, taken as a whole.</text>
+        </definition>
+        <definition standardID="84e557b3752ee130">
+          <text>“Mexican GAAP” means the generally accepted accounting principles of Mexico, including the Financial Information Rules (Normas de Información Financiera) issued by the Consejo Mexicano de Normas de Información Financiera, A.C.</text>
+        </definition>
+        <definition standardID="425b733e8d72a251">
+          <text>“Mexican Securities Laws” means the collective reference to the LMV, the General Issuers Rules and any regulations issued under the LMV.</text>
+        </definition>
+        <definition standardID="3f8daf7441317cec">
+          <text>“Mexican Income Tax Law” means the Ley del Impuesto Sobre la Renta currently in force in Mexico.</text>
+        </definition>
+        <definition standardID="d3e4d6df0a8cc09a">
+          <text>“Mexico” means the United Mexican States.</text>
+        </definition>
+        <definition standardID="3d0c1ebfb6939e86">
+          <text>“Miscellaneous Tax Resolutions for 2012” means the Resolución Miscelánea Fiscal para 2012 published in the Mexican Official Gazette (Diario Oficial de la Federación) on December 28, 2011.</text>
+        </definition>
+        <definition standardID="c770eb43cadcc66e">
+          <text>“Order” means any decree, order, judgment, injunction, temporary restraining order or other order in any suit or proceeding by or with any Governmental Authority.</text>
+        </definition>
+        <definition standardID="b0e470147e4d35ca">
+          <text>“Person” means an individual, corporation, partnership, limited liability company, association, trust or other entity or organization, including a Governmental Authority.</text>
+        </definition>
+        <definition standardID="7ff5944010fedc23">
+          <text>“Pesos” or “Ps$” means the lawful currency of Mexico.</text>
+        </definition>
+        <definition standardID="fc9a402ceb72e53e">
+          <text>“Previously-Approved Information” means any information (a) discussed or reviewed at, or specifically reflected in any resolution adopted at, any duly called meeting of the board of directors of the Company or any committee of the board of directors of the Company at which any director appointed by ABI or its Affiliates was present, or specifically reflected in any written consent signed by any director of the Company appointed by ABI or its Affiliates, in each case to the extent reflected in the minutes of such meeting or written consent, (b) delivered to members of the board of directors of the Company or any committee of the board of directors of the Company appointed by ABI or its Affiliates (other than independent directors) in their capacity as directors or members of such committee of the board of directors of the Company, or (c) delivered to ABI or its Affiliates pursuant to the terms of or in accordance with the Investment Agreement, but, in the case of (a), (b) and (c), only to the extent such information was discussed, reviewed, delivered or otherwise disseminated in writing prior to the date of this Agreement.</text>
+        </definition>
+        <definition standardID="7981d0ead65f0728">
+          <text>“Representatives” of any party means such party’s directors, officers, partners, investment bankers, advisors, Affiliates, employees, agents, representatives, financial advisors, consultants, accountants and attorneys and, in the case of ABI, financing sources.</text>
+        </definition>
         <pageUUID>ea3e916e-4a0e-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="6961b793a9947d36">“Required Approvals” means those items listed on Annex A hereto.</definition>
-        <definition standardID="841a745cf48d7b80">“RNV” means the National Securities Registry (Registro Nacional de Valores) maintained by the CNBV.</definition>
-        <definition standardID="90e5a112fef977b4">“SEC” means the U.S. Securities and Exchange Commission.</definition>
-        <definition standardID="0359ea3889d42009">“SHCP” means the Mexican Secretaría de Hacienda y Crédito Público and any subdivision thereof.</definition>
-        <definition standardID="acf26aa6537ca6e1">“Subsidiary” means, with respect to any Person, any corporation, partnership, joint venture, limited liability company, trust, estate or other Person of which (or in which), directly or indirectly, more than fifty percent (50%) of (a) the issued and outstanding capital stock having ordinary voting power to elect a majority of the board of directors of such corporation (irrespective of whether at the time capital stock of any other class or classes of such corporation shall or might have voting power upon the occurrence of any contingency), (b) the interest in the capital or profits of such partnership, joint venture or limited liability company or other Person or (c) the beneficial interest in such trust or estate is at the time owned by such first Person, or by such first Person and one (1) or more of its other Subsidiaries or by one (1) or more of such Person’s other Subsidiaries; provided, however, that (i) none of the Joint Ventures, DIFA or any of their respective Subsidiaries shall be deemed to be a “Subsidiary” of the Company, Diblo, ABI or any of their respective Subsidiaries (excluding the Joint Ventures, DIFA and their respective Subsidiaries) and (ii) none of the Company or any of its Subsidiaries shall be deemed to be a “Subsidiary” of ABI or any of its Subsidiaries (excluding the Company and its Subsidiaries).</definition>
-        <definition standardID="ed30823ff2b62acf">“U.S.” or “United States” means the United States of America.</definition>
+        <definition standardID="6961b793a9947d36">
+          <text>“Required Approvals” means those items listed on Annex A hereto.</text>
+        </definition>
+        <definition standardID="841a745cf48d7b80">
+          <text>“RNV” means the National Securities Registry (Registro Nacional de Valores) maintained by the CNBV.</text>
+        </definition>
+        <definition standardID="90e5a112fef977b4">
+          <text>“SEC” means the U.S. Securities and Exchange Commission.</text>
+        </definition>
+        <definition standardID="0359ea3889d42009">
+          <text>“SHCP” means the Mexican Secretaría de Hacienda y Crédito Público and any subdivision thereof.</text>
+        </definition>
+        <definition standardID="acf26aa6537ca6e1">
+          <text>“Subsidiary” means, with respect to any Person, any corporation, partnership, joint venture, limited liability company, trust, estate or other Person of which (or in which), directly or indirectly, more than fifty percent (50%) of (a) the issued and outstanding capital stock having ordinary voting power to elect a majority of the board of directors of such corporation (irrespective of whether at the time capital stock of any other class or classes of such corporation shall or might have voting power upon the occurrence of any contingency), (b) the interest in the capital or profits of such partnership, joint venture or limited liability company or other Person or (c) the beneficial interest in such trust or estate is at the time owned by such first Person, or by such first Person and one (1) or more of its other Subsidiaries or by one (1) or more of such Person’s other Subsidiaries; provided, however, that (i) none of the Joint Ventures, DIFA or any of their respective Subsidiaries shall be deemed to be a “Subsidiary” of the Company, Diblo, ABI or any of their respective Subsidiaries (excluding the Joint Ventures, DIFA and their respective Subsidiaries) and (ii) none of the Company or any of its Subsidiaries shall be deemed to be a “Subsidiary” of ABI or any of its Subsidiaries (excluding the Company and its Subsidiaries).</text>
+        </definition>
+        <definition standardID="ed30823ff2b62acf">
+          <text>“U.S.” or “United States” means the United States of America.</text>
+        </definition>
       </section>
       <section title="Section 1.02 Term Section." order="2" standardId="3e8d07bd89efea01">
         <text>ABI 1 ABI Holdings 1 ABI Sub 1 ABI Subscription 24 ABI Subscription Closing 24 ABI Subscription Closing Date 24 Agreement 1 Amended Crown Agreements 50 Antitrust Damages 57 ARC 1 Canadian Competition Act 1 Closing Date 16 CNIE 18 Code 2 Código Fiscal de la Federación 31 Commissioner 1 Company 1 Company Disclosure Documents 29</text>
