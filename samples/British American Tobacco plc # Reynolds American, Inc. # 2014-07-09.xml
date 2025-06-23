@@ -1,5 +1,12 @@
-<?xml version="1.0" ?>
-<document uuid="dfa3d63d-4d5c-5166-9d4c-1731b4fef77e" url="https://www.sec.gov/Archives/edgar/data/1275283/000119312514269467/d757470dex101.htm">
+<?xml version="1.0" encoding="UTF-8"?>
+<document uuid="dfa3d63d-4d5c-5166-9d4c-1731b4fef77e">
+  <metadata>
+    <acquirer>British American Tobacco plc</acquirer>
+    <target>Reynolds American, Inc.</target>
+    <announcementDate>2014-07-09</announcementDate>
+    <url>https://www.sec.gov/Archives/edgar/data/1275283/000119312514269467/d757470dex101.htm</url>
+    <sourceFormat>html</sourceFormat>
+  </metadata>
   <recitals>
     <text>Exhibit 10.1</text>
     <text>SUBSCRIPTION AND SUPPORT AGREEMENT dated as of July 15, 2014 (this “Agreement”), by and among BRITISH AMERICAN TOBACCO P.L.C, a public limited company incorporated under the laws of England and Wales (“BAT”), REYNOLDS AMERICAN INC., a North Carolina corporation (“Parent”) and, for purposes of Section 5.08(a) only, BROWN &amp; WILLIAMSON Holdings Inc., a Delaware corporation and wholly owned Subsidiary of BAT (“Holdings”).</text>

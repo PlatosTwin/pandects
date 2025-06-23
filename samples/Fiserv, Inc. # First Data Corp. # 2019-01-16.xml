@@ -1,5 +1,12 @@
-<?xml version="1.0" ?>
-<document uuid="155b1785-4e31-5c47-a635-0f9e603bbf7b" url="https://www.sec.gov/Archives/edgar/data/798354/000119312519011812/d688917dex21.htm">
+<?xml version="1.0" encoding="UTF-8"?>
+<document uuid="155b1785-4e31-5c47-a635-0f9e603bbf7b">
+  <metadata>
+    <acquirer>Fiserv, Inc.</acquirer>
+    <target>First Data Corp.</target>
+    <announcementDate>2019-01-16</announcementDate>
+    <url>https://www.sec.gov/Archives/edgar/data/798354/000119312519011812/d688917dex21.htm</url>
+    <sourceFormat>html</sourceFormat>
+  </metadata>
   <recitals>
     <text>AGREEMENT AND PLAN OF MERGER</text>
     <text>AGREEMENT AND PLAN OF MERGER, dated as of January 16, 2019 (this “Agreement”), by and among Fiserv, Inc., a Wisconsin corporation (“Parent”), 300 Holdings, Inc., a Delaware corporation and direct, wholly owned Subsidiary of Parent (“Merger Sub”), and First Data Corporation, a Delaware corporation (the “Company”).</text>

@@ -1,5 +1,12 @@
-<?xml version="1.0" ?>
-<document uuid="15676799-e4ce-5cc6-8721-f00453c287cf" url="https://www.sec.gov/Archives/edgar/data/732485/000095012311014482/b85002exv2w1.htm">
+<?xml version="1.0" encoding="UTF-8"?>
+<document uuid="15676799-e4ce-5cc6-8721-f00453c287cf">
+  <metadata>
+    <acquirer>Sanofi-Aventis SA</acquirer>
+    <target>Genzyme Corp.</target>
+    <announcementDate>2010-08-29</announcementDate>
+    <url>https://www.sec.gov/Archives/edgar/data/732485/000095012311014482/b85002exv2w1.htm</url>
+    <sourceFormat>html</sourceFormat>
+  </metadata>
   <recitals>
     <text>AGREEMENT AND PLAN OF MERGER</text>
     <text>AGREEMENT AND PLAN OF MERGER, dated as of February 16, 2011 (this “Agreement”), among Sanofi-Aventis, a French société anonyme (“Parent”), GC Merger Corp., a Massachusetts corporation and wholly-owned Subsidiary of Parent (“Purchaser”), and Genzyme Corporation, a Massachusetts corporation (the “Company”).</text>
@@ -274,12 +281,12 @@
         <text>(b) The consummation of the Merger by the Company does not require the prior consent or pre-approval of any Governmental Entity with jurisdiction over the Company or any of its Subsidiaries regarding environmental matters (including Environmental Permits), except such consents or pre-approvals under Section 4.5(b)(vii) hereof.</text>
         <text>(c) Notwithstanding any other representations and warranties in this Agreement, and except for the representations and warranties in Section 4.6, the representations and warranties in this Section 4.17 are the only representations and warranties in this Agreement with respect to Environmental Laws or Materials of Environmental Concern.</text>
         <text>(d) For purposes of this Agreement, the following terms have the meanings assigned below:</text>
-        <text>“Environmental Laws” means all foreign, federal, state, or local statutes, regulations, ordinances, orders, judgments, codes, decrees or other legal requirements protecting the environment, including the ambient air, soil, surface water or groundwater or natural resources, pollution or human exposure to Materials of Environmental Concern.</text>
+        <definition standardID="cb75fb473fd318db">“Environmental Laws” means all foreign, federal, state, or local statutes, regulations, ordinances, orders, judgments, codes, decrees or other legal requirements protecting the environment, including the ambient air, soil, surface water or groundwater or natural resources, pollution or human exposure to Materials of Environmental Concern.</definition>
         <page>33</page>
         <pageUUID>ffac7568-4a0c-11f0-8d00-be44a5e954c9</pageUUID>
-        <text>“Environmental Permits” means all permits, licenses, registrations, and other authorizations of Governmental Entities required under applicable Environmental Laws.</text>
-        <text>“Materials of Environmental Concern” means any pollutants or contaminants or any hazardous, acutely hazardous, radioactive or toxic substance, material or waste defined and regulated as such under Environmental Laws.</text>
-        <text>“Release” means any release, spill, emission, leaking, pumping, injection, deposit, disposal, discharge, dispersal, leaching or migration into the indoor or outdoor environment, or into or out of any property, including movement through air, soil, surface water, groundwater or property.</text>
+        <definition standardID="cb75fb473fd318db">“Environmental Permits” means all permits, licenses, registrations, and other authorizations of Governmental Entities required under applicable Environmental Laws.</definition>
+        <definition standardID="faadef4ec436caa4">“Materials of Environmental Concern” means any pollutants or contaminants or any hazardous, acutely hazardous, radioactive or toxic substance, material or waste defined and regulated as such under Environmental Laws.</definition>
+        <definition standardID="b5c6294f8125ee48">“Release” means any release, spill, emission, leaking, pumping, injection, deposit, disposal, discharge, dispersal, leaching or migration into the indoor or outdoor environment, or into or out of any property, including movement through air, soil, surface water, groundwater or property.</definition>
       </section>
       <section title="Section 4.18 Affiliate Transactions." order="18" standardId="628ae1243d838b70">
         <text>Except as set forth in Section 4.18 of the Company Disclosure Letter, no executive officer or director of the Company or its Subsidiaries and no Person known by the Company to currently own five percent (5%) or more of the Shares, is a party to any Contract with or binding upon the Company or its Subsidiaries or any of their respective properties or assets or has any interest in any property owned by the Company or has engaged in any transaction with any of the foregoing within the last twelve (12) months, in each case, that is of a type that would be required to be disclosed under Item 404 of Regulation S-K under the Securities Act that is not disclosed in the SEC Reports.</text>

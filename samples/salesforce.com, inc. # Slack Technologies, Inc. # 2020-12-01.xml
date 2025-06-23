@@ -1,5 +1,12 @@
-<?xml version="1.0" ?>
-<document uuid="c274a9f9-a3c9-5391-9743-59810e2066d5" url="https://www.sec.gov/Archives/edgar/data/1108524/000119312520307389/d18386dex21.htm">
+<?xml version="1.0" encoding="UTF-8"?>
+<document uuid="c274a9f9-a3c9-5391-9743-59810e2066d5">
+  <metadata>
+    <acquirer>salesforce.com, inc.</acquirer>
+    <target>Slack Technologies, Inc.</target>
+    <announcementDate>2020-12-01</announcementDate>
+    <url>https://www.sec.gov/Archives/edgar/data/1108524/000119312520307389/d18386dex21.htm</url>
+    <sourceFormat>html</sourceFormat>
+  </metadata>
   <recitals>
     <text>AGREEMENT AND PLAN OF MERGER</text>
     <text>This AGREEMENT AND PLAN OF MERGER (this “Agreement”), dated as of December 1, 2020, is by and among salesforce.com, inc., a Delaware corporation (“Parent”), Skyline Strategies I Inc., a Delaware corporation and a wholly owned Subsidiary of Parent (“Merger Sub I”), Skyline Strategies II LLC, a Delaware limited liability company and a wholly owned Subsidiary of Parent (“Merger Sub II”), and Slack Technologies, Inc., a Delaware corporation (the “Company”). All capitalized terms used in this Agreement shall have the meanings ascribed to such terms in Annex A or as otherwise defined elsewhere in this Agreement, unless the context clearly provides otherwise. Parent, Merger Sub I, Merger Sub II and the Company are each sometimes referred to herein as a “Party” and collectively, as the “Parties.”</text>

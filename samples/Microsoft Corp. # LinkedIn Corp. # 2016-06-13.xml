@@ -1,5 +1,12 @@
-<?xml version="1.0" ?>
-<document uuid="4b9e8094-f0a6-539a-8084-435bb7cc115b" url="https://www.sec.gov/Archives/edgar/data/1271024/000110465916126712/a16-13234_1ex2d1.htm">
+<?xml version="1.0" encoding="UTF-8"?>
+<document uuid="4b9e8094-f0a6-539a-8084-435bb7cc115b">
+  <metadata>
+    <acquirer>Microsoft Corp.</acquirer>
+    <target>LinkedIn Corp.</target>
+    <announcementDate>2016-06-13</announcementDate>
+    <url>https://www.sec.gov/Archives/edgar/data/1271024/000110465916126712/a16-13234_1ex2d1.htm</url>
+    <sourceFormat>html</sourceFormat>
+  </metadata>
   <recitals>
     <text>AGREEMENT AND PLAN OF MERGER</text>
     <text>THIS AGREEMENT AND PLAN OF MERGER (this “Agreement”) is made and entered into as of June 11, 2016, by and among Microsoft Corporation, a Washington corporation (“Parent”), Liberty Merger Sub Inc., a Delaware corporation and a wholly owned subsidiary of Parent (“Merger Sub”), and LinkedIn Corporation, a Delaware corporation (the “Company”). Each of Parent, Merger Sub and the Company are sometimes referred to as a “Party.” All capitalized terms that are used in this Agreement have the meanings given to them in Article I.</text>
