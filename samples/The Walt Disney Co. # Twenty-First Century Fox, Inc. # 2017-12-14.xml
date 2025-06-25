@@ -373,12 +373,12 @@
         <text>as the Confidentiality Agreement (it being understood that such confidentiality agreement need not contain a “standstill” or similar obligations to the extent that Parent is, concurrently with the entry by the Company or its Subsidiaries into such confidentiality agreement, released from any “standstill” or other similar obligations in the Confidentiality Agreement); provided, however, that if the Person making such Company Acquisition Proposal is a competitor of the Company and its Subsidiaries, the Company shall not provide any information that in the good faith determination of the Company constitutes commercially sensitive non-public information to such Person in connection with any actions permitted by this Section 5.02(b) other than in accordance with “clean room” or other similar procedures designed to limit any potential adverse effect on the Company from sharing such information; (iii) participate in any discussions or negotiations with any such Person and its Representatives regarding such Company Acquisition Proposal, if, and only if, prior to taking any action described in clause (ii) or (iii) above, the Board of Directors of the Company determines in good faith after consultation with outside legal counsel that (A) failure to take such action would be inconsistent with the directors’ fiduciary duties under applicable Law and (B) based on the information then available and after consultation with outside legal counsel and a financial advisor of nationally recognized reputation, such Company Acquisition Proposal either constitutes a Company Superior Proposal or could reasonably be expected to result in a Company Superior Proposal; and (iv) refer any inquiring Person to this Section 5.02.</text>
         <text>(c) Notice. The Company shall promptly notify Parent if (i) any inquiries, proposals or offers with respect to a Company Acquisition Proposal are received by, (ii) any non-public information is requested in connection with any Company Acquisition Proposal from, or (iii) any discussions or negotiations with respect to a Company Acquisition Proposal are sought to be initiated or continued with, it, its Subsidiaries or any of their respective Representatives, indicating, in connection with such notice, the name of such Person and the material terms and conditions of any proposals or offers (including, if applicable, copies of any written requests, proposals or offers, including proposed agreements) and thereafter shall keep Parent informed, on a reasonably current basis, of the status and terms of any such proposals or offers (including any amendments thereto) and the status of any such discussions or negotiations, including any change in the Company’s intentions as previously notified.</text>
         <text>(d) Definitions. For purposes of this Agreement:</text>
-        <definition standardID="11e820f88c4717f3">
+        <definition standardID="11e820f88c4717f3" term="company acquisition proposal">
           <text>“Company Acquisition Proposal” means (i) any proposal or offer from any Person or group of Persons, other than Parent and its Subsidiaries, with respect to a merger, joint venture, partnership, consolidation, dissolution, liquidation, tender offer, recapitalization, reorganization, spin-off, extraordinary dividend, share exchange, business combination or similar transaction involving the Company or any of its Subsidiaries which is structured to result in such Person or group of Persons (or their stockholders), directly or indirectly, acquiring beneficial ownership of 20% or more of the Company’s consolidated total assets (including equity securities of the Company’s Subsidiaries) (using the consolidated total assets of the Retained Business as the denominator for purposes of calculating such percentage) or 20% or more of any class of the Company’s equity interests and (ii) any acquisition by any Person or group of Persons (or their stockholders) (other than Parent and its Subsidiaries) resulting in, or proposal or offer, which if consummated would result in, any Person or group of Persons (or their stockholders) (other than Parent and its Subsidiaries) obtaining control (through Contract or otherwise) over or becoming</text>
           <pageUUID>d9f4c7de-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>the beneficial owner of, directly or indirectly, in one or a series of related transactions, 20% or more of the total voting power of any class of equity securities of the Company or 20% or more of the Company’s consolidated total assets (including equity securities of the Company’s Subsidiaries) (using the consolidated total assets of the Retained Business as the denominator for purposes of calculating such percentage), in each case other than the Transactions.</text>
         </definition>
-        <definition standardID="d2a063632692f747">
+        <definition standardID="d2a063632692f747" term="company superior proposal">
           <text>“Company Superior Proposal” means an unsolicited bona fide Company Acquisition Proposal made after the date of this Agreement that would result in a Person or group (or their stockholders) becoming, directly or indirectly, the beneficial owner of, 60% or more of the Company’s consolidated total assets or more than 50% of the total voting power of the equity securities of the Company or the successor Person of the Company, that the Board of Directors of the Company has determined in its good faith judgment, after consultation with outside counsel and a financial advisor of nationally recognized reputation, would reasonably be expected to be consummated in accordance with its terms, taking into account all legal, financial and regulatory aspects of the proposal and the Person or group of Persons making the proposal, and, if consummated, would result in a transaction more favorable to the Company’s stockholders from a financial point of view than the Transactions (after taking into account any revisions to the terms of the transactions contemplated by this Agreement pursuant to Section 5.02(f) of this Agreement and the time likely to be required to consummate such Company Acquisition Proposal).</text>
           <text>(e) No Company Change in Recommendation or Alternative Company Acquisition Agreement. Except as permitted by Section 5.02(f), the Board of Directors of the Company and each committee of the Board of Directors shall not (i) withhold, withdraw, qualify or modify (or publicly propose or resolve to withhold, withdraw, qualify or modify), in a manner adverse to Parent, the Company Recommendation (it being understood that if any Company Acquisition Proposal structured as a tender or exchange offer is commenced, the Board of Directors of the Company failing to recommend against acceptance of such tender or exchange offer by the Company’s stockholders within 10 business days of commencement thereof pursuant to Rule 14d-2 of the Exchange Act shall be considered a modification adverse to Parent); (ii) approve or recommend, or publicly declare advisable or publicly propose to enter into, any letter of intent, memorandum of understanding, agreement in principle, acquisition agreement, merger agreement, option agreement, joint venture agreement, partnership agreement, lease agreement or other agreement (other than a confidentiality agreement referred to in Section 5.02(b) entered into in compliance with Section 5.02(b)) relating to any Company Acquisition Proposal (an “Alternative Company Acquisition Agreement”); or (iii) cause or permit the Company or any of its Subsidiaries to enter into an Alternative Company Acquisition Agreement.</text>
           <text>(f) Fiduciary Exception to Company Change in Recommendation Provision. Notwithstanding anything to the contrary set forth in this Agreement, prior to the time, but not after, the Company Requisite Vote is obtained, (x) the Board of Directors of the Company may withhold, withdraw, qualify or modify the Company Recommendation or recommend or otherwise declare advisable any Company Acquisition Proposal made after the date of this Agreement that did not result from or in connection with a material breach of this Agreement, if (A) in the case of such an action taken in connection with a Company Acquisition Proposal, the Company Acquisition Proposal is not withdrawn and the Board of Directors of the Company</text>
@@ -401,12 +401,12 @@
         <text>(b) Fiduciary Exception to No Solicitation Provision. Notwithstanding anything to the contrary in Section 5.03(a), prior to the time, but not after, the Parent Requisite Vote is obtained, Parent and its Representatives may, in response to an unsolicited, bona fide written Parent Acquisition Proposal made after the date of this Agreement, (i) contact the Person who made such Parent Acquisition Proposal and its Representatives solely to clarify the terms and conditions thereof, and (ii) provide access to information regarding Parent or any of its Subsidiaries in response to a request therefor to the Person who made such Parent Acquisition Proposal and such Person’s Representatives; provided that such information has previously been, or is substantially concurrently, made available to the Company and that, prior to furnishing any such non-public information, Parent receives from the Person making such Parent Acquisition Proposal an executed confidentiality agreement with terms at least as restrictive in all material respects on such Person as the Confidentiality Agreement (it being understood that such confidentiality agreement need not contain a “standstill” or similar obligations to the extent that the Company is, concurrently with the entry by Parent or its Subsidiaries into such confidentiality agreement, released from any “standstill” or other similar obligations in the Confidentiality Agreement); provided, however, that if the Person making such Parent Acquisition Proposal is a competitor of Parent and its Subsidiaries, Parent shall not provide any information that in the good faith determination of Parent constitutes commercially sensitive non-public information to such Person in connection with any actions permitted by this Section 5.03(b) other than in accordance with “clean room” or other similar procedures designed to limit any potential adverse effect on Parent from sharing such information; (iii) participate in any discussions or negotiations with any such Person and its Representatives regarding such Parent Acquisition Proposal, if, and only if, prior to taking any action described in clause (ii) or (iii) above, the Board of Directors of Parent determines in good faith after consultation with outside legal counsel that (A) failure to take such action would be inconsistent with the directors’ fiduciary duties under applicable Law and (B) based on the information then available and after consultation with outside legal counsel and a financial advisor of nationally recognized reputation, such Parent Acquisition Proposal either constitutes a Parent Superior Proposal or could reasonably be expected to result in a Parent Superior Proposal; and (iv) refer any inquiring Person to the terms of this Section 5.03.</text>
         <text>(c) Notice. Parent shall promptly notify the Company if (i) any inquiries, proposals or offers with respect to a Parent Acquisition Proposal are received by, (ii) any non-public information is requested in connection with any Parent Acquisition Proposal from, or (iii) any discussions or negotiations with respect to a Parent Acquisition Proposal are sought to be initiated or continued with, it, its Subsidiaries or any of their respective Representatives, indicating, in connection with such notice, the name of such Person and the material terms and conditions of any proposals or offers (including, if applicable, copies of any written requests, proposals or offers, including proposed agreements) and thereafter shall keep the Company informed, on a reasonably current basis, of the status and terms of any such proposals or offers (including any amendments thereto) and the status of any such discussions or negotiations, including any change in Parent’s intentions as previously notified.</text>
         <text>(d) Definitions. For purposes of this Agreement:</text>
-        <definition standardID="bca4b84657cd70bb">
+        <definition standardID="bca4b84657cd70bb" term="parent acquisition proposal">
           <text>“Parent Acquisition Proposal” means (i) any proposal or offer from any Person or group of Persons, other than the Company and its Subsidiaries, with respect to a merger, joint venture,</text>
           <pageUUID>d9f4d878-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>partnership, consolidation, dissolution, liquidation, tender offer, recapitalization, reorganization, spin-off, extraordinary dividend, share exchange, business combination or similar transaction involving Parent or any of its Subsidiaries which (1) is structured to result in such Person or group of Persons (or their stockholders), directly or indirectly, acquiring beneficial ownership of 20% or more of Parent’s consolidated total assets (including equity securities of its Subsidiaries) or any class of Parent’s equity interests and (2) is expressly conditioned on the Transactions not being consummated, and (ii) any acquisition by any Person or group of Persons (or their stockholders) (other than the Company and its Subsidiaries) resulting in, or proposal or offer, which (1) if consummated would result in, any Person or group of Persons (or their stockholders) (other than the Company and its Subsidiaries) obtaining control (through Contract or otherwise) over or becoming the beneficial owner of, directly or indirectly, in one or a series of related transactions, 20% or more of the total voting power of any class of equity securities of Parent, or 20% or more of the consolidated total assets (including equity securities of its Subsidiaries) of Parent, in each case other than the Transactions and (2) is expressly conditioned on the Transactions not being consummated.</text>
         </definition>
-        <definition standardID="6f58da16360e4f03">
+        <definition standardID="6f58da16360e4f03" term="parent superior proposal">
           <text>“Parent Superior Proposal” means an unsolicited bona fide Parent Acquisition Proposal made after the date of this Agreement that would result in a Person or group (or their stockholders) becoming, directly or indirectly, the beneficial owner of, 60% or more of Parent’s consolidated total assets or more than 50% of the total voting power of the equity securities of Parent or the successor Person of Parent, that the Board of Directors of Parent has determined in its good faith judgment, after consultation with outside counsel and a financial advisor of nationally recognized reputation, would reasonably be expected to be consummated in accordance with its terms, taking into account all legal, financial and regulatory aspects of the proposal and the Person or group of Persons making the proposal, and, if consummated, would result in a transaction more favorable to Parent’s stockholders from a financial point of view than the Transactions (after taking into account any revisions to the terms of the transactions contemplated by this Agreement pursuant to Section 5.03(f) of this Agreement and the time likely to be required to consummate such Parent Acquisition Proposal).</text>
           <text>(e) No Parent Change in Recommendation or Alternative Parent Acquisition Agreement. Except as permitted by Section 5.03(f), the Board of Directors of Parent and each committee of the Board of Directors of Parent shall not (i) withhold, withdraw, qualify or modify (or publicly propose or resolve to withhold, withdraw, qualify or modify), in a manner adverse to the Company, the Parent Recommendation (it being understood that if any Parent Acquisition Proposal structured as a tender or exchange offer is commenced, the Board of Directors of Parent failing to recommend against acceptance of such tender or exchange offer by Parent’s stockholders within 10 business days of commencement thereof pursuant to Rule 14d-2 of the Exchange Act shall be considered a modification adverse to the Company); (ii) approve or recommend, or publicly declare advisable or publicly propose to enter into, any letter of intent, memorandum of understanding, agreement in principle, acquisition agreement, merger agreement, option agreement, joint venture agreement, partnership agreement, lease agreement or other agreement (other than a confidentiality agreement referred to in Section 5.03(b) entered into in compliance with Section 5.03(b)) relating to any Parent Acquisition Proposal (an “Alternative Parent Acquisition Agreement”); or (iii) cause or permit Parent or any of its Subsidiaries to enter into an Alternative Parent Acquisition Agreement.</text>
           <pageUUID>d9f4db52-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
@@ -440,7 +440,7 @@
         <text>develop, and each of the parties shall consult and reasonably cooperate with one another, and consider in good faith the views of one another, in connection with the form and content of any analyses, appearances, presentations, memoranda, briefs, arguments, opinions and proposals made or submitted by or on behalf of any party hereto in connection with proceedings under or relating to any Antitrust Law prior to their submission. In furtherance of the foregoing and to the extent permitted by applicable Law, (A) each party shall notify the other, as far in advance as reasonably practicable, of any filing or material or substantive communication or inquiry it or any of its Subsidiaries intends to make with any Governmental Entity relating to the matters that are the subject of this Section 5.06(a), (B) prior to submitting any such filing or making any such communication or inquiry, such party shall provide the other party and its counsel a reasonable opportunity to review, and shall consider in good faith the comments of the other party in connection with, any such filing, communication or inquiry, (C) promptly following the submission of such filing or making such communication or inquiry, provide the other party with a copy of any such filing or, if in written form, communication or inquiry, and (D) consult with the other party in connection with any inquiry, hearing, investigation or litigation by, or negotiations with, any Governmental Entity relating to the Transactions, including the scheduling of, and strategic planning for, any meetings with any Governmental Entity relating thereto; provided that materials furnished pursuant to this Section 5.06 may be redacted as necessary to address reasonable attorney-client or other privilege or confidentiality concerns. In exercising the foregoing rights, the Company and Parent each shall act reasonably and as promptly as reasonably practicable. Notwithstanding the foregoing, in the event of any dispute between the parties relating to the strategy or appropriate course of action or content of any submission made in connection with obtaining any clearances under applicable Antitrust Laws or Communications Laws with respect to the Transactions, the parties shall escalate such dispute to the general counsels of the Company and Parent for resolution. If such dispute is not resolved pursuant to the preceding sentence, Parent shall have the right, in its sole discretion, to make the final determination with respect to such matter. The parties shall work in good faith, and each of the parties shall consult and reasonably cooperate in all respects with one another, to ensure the continued operation of any facilities or services made available by means of the RemainCo Communications Licenses.</text>
         <text>(b) Notwithstanding anything to the contrary in this Section 5.06(a) or any other provision of this Agreement, in no event shall Parent or its Subsidiaries (including, for purposes of this sentence, the Company and the Retained Subsidiaries, after giving effect to the Transactions) be required to agree to or accept (i) any prohibition of or limitation on its or their ownership of any portion of their respective businesses or assets, including after giving effect to the Transactions, (ii) any requirement to divest, hold separate or otherwise dispose of any portion of its or their respective businesses or assets, including after giving effect to the Transactions, (iii) any limitation on its or their ability to acquire or hold or exercise full rights of ownership of any capital stock of the Company or its Subsidiaries, including after giving effect to the Transactions, or (iv) any other limitation on its or their ability to, or the manner in which they, operate, conduct or exercise decision-making over their respective businesses, assets or operations, including after giving effect to the Transactions (any such action or limitation described in clauses (i) through (iv), a “Restriction”), other than Permitted Restrictions, which Permitted Restrictions Parent or its Subsidiaries shall be required to agree to (and if required in any jurisdiction, to offer to agree to) if and to the extent necessary to obtain, prior to the Termination Date, the Required Governmental Consents. For purposes of this Agreement,</text>
         <pageUUID>d9f4f04c-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="920f7ca10d39dad9">
+        <definition standardID="920f7ca10d39dad9" term="permitted restrictions">
           <text>“Permitted Restrictions” shall mean (x) Restrictions of the type described in clauses (i), (ii) and (iii) of the definition thereof solely involving the business or assets described in Section 5.06(b)(i) of the Company Disclosure Letter (the “Specified Assets”), (y) Restrictions of the type described in clauses (i), (ii) and (iii) of the definition thereof solely involving the businesses or assets comprising the Retained Business, which, in the case of any businesses or assets of the Retained Business other than the Specified Assets, generated, in the aggregate, no more than (A) $500,000,000 of EBITDA less (B) the lesser of (1) the aggregate amount of EBITDA (including, if applicable, $0) attributable to any Specified Assets with respect to which Restrictions of the type described in clause (i), (ii) or (iii) of the definition thereof are being agreed to or accepted in obtaining the Required Governmental Consents and (2) $250,000,000 of EBITDA (any such Restrictions described in clauses (x) and (y), “Required Divestitures”) and (z) Restrictions of the type described in clause (iv) of the definition thereof which are applied solely against and solely involve and impact the operations, businesses and assets of the Retained Business (subject to Section 5.06(b) of the Parent Disclosure Letter) and the non-U.S. operations, businesses and assets of Parent and its Subsidiaries which Restrictions would not, individually or in the aggregate, including when taken together with the net incremental financial impact of Restrictions imposed with respect to a Sky Acquisition (other than any such Restrictions contemplated by the Secretary of State Undertakings, together with any impact or consequence thereof), have or reasonably be expected to have a Regulatory Adverse Impact. For the avoidance of doubt, except as provided in clause (z) of the definition of Permitted Restrictions, Parent is not required to agree to or accept any Restriction that involves, applies to or impacts the operations, businesses or assets of Parent or any of its Affiliates other than Permitted Restrictions with respect to the Retained Business. The Company and its Subsidiaries shall not agree to any such actions without the prior written consent of Parent which, subject to and without limiting Parent’s obligations under this Section 5.06, may be granted or withheld in Parent’s sole discretion. For the purposes of this Section 5.06, “EBITDA” means (x) with respect to any business or asset set forth in Section 5.06(b)(ii) of the Company Disclosure Letter, the amount set forth therein with respect to such business or asset and (y) with respect to any other business or asset, the portion of the Company EBITDA generated by such business or asset. “Company EBITDA” means the Company’s fiscal year ended June 30, 2017 revenues less operating expenses and selling, general and administrative expenses, as set forth in the Company’s Annual Report on Form 10-K for such fiscal year, including all allocations consistent with past Company operating and accounting practices, but excluding allocations of any items contained in the line item titled “Other, Corporate and Eliminations” as set forth in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2017. For the avoidance of doubt, the definition of Company EBITDA does not include amortization of cable distribution investments; depreciation and amortization; impairment and restructuring charges; equity (losses) earnings of affiliates; interest expense, net; interest income; other, net; income tax expense; loss from discontinued operations, net of tax; and net income attributable to noncontrolling interests, in each case, as set forth in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2017. For purposes of this Section 5.06, “Regulatory Adverse Impact” means an impact on the financial condition, properties, assets, business or results of operations of the Retained Business and the non-U.S. operations, businesses and assets of Parent and its Subsidiaries, taken as a whole, that is both significant and adverse, measured on a scale relative to the size of the Retained Business, which determination may, in Parent’s sole discretion, take into account any reduction in revenue and/or cost synergies anticipated from the Mergers that results from the</text>
           <pageUUID>d9f50046-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>applicable Restrictions; provided that “the size of the Retained Business” shall be measured (i) if the Sky Acquisition is consummated, after giving effect to such consummation, (ii) to the extent that any revenue synergies are taken into account by Parent for purposes of determining whether a Regulatory Adverse Impact has occurred, after the inclusion of all revenue synergies anticipated from the Mergers and (iii) to the extent that any cost synergies are taken into account by Parent for purposes of determining whether a Regulatory Adverse Impact has occurred, after the inclusion of all cost synergies anticipated from the Mergers; provided, further, that any Restriction of the type described in clause (iv) of the definition thereof which prohibits Parent or any of its Subsidiaries (other than the Company or any of the Retained Subsidiaries) from licensing their content on an exclusive basis to any over-the-top streaming video on demand services owned or operated by Parent or any of its Subsidiaries in any market, other than a market that is de minimis, shall be deemed to be a Regulatory Adverse Impact.</text>
@@ -590,58 +590,58 @@
         <text>(e) Each of the parties hereto shall use its reasonable best efforts to reduce the amount of any Spin Tax.</text>
         <text>(f) As used in this Agreement, the following terms have the following meanings:</text>
         <text>(i) Transaction Tax.</text>
-        <definition standardID="2b1a1fff85717447">
+        <definition standardID="2b1a1fff85717447" term="transaction tax">
           <text>“Transaction Tax” means the sum of (i) the Spin Tax, (ii) the Closing Date Company Divestiture Tax, (iii) the Unfunded SpinCo Operational Tax and (iv) any Final Company Divestiture Tax Prepayment; provided, however, that the Transaction Tax shall be reduced by any portion of the Transaction Tax (determined without regard to this proviso) that will be imposed on SpinCo or its Subsidiaries on a separate basis following the Closing Date.</text>
           <pageUUID>d9f555fa-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>(ii) SpinCo Operational Tax.</text>
         </definition>
-        <definition standardID="8274dcf4cb6349a1">
+        <definition standardID="8274dcf4cb6349a1" term="spinco operational tax">
           <text>“SpinCo Operational Tax” means the excess, if any, of the Aggregate Operational Tax over the Retained Business Operational Tax; provided, however, that the SpinCo Operational Tax shall be reduced by any portion of the SpinCo Operational Tax (determined without regard to this proviso) that will be imposed on SpinCo or its Subsidiaries on a separate basis following the Closing Date.</text>
         </definition>
-        <definition standardID="95bd6493c480cc80">
+        <definition standardID="95bd6493c480cc80" term="aggregate operational tax">
           <text>“Aggregate Operational Tax” means the amount of Taxes that would have been imposed on the Company and its Subsidiaries for all taxable periods or portions thereof beginning on or after the date hereof and ending on the Closing Date assuming that the Transactions had not occurred.</text>
         </definition>
-        <definition standardID="4bf07b617a36e9ff">
+        <definition standardID="4bf07b617a36e9ff" term="retained business operational tax">
           <text>“Retained Business Operational Tax” means the amount of Taxes that would have been imposed on the Company and its Subsidiaries for all taxable periods or portions thereof beginning on or after the date hereof and ending on the Closing Date assuming that (i) the Transactions had not occurred, (ii) all operations of the SpinCo Business had ceased on the beginning of the date hereof and (iii) any non-Tax cost or expense economically borne by SpinCo in accordance with the Separation Principles was not incurred.</text>
           <text>“Unfunded SpinCo Operational Tax” has the meaning set forth in the Separation Principles.</text>
           <text>(iii) Spin Tax.</text>
         </definition>
-        <definition standardID="7830c604239efb1b">
+        <definition standardID="7830c604239efb1b" term="spin tax">
           <text>“Spin Tax” means the excess, if any, of (i) the amount of Taxes, based on the SpinCo Enterprise Value, that would have been imposed on the Company and its Subsidiaries for all taxable periods or portions thereof beginning on or after the date hereof and ending on the Closing Date assuming (A) no Required Divestitures had occurred and (B) the Cash Payment (to the extent made) increases SpinCo’s tax asset basis dollar-for-dollar over (ii) the Aggregate Operational Tax; provided, however, that the Spin Tax shall not include any Hook Stock Tax or Hook Stock Restructuring Tax.</text>
           <text>(iv) Company Divestiture Tax.</text>
         </definition>
-        <definition standardID="80e0b1493ec809fd">
+        <definition standardID="80e0b1493ec809fd" term="closing date company divestiture tax">
           <text>“Closing Date Company Divestiture Tax” means one-half of the excess, if any, of (i) the amount of Required Pre-Closing Divestiture Tax and Required Post-Closing Divestiture Tax over (ii) $1,500,000,000; provided, however, that the Closing Date Divestiture Tax shall not exceed $1,750,000,000.</text>
         </definition>
-        <definition standardID="1d52b34041e5de7e">
+        <definition standardID="1d52b34041e5de7e" term="required pre-closing divestiture tax">
           <text>“Required Pre-Closing Divestiture Tax” means the excess, if any, of (i) the amount of Taxes imposed on the Company and its Subsidiaries for all taxable periods or portions thereof beginning on or after the date hereof and ending on the Closing Date over (ii) the amount of Taxes that would have been imposed on the Company and its Subsidiaries for all such taxable periods or portions thereof assuming that no Required Divestitures had occurred.</text>
         </definition>
-        <definition standardID="01608b5673788b07">
+        <definition standardID="01608b5673788b07" term="required post-closing divestiture tax">
           <text>“Required Post-Closing Divestiture Tax” means an amount equal to (a) the gain expected to be recognized by Parent and its Subsidiaries on all Required Divestitures that are expected to</text>
           <pageUUID>d9f55b22-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>occur after Closing other than Post-Closing Consent Decree Divestitures multiplied by (b) the Post-Closing Tax Rate.</text>
         </definition>
-        <definition standardID="231bd20eb23c404d">
+        <definition standardID="231bd20eb23c404d" term="final company divestiture tax">
           <text>“Final Company Divestiture Tax” means one-half of the excess, if any, of (i) the sum of (A) the Required Pre-Closing Divestiture Tax, (B) the Required Post-Closing Divestiture Tax and (C) the Post-Closing Consent Decree Divestiture Tax over (ii) $1,500,000,000; provided, however, that the Final Company Divestiture Tax shall not exceed $1,750,000,000.</text>
         </definition>
-        <definition standardID="017ef9697069d84a">
+        <definition standardID="017ef9697069d84a" term="post-closing consent decree divestitures">
           <text>“Post-Closing Consent Decree Divestitures” means all Required Divestitures that (a) are not subject to binding contracts that include a fixed price as of the Tax Model Cutoff Date and (b) will occur after the Closing Date pursuant to consent decrees issued by Governmental Entities.</text>
           <text>“Post-Closing Consent Decree Divestiture Tax” is an amount equal to (a) the gain recognized by Parent and its Subsidiaries on all Post-Closing Consent Decree Divestitures multiplied by (b) the Post-Closing Tax Rate.</text>
         </definition>
-        <definition standardID="017ef9697069d84a">
+        <definition standardID="017ef9697069d84a" term="post-closing tax rate">
           <text>“Post-Closing Tax Rate” means the sum of (i) the Applicable Federal Rate and (ii) the product of (A) one minus the Applicable Federal Rate and (B) the Assumed State Rate.</text>
         </definition>
-        <definition standardID="9b491b82588b1d12">
+        <definition standardID="9b491b82588b1d12" term="applicable federal rate">
           <text>“Applicable Federal Rate” means the highest marginal U.S. federal income tax rate applicable to corporations in effect, or expected to be in effect, on the date of an applicable Required Divestiture that will, or is expected to, occur after Closing.</text>
         </definition>
-        <definition standardID="add9d9a995b04d06">
+        <definition standardID="add9d9a995b04d06" term="assumed state rate">
           <text>“Assumed State Rate” means 5%.</text>
           <text>(v) Principles and Model.</text>
         </definition>
-        <definition standardID="d1ba1e68c2a139b4">
+        <definition standardID="d1ba1e68c2a139b4" term="tax calculation principles">
           <text>“Tax Calculation Principles” means the principles set forth in this Section 5.23</text>
         </definition>
-        <definition standardID="a95d6318e77c394d">
+        <definition standardID="a95d6318e77c394d" term="projected transaction tax model">
           <text>“Projected Transaction Tax Model” means a dynamic model that the parties hereto will use to calculate the Transaction Tax (and each component thereof) based on the Final NW Stock Tax Basis and reasonable projections, assumptions and estimates, including with respect to (i) the SpinCo Equity Value, (ii) the Closing Date, (iii) the accrual of income, gain, loss, deductions and credits, (iv) the rates at which the Company and its Subsidiaries would be subject to Tax with respect to the income and gain items taken into account in computing the Transaction Tax, (v) any changes to tax asset basis since the date of this Agreement, (vi) in the case of Required Post-Closing Divestiture Taxes, a good faith estimate of the amount and timing of the proceeds to be recognized in the applicable Required Divestitures, (vii) the gross liabilities of SpinCo as calculated for U.S. federal income tax purposes (including, in the case of any unaccrued liabilities, the estimated amount of such liabilities in accordance with Treasury Regulations Section 1.336-3(d)) and (viii) in the case of taxable periods or portions thereof (A) beginning before the date hereof and ending after the date hereof and (B) beginning on or before the Closing Date and ending after the Closing Date, apportioning items of income, gain, deduction, loss or credit based on a hypothetical closing of the books of the Company and its Subsidiaries on the date hereof and on the Closing Date.</text>
           <text>(g) The parties hereto acknowledge and agree that (1) the SpinCo Operational Tax (and each component thereof) and the Transaction Tax (and each component thereof) are</text>
           <pageUUID>d9f55dc0-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
@@ -799,244 +799,244 @@
       </section>
       <section title="Section 8.11. Definitions." order="11" standardId="a3315f05e6460096">
         <text>For purposes of this Agreement:</text>
-        <definition standardID="1198c4a699797a12">
+        <definition standardID="1198c4a699797a12" term="affiliate">
           <text>“Affiliate” means, when used with respect to any party, any Person who is an “affiliate” of that party within the meaning of Rule 405 promulgated under the Securities Act.</text>
         </definition>
-        <definition standardID="e604e2a43473aa86">
+        <definition standardID="e604e2a43473aa86" term="affiliation agreements">
           <text>“Affiliation Agreements” means affiliation, distribution Contracts (including multiplatform video distribution Contracts) for the distribution of multichannel video programming services with a video programming distributor, including cable systems, SMATV, open video systems and MMDS, MDS and DBS systems, wireless and broadband, or a streaming or “over the top” multichannel video programming service provider, in each case, for the distribution of such programming services, and any correspondence or writings amending the foregoing.</text>
         </definition>
-        <definition standardID="92de6de35c7ae8b4">
+        <definition standardID="92de6de35c7ae8b4" term="antitrust laws">
           <text>“Antitrust Laws” means the Sherman Antitrust Act, the Clayton Antitrust Act of 1914, the HSR Act and all other federal, state and foreign statutes, rules, regulations, orders, decrees and other Laws and Orders that are designed or intended to prohibit, restrict or regulate actions having the purpose or effect of monopolization or restraint of trade or competition.</text>
         </definition>
-        <definition standardID="70eae4abe5380648">
+        <definition standardID="70eae4abe5380648" term="australian private rulings">
           <text>“Australian Private Rulings” means (i) a private ruling issued by the ATO, in effect on the Closing Date, confirming that the Hook Stock Charter Amendment, the Stock Split and the Distribution or any Alternative Transactions will not result in any Hook Stock Tax under Australian Tax Law and (ii) a private ruling issued by the ATO, in effect on the Closing Date, confirming that (A) the Australian holders of Hook Stock will be eligible to choose Scrip-For-Scrip Rollover Relief in respect of the Initial Merger and (B) no Hook Stock Tax otherwise arises under Australian Tax Law in respect of the Initial Merger.</text>
         </definition>
         <pageUUID>d9f59312-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="2128df61888420a0">
+        <definition standardID="2128df61888420a0" term="average parent stock price">
           <text>“Average Parent Stock Price” means the average of the volume weighted averages of the trading prices of Parent Common Stock on the NYSE (as reported by Bloomberg L.P. or, if not reported therein, in another authoritative source mutually selected by the parties) on each of the 15 consecutive Trading Days ending on (and including) the Trading Day that is three Trading Days prior to the date of the First Effective Time.</text>
         </definition>
-        <definition standardID="5336536042ff6f14">
+        <definition standardID="5336536042ff6f14" term="bridge facility">
           <text>“Bridge Facility” means that certain Bridge Credit Agreement, dated as of December 15, 2016, among 21st Century Fox America, Inc., as borrower, the Company, as parent guarantor, the lenders party thereto, Goldman Sachs Bank USA, Deutsche Bank AG Cayman Islands Branch and J.P. Morgan Europe Limited, as co-administrative agents, and J.P. Morgan Europe Limited, as designated agent.</text>
         </definition>
-        <definition standardID="f0d9e739e54de85d">
+        <definition standardID="f0d9e739e54de85d" term="business day">
           <text>“business day” means any day of the year other than (a) a Saturday or a Sunday or (b) a day on which banks are required or authorized by Law to be closed in New York City.</text>
         </definition>
-        <definition standardID="d55c9346e476b759">
+        <definition standardID="d55c9346e476b759" term="commercial agreements">
           <text>“Commercial Agreements” means definitive agreements prepared pursuant to Section 5.21 memorializing the terms contained in the Commercial Term Sheets.</text>
         </definition>
-        <definition standardID="d55c9346e476b759">
+        <definition standardID="d55c9346e476b759" term="commercial term sheets">
           <text>“Commercial Term Sheets” means the term sheets attached hereto as Exhibit III setting forth the principal terms in accordance with which the Commercial Agreements shall be prepared pursuant to Section 5.21.</text>
         </definition>
-        <definition standardID="98c34f1bf02809e3">
+        <definition standardID="98c34f1bf02809e3" term="company deferred stock units">
           <text>“Company Deferred Stock Units” means an award of Company deferred stock units held by the Company’s non-employee directors.</text>
         </definition>
-        <definition standardID="889726f4dd1c4ab4">
+        <definition standardID="889726f4dd1c4ab4" term="company equity award">
           <text>“Company Equity Award” means each Company Deferred Stock Unit, each Company Restricted Stock Unit and each Company Performance Stock Unit.</text>
         </definition>
-        <definition standardID="5a83b0830d37bc31">
+        <definition standardID="5a83b0830d37bc31" term="company indentures">
           <text>“Company Indentures” means the Indenture, dated as of January 28, 1993, by and among 21st Century Fox America, Inc., as issuer, the guarantors named therein and U.S. Bank National Association, as trustee, as supplemented from time to time; the Amended and Restated Indenture, dated as of March 24, 1993, by and among 21st Century Fox America, Inc., as issuer, the guarantors named therein and The Bank of New York, as trustee, as supplemented from time to time; and the Indenture, dated as of August 25, 2009, as amended and restated on February 16, 2011, by and among 21st Century Fox America, Inc., as issuer, the guarantor named therein and The Bank of New York Mellon, as trustee, as supplemented from time to time; and any other indenture or similar agreement entered into by the Company or 21st Century Fox America, Inc. following the execution of this Agreement and on or prior to the Closing Date governing notes, debentures or other debt securities issued in a capital markets debt financing.</text>
         </definition>
-        <definition standardID="cfbc705a19a3d042">
+        <definition standardID="cfbc705a19a3d042" term="company material adverse effect">
           <text>“Company Material Adverse Effect” means (A) an effect that would prevent, materially delay or materially impair the ability of the Company and its Subsidiaries to consummate the Transactions, or (B) a material adverse effect on the financial condition, properties, assets, liabilities, business or results of operations of the Retained Business, taken as a whole, excluding any such effect resulting from or arising in connection with: (1) changes in, or events generally affecting, the financial, securities or capital markets, (2) general economic or political conditions in the United States or any foreign jurisdiction in which the Retained Business operates, including any changes in currency exchange rates, interest rates, monetary policy or inflation,</text>
           <pageUUID>d9f595ec-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>(3) changes in, or events generally affecting, the industries in which the Retained Business operates, (4) any acts of war, sabotage, civil disobedience or terrorism or natural disasters (including hurricanes, tornadoes, floods or earthquakes), (5) any failure by the Retained Business to meet any internal or published budgets, projections, forecasts or predictions in respect of financial performance for any period, (6) a decline in the price of the Shares, or a change in the trading volume of the Shares, on Nasdaq, provided that the exceptions in clauses (5) and (6) shall not prevent or otherwise affect a determination that any change, effect, circumstance or development underlying such failure or decline or change (if not otherwise falling within any of the exclusions pursuant to the other clauses of this definition) has resulted in, or contributed to, a Company Material Adverse Effect, (7) changes in Law, (8) changes in GAAP (or authoritative interpretation thereof), (9) the taking of any specific action expressly required by, or the failure to take any specific action expressly prohibited by, the Transaction Documents, including the Permitted Restrictions, (10) the announcement or pendency (but, for the avoidance of doubt, not the consummation) of the Transactions, including the impact thereof on the relationships with customers, suppliers, distributors, partners or employees (provided that the exception in this clause (10) shall not apply to references to “Company Material Adverse Effect” in Section 3.04), (11) any failure of a Sky Acquisition to be consummated or any other failure of the Company to acquire any shares of Sky plc or any actions taken by the Company to comply with a remedy imposed by, or reasonably expected to be imposed by, a Governmental Entity, by order, consent decree, hold separate order, trust or otherwise with respect to a Sky Acquisition (any such event, a “Sky Event”); provided, however, that the changes, effects, circumstances or developments set forth in the foregoing clauses (1), (2), (3), (4), (7) and (8) shall be taken into account in determining whether a “Company Material Adverse Effect” has occurred to the extent such changes, effects, circumstances or developments have a materially disproportionate adverse effect on the Retained Business, taken as a whole, relative to other participants in the industries in which the Retained Business operates, but, in such event, only the incremental disproportionate impact of such changes, effects, circumstances or developments shall be taken into account in determining whether a “Company Material Adverse Effect” has occurred.</text>
         </definition>
-        <definition standardID="d4a1931c33c7983b">
+        <definition standardID="d4a1931c33c7983b" term="company market capitalization">
           <text>“Company Market Capitalization” means the sum of (i) the product of (A) the VWAP of a share of Class A Common Stock (based on regular-way trading) over the Stock Split Valuation Period and (B) the average number of shares of Class A Common Stock determined on a fully diluted basis over the Stock Split Valuation Period, and (ii) the product of (x) the VWAP of a share of Class B Common stock (based on regular-way trading) over the Stock Split Valuation Period and (y) the average number of shares of Class B Common Stock determined on a fully diluted basis over the Stock Split Valuation Period. All Hook Stock will be ignored for purposes of this definition.</text>
         </definition>
-        <definition standardID="623aa835dbd72302">
+        <definition standardID="623aa835dbd72302" term="company overview presentation">
           <text>“Company Overview Presentation” means the Company Overview of the Company, dated October 2017, which has been provided to Parent prior to the date of this Agreement.</text>
         </definition>
-        <definition standardID="a22246421e2da8a3">
+        <definition standardID="a22246421e2da8a3" term="company performance stock units">
           <text>“Company Performance Stock Units” means an award of performance stock units in respect of shares of Class A Common Stock, the vesting of which is conditioned in whole or part on the satisfaction of performance criteria.</text>
         </definition>
         <pageUUID>d9f59808-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="b2de77da89a85c52">
+        <definition standardID="b2de77da89a85c52" term="company restricted stock units">
           <text>“Company Restricted Stock Units” means an award of restricted stock units in respect of shares of Class A Common Stock (other than any such units held by the Company’s non-employee directors), the vesting of which is conditioned solely on the passage of time.</text>
         </definition>
-        <definition standardID="cfb1b1ac11bbeb2e">
+        <definition standardID="cfb1b1ac11bbeb2e" term="company stock plans">
           <text>“Company Stock Plans” means the Company’s 2013 Long-Term Incentive Plan (the “2013 Company Stock Plan’) and the News Corporation 2005 Long-Term Incentive Plan, as amended.</text>
         </definition>
-        <definition standardID="969054151aeb5eea">
+        <definition standardID="969054151aeb5eea" term="confidentiality agreement">
           <text>“Confidentiality Agreement” means the Confidentiality Agreement, dated October 1, 2017, between the Company and Parent.</text>
         </definition>
-        <definition standardID="6ab2c00a1fdcabcf">
+        <definition standardID="6ab2c00a1fdcabcf" term="cooperation agreement">
           <text>“Cooperation Agreement” means the Cooperation Agreement dated December 15, 2016 by and between the Company and Sky plc (as it may be amended from time to time in accordance with this Agreement).</text>
         </definition>
-        <definition standardID="ba11e5fc732ee720">
+        <definition standardID="ba11e5fc732ee720" term="distribution merger sub">
           <text>“Distribution Merger Sub” means a wholly owned Subsidiary of the Company, to be formed as a Delaware corporation prior to the Distribution.</text>
         </definition>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental law">
           <text>“Environmental Law” means any Law or Order relating to the protection, investigation or restoration of the environment or natural resources or, as it relates to any exposure to any hazardous or toxic substance in the environment, to the protection of human health and safety.</text>
           <text>“Exploitation” (including, with correlative meaning, the term “Exploit”) means the release, exhibition, performance, projection, broadcast, telecast, transmission, promotion, publicizing, advertisement, rental, lease, licensing, sublicensing, sale, transfer, disposition, distribution, sub-distribution, commercializing, merchandising, creation, development, production, marketing, use, exercise, trading in, turning to account, dealing with and in and otherwise exploiting in any form and any and all media now known or hereafter devised of any asset or portions thereof, or any rights therein or relating thereto, including the right to develop, produce and distribute subsequent and/or derivative productions based thereon.</text>
         </definition>
-        <definition standardID="36517758b65e99a9">
+        <definition standardID="36517758b65e99a9" term="export and sanctions regulations">
           <text>“Export and Sanctions Regulations” means the U.S. International Traffic in Arms Regulations, the Export Administration Regulations, U.S. sanctions Laws and regulations administered by the Department of the Treasury’s Office of Foreign Assets Control and the anti-boycott regulations administered by the U.S. Department of Commerce and U.S. Department of Treasury.</text>
         </definition>
-        <definition standardID="12024e80ae327bfd">
+        <definition standardID="12024e80ae327bfd" term="gaap">
           <text>“GAAP” means U.S. generally accepted accounting principles.</text>
         </definition>
-        <definition standardID="5fbdfcf3530fff07">
+        <definition standardID="5fbdfcf3530fff07" term="government official">
           <text>“Government Official” means any official, officer, employee, or representative of, or any Person acting in an official capacity for or on behalf of, any Governmental Entity, and includes any official or employee of any directly or indirectly government-owned or -controlled entity, and any officer or employee of a public international organization, as well as any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.</text>
         </definition>
-        <definition standardID="3af35c84d74f202e">
+        <definition standardID="3af35c84d74f202e" term="governmental consents">
           <text>“Governmental Consents” shall mean all consents, approvals, permits, expirations of waiting periods and authorizations required to be obtained prior to the First Effective Time by</text>
           <pageUUID>d9f59ace-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>the Company or Parent or any of their respective Subsidiaries from, any Governmental Entity in connection with the execution and delivery of any Transaction Document and the consummation of the Transactions.</text>
         </definition>
-        <definition standardID="0857d2bc7dfa7467">
+        <definition standardID="0857d2bc7dfa7467" term="hazardous substance">
           <text>“Hazardous Substance” means any substance regulated under Environmental Law as being harmful or hazardous to human health or the environment including those listed, classified or regulated as “hazardous”, “toxic”, a “pollutant”, a “contaminant”, or words of similar meaning and regulatory effect pursuant to any Environmental Law and also including any petroleum product or by-product, asbestos-containing material, lead-containing paint, mold, polychlorinated biphenyls or radioactive materials.</text>
         </definition>
-        <definition standardID="a6306e1bb03e00c9">
+        <definition standardID="a6306e1bb03e00c9" term="indebtedness">
           <text>“Indebtedness” means, with respect to any Person, without duplication, all obligations or undertakings by such Person (i) for borrowed money (including deposits or advances of any kind to such Person); (ii) evidenced by bonds, debentures, notes or similar instruments; (iii) for capitalized leases or to pay the deferred and unpaid purchase price of property or equipment; (iv) pursuant to securitization or factoring programs or arrangements; (v) pursuant to guarantees and arrangements having the economic effect of a guarantee of any Indebtedness of any other Person (other than between or among any of Parent and its wholly owned Subsidiaries or between or among the Company and its wholly owned Subsidiaries); (vi) to maintain or cause to be maintained the financing or financial position of others; (vii) net cash payment obligations of such Person under swaps, options, derivatives and other hedging Contracts or arrangements that will be payable upon termination thereof (assuming termination on the date of determination) or (viii) letters of credit, bank guarantees, and other similar Contracts or arrangements entered into by or on behalf of such Person to the extent they have been drawn upon; provided that “Indebtedness” shall not include any profit participation rights, film or television financing partnerships, contractual arrangements for film or television financing or Programming Liabilities.</text>
         </definition>
-        <definition standardID="495e1587906c97e7">
+        <definition standardID="495e1587906c97e7" term="information technology">
           <text>“Information Technology” means computers, software, databases, firmware, middleware, servers, workstations, networks, systems, routers, hubs, switches, data communications lines, and all other information technology equipment and associated documentation.</text>
         </definition>
-        <definition standardID="99bd385c9d46e453">
+        <definition standardID="99bd385c9d46e453" term="intentional breach">
           <text>“Intentional Breach” means, with respect to any agreement or covenant of a party in this Agreement, an action or omission taken or omitted to be taken by such party in material breach of such agreement or covenant that the breaching party intentionally takes (or fails to take) with actual knowledge that such action or omission would, or would reasonably be expected to, cause such material breach of such agreement or covenant.</text>
         </definition>
-        <definition standardID="27daa9f0cf9bd2db">
+        <definition standardID="27daa9f0cf9bd2db" term="intellectual property">
           <text>“Intellectual Property” means, collectively, all U.S. and foreign intellectual property rights, including rights in (A) trademarks, service marks, brand names, certification marks, collective marks, d/b/a’s, Internet domain names, logos, designs, symbols, trade dress, trade names, and other indicia of origin, all applications and registrations for the foregoing, and all goodwill associated therewith and symbolized thereby, including all renewals of the same (“Trademarks”); (B) inventions and discoveries and improvements thereto, whether patentable or not, and all patents, patent applications, and invention disclosures, including divisions, continuations, continuations-in-part, extensions, reissues, reexaminations, and any other governmental grant for the protection of inventions or industrial designs; (C) trade secrets and</text>
           <pageUUID>d9f59cea-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>related confidential and proprietary know-how (including all confidential and proprietary ideas, concepts, research and development, plans, proposals and processes), schematics, business methods, formulae, technical data, specifications, operating and maintenance manuals, drawings, prototypes, models, designs, customer lists, supplier lists and all other confidential information and proprietary information (“Trade Secrets”); (D) published and unpublished copyrightable works of authorship in any media (including software, source code, object code, algorithms, databases and other compilations of information), copyrights therein and thereto, and registrations and applications therefor, and all renewals, extensions, restorations and reversions thereof (“Copyrights”); and (E) all derivative, compilation and ancillary rights of every kind, related to Copyrights; and (F) moral rights, rights of publicity and rights of privacy. For the avoidance of doubt, the term “Intellectual Property”, when used with respect to the Company or any of its Subsidiaries, includes all such rights of the Company and its Subsidiaries in and to the Programs and Library Tangible Assets.</text>
         </definition>
-        <definition standardID="929c32df8c1f0c14">
+        <definition standardID="929c32df8c1f0c14" term="key affiliation agreements">
           <text>“Key Affiliation Agreements” means the Affiliation Agreements of the Company and its Subsidiaries with the greatest total domestic annual revenue attributable to Retained Business channels which, in the aggregate, account for more than 80% of the total domestic annual revenue attributable to Retained Business channels, in each case measured by fiscal year 2018 revenue.</text>
         </definition>
-        <definition standardID="8cda2561a05fa33f">
+        <definition standardID="8cda2561a05fa33f" term="knowledge of the company">
           <text>“Knowledge of the Company” means the actual knowledge of the individuals identified on Section 8.11(i) of the Company Disclosure Letter.</text>
         </definition>
-        <definition standardID="8cda2561a05fa33f">
+        <definition standardID="8cda2561a05fa33f" term="knowledge of parent">
           <text>“Knowledge of Parent” means the actual knowledge of the individuals identified on Section 8.11 of the Parent Disclosure Letter.</text>
         </definition>
-        <definition standardID="03cd7308a92c74ee">
+        <definition standardID="03cd7308a92c74ee" term="library pictures">
           <text>“Library Pictures” means any and all completed audio, visual and/or audiovisual works which the Company or any of its Subsidiaries Exploits or has the right to Exploit, including any motion pictures, films, movies-of-the-week, television programs, shows, series, mini-series, episodes, pilots, specials, documentaries, cartoons, compilations, promotional films, clips, trailers and shorts and any other programs or audio-visual works, whether animated, live action or both, in any form or any medium, whether now known or hereafter developed (including theatrical, videocassette, videodisc and other home video, network, free, cable, pay, satellite, syndication, and/or any other television medium, pay-per-view, video-on-demand, advertising-supported-video-on-demand, subscription on-demand, subscription video-on-demand, electronic sell through, Internet, mobile device and other new media), in each case whether recorded digitally, on film, videotape, cassette, cartridge, disc or on or by any other means, method, process or device, whether now known or hereafter developed.</text>
         </definition>
-        <definition standardID="5c9cf758a66c9825">
+        <definition standardID="5c9cf758a66c9825" term="library tangible assets">
           <text>“Library Tangible Assets” means all physical properties of, or relating to, any Program, including prints, negatives, duplicating negatives, fine grains, music and sound effects tracks, master tapes and other duplicating materials of any kind, all various language dubbed and titled versions, prints and negatives of stills, trailers and television spots, all promotions and other advertising, marketing and publicity materials, stock footage, trims, tabs, outtakes, cells, drawings, storyboards, models, sculptures, puppets, sketches, and continuities, including any of the foregoing in the possession, custody or control of the Company or any of its Subsidiaries, or</text>
           <pageUUID>d9f59f92-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>in the possession of their respective assigns or any film laboratories, storage facilities or other Persons.</text>
         </definition>
-        <definition standardID="95dec5282215ac9e">
+        <definition standardID="95dec5282215ac9e" term="nasdaq">
           <text>“Nasdaq” means The Nasdaq Global Select Market.</text>
         </definition>
-        <definition standardID="be8a83297d8236be">
+        <definition standardID="be8a83297d8236be" term="nyse">
           <text>“NYSE” means the New York Stock Exchange.</text>
         </definition>
-        <definition standardID="29cc606db84b6893">
+        <definition standardID="29cc606db84b6893" term="parent material adverse effect">
           <text>“Parent Material Adverse Effect” means (A) an effect that would prevent, materially delay or materially impair the ability of Parent or the Merger Subs to consummate the Transactions, or (B) a material adverse effect on the financial condition, properties, assets, liabilities, business or results of operations of Parent and its Subsidiaries (excluding, after the First Effective Time, the Initial Surviving Company), taken as a whole, excluding any such effect resulting from or arising in connection with: (1) changes in, or events generally affecting, the financial, securities or capital markets, (2) general economic or political conditions in the United States or any foreign jurisdiction in which Parent or any of its Subsidiaries operate, including any changes in currency exchange rates, interest rates, monetary policy or inflation, (3) changes in, or events generally affecting, the industries in which Parent or any of its Subsidiaries operate, (4) any acts of war, sabotage, civil disobedience or terrorism or natural disasters (including hurricanes, tornadoes, floods or earthquakes), (5) any failure by Parent or any of its Subsidiaries to meet any internal or published budgets, projections, forecasts or predictions in respect of financial performance for any period, (6) a decline in the price of the shares of Parent Common Stock, or a change in the trading volume of such shares, on the NYSE, provided that the exceptions in clauses (5) and (6) shall not prevent or otherwise affect a determination that any change, effect, circumstance or development underlying such failure or decline or change (if not otherwise falling within any of the exclusions pursuant to the other clauses of this definition) has resulted in, or contributed to, a Parent Material Adverse Effect, (7) changes in Law, (8) changes in GAAP (or authoritative interpretation thereof), (9) the taking of any specific action expressly required by, or the failure to take any specific action expressly prohibited by, the Transaction Documents, including the Permitted Restrictions or (10) the announcement or pendency (but, for the avoidance of doubt, not the consummation) of the Transactions, including the impact thereof on the relationships with customers, suppliers, distributors, partners or employees (provided that the exception in this clause (10) shall not apply to references to “Parent Material Adverse Effect” in Section 4.04); provided, however, that the changes, effects, circumstances or developments set forth in the foregoing clauses (1), (2), (3), (4), (7) and (8) shall be taken into account in determining whether a “Parent Material Adverse Effect” has occurred to the extent such changes, effects, circumstances or developments have a materially disproportionate adverse effect on Parent and its Subsidiaries, taken as a whole, relative to other participants in the industries in which Parent and its Subsidiaries operate, but, in such event, only the incremental disproportionate impact of such changes, effects, circumstances or developments shall be taken into account in determining whether a “Parent Material Adverse Effect” has occurred.</text>
         </definition>
-        <definition standardID="b0e470147e4d35ca">
+        <definition standardID="b0e470147e4d35ca" term="person">
           <text>“Person” means any individual, corporation (including not-for-profit), general or limited partnership, limited liability company, joint venture, estate, trust, association, organization, Governmental Entity or other entity of any kind or nature.</text>
         </definition>
         <pageUUID>d9f5a1a4-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="520edae4490d7293">
+        <definition standardID="520edae4490d7293" term="personal data">
           <text>“Personal Data” means any data or information in any media that can be used on its own or with other information to identify, contact or locate an individual, including any such other data or information that constitutes personal data or personal information under any applicable Law or the Company’s or any of its Subsidiaries’ published privacy policies (including an individual’s combined first and last name, home address, telephone number, fax number, email address, Social Security number or other Governmental Entity-issued identifier (including state identification number, driver’s license number, or passport number), precise geolocation information of an individual or device, credit card or other financial information (including bank account information), cookie identifiers associated with registration information, or any other browser or device-specific number or identifier and any web or mobile browsing or usage information that can be used on its own or with other information to identify, contact or locate an individual).</text>
         </definition>
-        <definition standardID="b5eeed3c9afba1fd">
+        <definition standardID="b5eeed3c9afba1fd" term="programming liabilities">
           <text>“Programming Liabilities” means all obligations incurred in the ordinary course of business consistent with past practice to finance, produce, distribute, acquire, market, license, syndicate, publish, transmit or otherwise Exploit print, audio, visual and other content and information available for publication, distribution, broadcast, transmission or any other form of delivery for Exploitation on any form of media or medium of communication, whether now known or hereafter discovered or created, other than any such obligations for borrowed money or guarantees of borrowed money.</text>
         </definition>
-        <definition standardID="6f78668e0e5d0ee7">
+        <definition standardID="6f78668e0e5d0ee7" term="programs">
           <text>“Programs” means any and all Library Pictures, Works in Progress and Unproduced Properties of the Company or any of its Subsidiaries.</text>
         </definition>
-        <definition standardID="4bf07b617a36e9ff">
+        <definition standardID="4bf07b617a36e9ff" term="retained business">
           <text>“Retained Business” means the Company and its Subsidiaries and the respective businesses thereof, other than the SpinCo Business.</text>
         </definition>
-        <definition standardID="d333fcbf8bf866d6">
+        <definition standardID="d333fcbf8bf866d6" term="retained subsidiaries">
           <text>“Retained Subsidiaries” means the Subsidiaries of the Company, other than SpinCo and the SpinCo Subsidiaries.</text>
         </definition>
-        <definition standardID="e55db516b28da62d">
+        <definition standardID="e55db516b28da62d" term="revolving facility">
           <text>“Revolving Facility” means that certain Amended and Restated Credit Agreement, dated as of May 21, 2015, among 21st Century Fox America, Inc., as borrower, the Company, as parent guarantor, the lenders party thereto, JPMorgan Chase Bank, N.A. and Citibank, N.A., as co-administrative agents, and JPMorgan Chase Bank, N.A., as designated agent, as amended by that certain First Amendment to Amended and Restated Credit Agreement, dated as of December 22, 2016, among 21st Century Fox America, Inc., as borrower, the Company, as parent guarantor, and the lenders party thereto.</text>
         </definition>
-        <definition standardID="9848955121fceaf7">
+        <definition standardID="9848955121fceaf7" term="secretary of state undertakings">
           <text>“Secretary of State Undertakings” means the Undertakings in Lieu given by 21st Century Fox, Inc. pursuant to para. 3 of Schedule 2 of Enterprise Act (Protection of Legitimate Interests) Order 2003 provided to the Secretary of State, as published on June 29, 2017.</text>
           <text>“Separation” has the meaning set forth in the Separation Principles.</text>
         </definition>
-        <definition standardID="77846052c2c1ef38">
+        <definition standardID="77846052c2c1ef38" term="significant subsidiary">
           <text>“Significant Subsidiary” means any Subsidiary of a Person that constitutes a “significant subsidiary” of such person within the meaning of Rule 1-02 of Regulation S-X.</text>
         </definition>
         <pageUUID>d9f5a4a6-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="6a013dff93d95efe">
+        <definition standardID="6a013dff93d95efe" term="sky acquisition">
           <text>“Sky Acquisition” means any proposed or actual acquisition of additional shares in Sky plc by the Company or any of its Subsidiaries, and any agreement or offer related to the foregoing, including the Company’s proposed acquisition of the fully diluted share capital of Sky plc which the Company does not already own, whether through a scheme of arrangement, offer or otherwise.</text>
         </definition>
-        <definition standardID="87c322da130a40aa">
+        <definition standardID="87c322da130a40aa" term="spinco">
           <text>“SpinCo” means a wholly owned Subsidiary of the Company, to be formed as a Delaware corporation prior to the Separation.</text>
           <text>“SpinCo Business” has the meaning set forth in the Separation Principles.</text>
         </definition>
-        <definition standardID="f2cd59439d9d1ae6">
+        <definition standardID="f2cd59439d9d1ae6" term="spinco class a common stock">
           <text>“SpinCo Class A Common Stock” means the Class A shares of common stock of SpinCo.</text>
         </definition>
-        <definition standardID="f2cd59439d9d1ae6">
+        <definition standardID="f2cd59439d9d1ae6" term="spinco class b common stock">
           <text>“SpinCo Class B Common Stock” means the Class B shares of common stock of SpinCo.</text>
         </definition>
-        <definition standardID="7b2b2f8ac73e9506">
+        <definition standardID="7b2b2f8ac73e9506" term="spinco common stock">
           <text>“SpinCo Common Stock” means the SpinCo Class A Common Stock and the SpinCo Class B Common Stock.</text>
         </definition>
-        <definition standardID="9efd5a6e025ee2bb">
+        <definition standardID="9efd5a6e025ee2bb" term="spinco enterprise value">
           <text>“SpinCo Enterprise Value” means the sum of (i) the SpinCo Equity Value and (ii) the gross liabilities of SpinCo determined pursuant to the Closing Tax Model, as agreed by Parent and the Company in accordance with the Tax Calculation Principles.</text>
         </definition>
-        <definition standardID="6a2f8925d2b86c70">
+        <definition standardID="6a2f8925d2b86c70" term="spinco equity value">
           <text>“SpinCo Equity Value” means the sum of (i) the product of (A) the VWAP of a share of SpinCo Class A Common Stock on the day of the Distribution and (B) the total number of shares of SpinCo Class A Common Stock issued in the Distribution, as adjusted so that such number is determined on a fully diluted basis and (ii) the product of (A) the VWAP of a share of SpinCo Class B Common Stock on the day of the Distribution and (B) the total number of shares of SpinCo Class B Common Stock issued in the Distribution, as adjusted so that such number is determined on a fully diluted basis.</text>
         </definition>
-        <definition standardID="60491e07af1957fb">
+        <definition standardID="60491e07af1957fb" term="spinco subsidiaries">
           <text>“SpinCo Subsidiaries” means has the meaning set forth in the Separation Principles.</text>
         </definition>
-        <definition standardID="8ec7c14f50d621e1">
+        <definition standardID="8ec7c14f50d621e1" term="stockholder representation certificate">
           <text>“Stockholder Representation Certificate” means a certificate of representations, executed by a stockholder of the Company that is a party to the Voting Agreement, described in Section 12 of the Voting Agreement.</text>
         </definition>
-        <definition standardID="f07f0f5a15dd42dd">
+        <definition standardID="f07f0f5a15dd42dd" term="stock split multiple">
           <text>“Stock Split Multiple” means the quotient of (i) the Company Market Capitalization, divided by (ii) the excess of the Company Market Capitalization over the When-Issued SpinCo Market Capitalization.</text>
         </definition>
-        <definition standardID="f07f0f5a15dd42dd">
+        <definition standardID="f07f0f5a15dd42dd" term="stock split valuation period">
           <text>“Stock Split Valuation Period” means the five-day trading period ending on and including the trading day immediately prior to the date of the Distribution (or, if the SpinCo Common Stock trades (on a when-issued basis) for fewer than five days before the date of the Distribution, the entire period during which the SpinCo Common Stock trades prior to the date of the Distribution).</text>
         </definition>
-        <definition standardID="acf26aa6537ca6e1">
+        <definition standardID="acf26aa6537ca6e1" term="subsidiary">
           <text>“Subsidiary” means, with respect to any Person, any other Person of which at least a majority of the securities or ownership interests having by their terms ordinary voting power to</text>
           <pageUUID>d9f5a6d6-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>elect a majority of the Board of Directors or other persons performing similar functions is directly or indirectly owned or controlled by such Person and/or by one or more of its Subsidiaries (notwithstanding anything to the contrary contained herein, none of Sky plc nor any of its Subsidiaries shall be considered a Subsidiary of the Company for purposes of this Agreement).</text>
         </definition>
-        <definition standardID="6d7c0e8fa905eb70">
+        <definition standardID="6d7c0e8fa905eb70" term="takeover code">
           <text>“Takeover Code” means the UK City Code on Takeovers and Mergers.</text>
         </definition>
-        <definition standardID="ad6430da9024a2a2">
+        <definition standardID="ad6430da9024a2a2" term="tax">
           <text>“Tax” means all forms of taxation or duties imposed by any Governmental Entity, or required by any Governmental Entity to be collected or withheld, together with any related interest, penalties or additions.</text>
         </definition>
-        <definition standardID="28cca53db05b4120">
+        <definition standardID="28cca53db05b4120" term="tax matters agreement">
           <text>“Tax Matters Agreement” means the tax matters agreement, to be entered into between the Company and SpinCo in connection with the Distribution, prepared in accordance with the Tax Matters Agreement Principles.</text>
         </definition>
-        <definition standardID="28cca53db05b4120">
+        <definition standardID="28cca53db05b4120" term="tax matters agreement principles">
           <text>“Tax Matters Agreement Principles” means the principles set forth on Exhibit II hereto.</text>
         </definition>
-        <definition standardID="a708f83a2fd82bd5">
+        <definition standardID="a708f83a2fd82bd5" term="tax return">
           <text>“Tax Return” means all returns and reports (including elections, declarations, disclosures, schedules, attachments, estimates and information returns) with respect to Taxes required or permitted to be supplied to any Governmental Entity.</text>
         </definition>
-        <definition standardID="8fe3db335ef8b193">
+        <definition standardID="8fe3db335ef8b193" term="trading day">
           <text>“Trading Day” means (a) with respect to Parent Common Stock, a day on which shares of Parent Common Stock are traded on the NYSE and (b) with respect to SpinCo Common Stock, a day on which shares of SpinCo Common Stock are traded on Nasdaq.</text>
         </definition>
-        <definition standardID="2b1a1fff85717447">
+        <definition standardID="2b1a1fff85717447" term="transaction documents">
           <text>“Transaction Documents” means this Agreement, the Separation Agreement, the Tax Matters Agreement, the Commercial Agreements and the Confidentiality Agreement.</text>
         </definition>
-        <definition standardID="2b1a1fff85717447">
+        <definition standardID="2b1a1fff85717447" term="transactions">
           <text>“Transactions” means the transactions contemplated by this Agreement and the other Transaction Documents, including the Separation, the Distribution and the Mergers.</text>
         </definition>
-        <definition standardID="43c8a93a4623ed36">
+        <definition standardID="43c8a93a4623ed36" term="treasury regulations">
           <text>“Treasury Regulations” means the U.S. Treasury Regulations promulgated under the Code.</text>
         </definition>
-        <definition standardID="bb6a9189c92d3057">
+        <definition standardID="bb6a9189c92d3057" term="unproduced properties">
           <text>“Unproduced Properties” means those visual, literary, dramatic, musical or other materials in which the Company or any of its Subsidiaries Exploits or has the right to Exploit and for which development has not been abandoned as of the date hereof (A) upon which principal photography has not yet commenced on or prior to the date hereof and (B) which if produced and completed would otherwise constitute Library Pictures.</text>
         </definition>
-        <definition standardID="8142dc7af8e45c2b">
+        <definition standardID="8142dc7af8e45c2b" term="vwap">
           <text>“VWAP” means the volume weighted average trading price of a publicly-traded share of equity interests in a Person as reported by Bloomberg, L.P. (which VWAP, if calculated for a multi-day period, shall be based on all trades during the primary trading session from 9:30 a.m., New York City time, to 4:00 p.m. New York City time for such period, and not an average of daily averages) or, if not reported therein, in another authoritative source mutually selected by Parent and the Company.</text>
         </definition>
         <pageUUID>d9f5a97e-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="8938def447a0e077">
+        <definition standardID="8938def447a0e077" term="when-issued spinco market capitalization">
           <text>“When-Issued SpinCo Market Capitalization” means the sum of (i) the product of (A) the VWAP of a share of SpinCo Class A Common Stock (based on when-issued trading) over the Stock Split Valuation Period and (B) the total number of shares of SpinCo Class A Common Stock to be issued in the Distribution, as adjusted so that such number is determined on a fully diluted basis and (ii) the product of (x) the VWAP of a share of SpinCo Class B Common Stock (based on when-issued trading) over the Stock Split Valuation Period and (y) the total number of shares of SpinCo Class B Common Stock to be issued in the Distribution, as adjusted so that such number is determined on a fully diluted basis.</text>
         </definition>
-        <definition standardID="a7ce8ba9529f1355">
+        <definition standardID="a7ce8ba9529f1355" term="works in progress">
           <text>“Works in Progress” means all literary, dramatic, audio, visual and/or audiovisual works of any kind or character which the Company or any of its Subsidiaries Exploits or has the right to Exploit, and (A) which have been greenlighted or which are in current production or post-production and have not been abandoned, and (B) which are not complete and which, if completed, would otherwise constitute Library Pictures.</text>
         </definition>
-        <definition standardID="74128bc9fdd8cb07">
+        <definition standardID="74128bc9fdd8cb07" term="yes facility">
           <text>“YES Facility” means that certain Credit Agreement, dated as of November 18, 2014, among Yankees Entertainment and Sports Network, LLC, as the borrower, the guarantors party thereto, the lenders party thereto from time to time, and Bank of America, N.A., as administrative agent and collateral agent.</text>
         </definition>
       </section>

@@ -281,18 +281,18 @@
         <text>(b) The consummation of the Merger by the Company does not require the prior consent or pre-approval of any Governmental Entity with jurisdiction over the Company or any of its Subsidiaries regarding environmental matters (including Environmental Permits), except such consents or pre-approvals under Section 4.5(b)(vii) hereof.</text>
         <text>(c) Notwithstanding any other representations and warranties in this Agreement, and except for the representations and warranties in Section 4.6, the representations and warranties in this Section 4.17 are the only representations and warranties in this Agreement with respect to Environmental Laws or Materials of Environmental Concern.</text>
         <text>(d) For purposes of this Agreement, the following terms have the meanings assigned below:</text>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental laws">
           <text>“Environmental Laws” means all foreign, federal, state, or local statutes, regulations, ordinances, orders, judgments, codes, decrees or other legal requirements protecting the environment, including the ambient air, soil, surface water or groundwater or natural resources, pollution or human exposure to Materials of Environmental Concern.</text>
         </definition>
         <page>33</page>
         <pageUUID>ffac7568-4a0c-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental permits">
           <text>“Environmental Permits” means all permits, licenses, registrations, and other authorizations of Governmental Entities required under applicable Environmental Laws.</text>
         </definition>
-        <definition standardID="faadef4ec436caa4">
+        <definition standardID="faadef4ec436caa4" term="materials of environmental concern">
           <text>“Materials of Environmental Concern” means any pollutants or contaminants or any hazardous, acutely hazardous, radioactive or toxic substance, material or waste defined and regulated as such under Environmental Laws.</text>
         </definition>
-        <definition standardID="b5c6294f8125ee48">
+        <definition standardID="b5c6294f8125ee48" term="release">
           <text>“Release” means any release, spill, emission, leaking, pumping, injection, deposit, disposal, discharge, dispersal, leaching or migration into the indoor or outdoor environment, or into or out of any property, including movement through air, soil, surface water, groundwater or property.</text>
         </definition>
       </section>

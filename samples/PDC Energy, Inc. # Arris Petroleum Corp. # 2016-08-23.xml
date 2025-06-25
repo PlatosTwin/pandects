@@ -22,42 +22,42 @@
         <text>In this Agreement, capitalized terms have the meanings provided in this ARTICLE I, unless defined elsewhere in this Agreement.</text>
         <text>“12-Month Survival Period” has the meaning set forth in Section 3.4(a).</text>
         <text>“125 Plan” has the meaning set forth in Section 4.12(b).</text>
-        <definition standardID="ba6c443ec3fe09de">
+        <definition standardID="ba6c443ec3fe09de" term="299 apsa">
           <text>“299 APSA” means that certain Asset Purchase and Sale Agreement by and among 299 Resources LLC, 299 Production, LLC, 299 Pipeline, LLC, and Buyer, dated as of August 23, 2016.</text>
           <text>“401(k) Plans” has the meaning set forth in Section 4.12(b).</text>
           <text>“AAA” has the meaning set forth in Section 11.1(b).</text>
         </definition>
         <pageUUID>3e73645a-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="1198c4a699797a12">
+        <definition standardID="1198c4a699797a12" term="affiliate">
           <text>“Affiliate” means, with respect to a specified entity, an entity that directly, or indirectly through one or more intermediaries, controls, is controlled by or is under common control with, the entity specified; provided, however, that for purposes of this Agreement, the Company, on one hand, and 299 Resources, LLC, 299 Production, LLC and 299 Pipeline, LLC, on the other hand, will not be considered “Affiliates.” For the avoidance of doubt, (a) prior to the Closing, the Company and its Subsidiaries will be considered Affiliates of Sellers and not of Buyer and (b) from and after the Closing, the Company and its Subsidiaries will be considered Affiliates of Buyer and not of Sellers.</text>
           <text>“Agreement” has the meaning set forth in the introductory paragraph hereto.</text>
         </definition>
-        <definition standardID="29469085dc09e29a">
+        <definition standardID="29469085dc09e29a" term="allocated value">
           <text>“Allocated Value” means, with respect to each Listed Interest, the amount of the Purchase Price allocated to that Listed Interest as set forth on Exhibit C under the column “Allocated Value”.</text>
           <text>“Applicable Contracts” has the meaning set forth in the definition of “Properties”.</text>
           <text>“Arbitrator” has the meaning set forth in Section 11.1(b).</text>
           <text>“Base Purchase Price” has the meaning set forth in Section 2.1(a).</text>
         </definition>
-        <definition standardID="a5200bdd4f9d84cd">
+        <definition standardID="a5200bdd4f9d84cd" term="business day">
           <text>“Business Day” means any day other than a Saturday, Sunday or a legal holiday on which commercial banks in Denver, Colorado or Houston, Texas are authorized or required to be closed.</text>
           <text>“Buyer” has the meaning set forth in the introductory paragraph hereto.</text>
         </definition>
-        <definition standardID="7a9aae9b34879cf5">
+        <definition standardID="7a9aae9b34879cf5" term="buyer common stock">
           <text>“Buyer Common Stock” means shares of Buyer’s common stock, par value $0.01 per share.</text>
           <text>“Buyer Confidentiality Agreement” has the meaning set forth in Section 12.4.</text>
         </definition>
-        <definition standardID="11eee8ad50669b2a">
+        <definition standardID="11eee8ad50669b2a" term="buyer deliverables">
           <text>“Buyer Deliverables” means all documents, certificates and other items required to be delivered by Buyer pursuant to Section 8.2(a).</text>
           <text>“Buyer Disclosure Schedule” has the meaning set forth in Section 3.3.</text>
           <text>“Buyer Fundamental Representations” has the meaning set forth in Section 3.4(c).</text>
           <text>“Buyer Indemnified Parties” has the meaning set forth in Section 10.2(a).</text>
         </definition>
-        <definition standardID="0b3ed3b2e1490fb1">
+        <definition standardID="0b3ed3b2e1490fb1" term="buyer material adverse effect">
           <text>“Buyer Material Adverse Effect” means a change, event, circumstance, development, state of facts, or condition that, individually or in the aggregate with any other event or events, materially impairs, prevents or delays Buyer’s timely consummation of the Transactions.</text>
           <pageUUID>3e73696e-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>“Buyer Return” has the meaning set forth in Section 6.2(b).</text>
         </definition>
-        <definition standardID="0a5bd4d3b25745b0">
+        <definition standardID="0a5bd4d3b25745b0" term="buyer revolving credit facility">
           <text>“Buyer Revolving Credit Facility” means the Third Amended and Restated Credit Agreement dated as of May 21, 2013, among Buyer, Riley Natural Gas Company, as Guarantor, JP Morgan Chase Bank, N.A., as Administrative Agent and certain lenders party thereto, as amended to the Execution Date.</text>
           <text>“Buyer’s Auditor” has the meaning set forth in Section 4.8(b).</text>
           <text>“Buyer’s Environmental Review” has the meaning set forth in Section 5.2(a).</text>
@@ -69,31 +69,31 @@
           <text>“Class B Common Stock” has the meaning set forth in Section 3.2(d).</text>
           <text>“Closing” has the meaning set forth in Section 8.1(b).</text>
         </definition>
-        <definition standardID="78d020ce0c969d56">
+        <definition standardID="78d020ce0c969d56" term="closing amount">
           <text>“Closing Amount” means the Cash Consideration (a) adjusted (upward or downward) as provided in Section 2.2, using for such adjustment amounts the best information then available, and (b) less the Deposit (as provided in Section 2.1(d)).</text>
           <text>“Closing Date” has the meaning set forth in Section 8.1(b).</text>
           <text>“COBRA” has the meaning set forth in Section 3.2(k)(ix).</text>
         </definition>
-        <definition standardID="7666a237d6818118">
+        <definition standardID="7666a237d6818118" term="code">
           <text>“Code” means the Internal Revenue Code of 1986, as amended.</text>
           <text>“Company” has the meaning set forth in the introductory paragraph hereto.</text>
           <text>“Company Capital Stock” has the meaning set forth in Section 3.2(d).</text>
         </definition>
-        <definition standardID="3a173dcd209beac5">
+        <definition standardID="3a173dcd209beac5" term="company charter">
           <text>“Company Charter” means the Company’s Third Amended and Restated Certificate of Incorporation, filed with the Secretary of State of the State of Delaware on August 24, 2015, including the Designation of Rights, Preferences, Privileges and Restrictions of Senior Preferred Stock attached thereto as Exhibit A.</text>
           <text>“Company Claims” has the meaning set forth in Section 13.15(a).</text>
         </definition>
         <pageUUID>3e737080-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="b831fca98ca0ccb8">
+        <definition standardID="b831fca98ca0ccb8" term="company credit facility">
           <text>“Company Credit Facility” means the Credit Agreement, dated as of July 25, 2016, among the Company, the Lenders from time to time party thereto and Texas Capital Bank, National Association, as Administrative Agent and Letter of Credit Issuer, as amended to the Execution Date.</text>
         </definition>
-        <definition standardID="5a2184cdd5b7a6d5">
+        <definition standardID="5a2184cdd5b7a6d5" term="company deliverable">
           <text>“Company Deliverable” means all documents, certificates and other items required to be delivered by Sellers and Sellers’ Representative pursuant to Section 8.2(b), Section 8.2(c) and Section 8.2(d) to which the Company is a party.</text>
           <text>“Company Disclosure Schedule” has the meaning set forth in Section 3.2.</text>
           <text>“Company Financial Statements” has the meaning set forth in Section 3.2(f)(i).</text>
           <text>“Company Fundamental Representations” has the meaning set forth in Section 3.4(b).</text>
         </definition>
-        <definition standardID="5b80ba232072809a">
+        <definition standardID="5b80ba232072809a" term="company group">
           <text>“Company Group” means the Company and its Subsidiaries.</text>
           <pageUUID>3e7375a8-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>Company Group, as compared to other similarly situated companies participating or engaged in the same industry and in the same locations as the Properties are situated.</text>
@@ -105,14 +105,14 @@
           <text>“Company Senior Preferred Stock” has the meaning set forth in Section 3.2(d).</text>
           <text>“Confidentiality Agreements” has the meaning set forth in Section 12.4.</text>
         </definition>
-        <definition standardID="cb62656288541121">
+        <definition standardID="cb62656288541121" term="consent">
           <text>“Consent” means any consents to assignment or other similar restrictions on assignment or change of control, in each case, that would be applicable in connection with the consummation of the Transaction by Sellers.</text>
           <text>“Customary Post-Closing Consent” has the meaning set forth in Section 3.2(s)(ii).</text>
           <text>“D&amp;O Indemnified Party” has the meaning set forth in Section 4.7.</text>
           <text>“Defect Deadline” has the meaning set forth in Section 5.1(a).</text>
           <text>“Defect Response Date” has the meaning set forth in Section 5.4(b).</text>
         </definition>
-        <definition standardID="de2bba7c7b5085df">
+        <definition standardID="de2bba7c7b5085df" term="defensible title">
           <text>“Defensible Title” means such record title of the Company Group in the Properties that, as of the Effective Time, Execution Date, Defect Deadline, and Closing Date:</text>
           <text>(a) entitles the Company Group to a Net Revenue Interest with respect to a Well or Lease not less than the Net Revenue Interest set forth on Exhibit C for such Well or Lease, throughout the productive life of (i) such Well with respect to any of the Target Depth for such Well or (ii) such Lease with respect to any of the Target Depths for such Lease, as applicable, except, in each case, for changes or adjustments that result from (A) the establishment of units or changes in existing units (or the participating areas therein) after the Execution Date, (B) operations conducted as permitted or required by Section 4.1 after the Execution Date, (C) any Imbalances or (D) operations for which the Company Group from and after the Execution Date became a non-consenting owner as permitted or required by Section 4.1;</text>
           <pageUUID>3e737aa8-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
@@ -128,154 +128,154 @@
           <text>“DOJ” has the meaning set forth in Section 4.9.</text>
           <text>“ED Purchase Price Adjustment Amount” has the meaning set forth in Section 5.6(b)(i).</text>
         </definition>
-        <definition standardID="6449203fd8838c18">
+        <definition standardID="6449203fd8838c18" term="effective time">
           <text>“Effective Time” means July 1, 2016, at 7:00 a.m. Central Time.</text>
           <text>“EKS&amp;H” has the meaning set forth in Section 3.2(f)(i)(A).</text>
           <pageUUID>3e7380ca-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>to make payments or has any obligation or liability (direct, indirect, contingent or otherwise and including any such plan or other arrangement previously maintained by the Company Group) other than any Insperity Plan (as defined below) (collectively, the “Company Plans”), or (b) maintained or sponsored by Insperity, Inc. or an Affiliate of Insperity, Inc. (“Insperity”) pursuant to that certain Client Service Agreement, dated as of October 22, 2013, between Insperity PEO Services, L.P. and the Company (the “Insperity Agreement”), but excluding any plans sponsored by the Company and maintained by Insperity (such Company sponsored employer plans shall be Company Plans) (collectively, the “Insperity Plans”).</text>
         </definition>
-        <definition standardID="d81e5a1f628dde5c">
+        <definition standardID="d81e5a1f628dde5c" term="encumbrance">
           <text>“Encumbrance” means any lien, mortgage, security interest, pledge, charge, obligation, encumbrance or defect.</text>
           <text>“Environmental Deductible” has the meaning set forth in Section 5.6(c).</text>
         </definition>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental defect">
           <text>“Environmental Defect” means any event, condition, or circumstance relating to any of the Properties that (a) constitutes a violation of any Environmental Law, (b) requires remediation, reporting, corrections, or responses under Environmental Laws, (c) constitutes a Release into the environment of Hazardous Substances in violation of Environmental Law, or (d) is otherwise an Environmental Liability.</text>
         </definition>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental defect amount">
           <text>“Environmental Defect Amount” means, with respect to each Environmental Defect, the estimated Median Cost Response, net to the Company Group’s interest, of remediation for such Environmental Defect.</text>
           <text>“Environmental Defect Property” has the meaning set forth in Section 5.6(b).</text>
           <text>“Environmental Indemnity Agreement” has the meaning set forth in Section 5.6(b)(ii).</text>
         </definition>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental laws">
           <text>“Environmental Laws” means all national, state, tribal, municipal and local laws, statutes, ordinances, permits, orders, court decisions, directives, rules and regulations issued or enacted by any Governmental Body having jurisdiction pertaining to (a) the prevention of pollution, (b) protection of the environment, or (c) health and safety as affected by Hazardous Substances, including the federal Clean Air Act, as amended, the Comprehensive Environmental Response, Compensation and Liability Act, as amended, the Federal Water Pollution Control Act, as amended, the Occupational Safety and Health Act, as amended, the Resources Conservation and Recovery Act, as amended, the Safe Drinking Water Act, as amended, the Toxic Substances Control Act, as amended, the federal Oil Pollution Act, as amended, the Emergency Planning and Community Right-to-Know Act, as amended, the Hazardous Materials Transportation Act, as amended, and comparable state and local Laws.</text>
           <pageUUID>3e738624-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>expenses to the extent arising out of a Release of any Hazardous Substances, or any violation of, or any remediation obligation under, any Environmental Laws.</text>
         </definition>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental notice">
           <text>“Environmental Notice” means a written notice with respect to any Environmental Defect that includes (a) a description and explanation of the matter constituting the alleged Environmental Defect and the Properties affected thereby, (b) the Allocated Value of each Property (if applicable) affected thereby, and Buyer’s estimate of the Environmental Defect Amount with respect to such Environmental Defect (and the computations upon which Buyer’s belief is based) and (c) supporting documents (which shall be governed by the terms of the Seller Confidentiality Agreement) that may be reasonably necessary for Sellers’ Representative to verify the existence of the Environmental Defect or Buyer’s quantification of an alleged Environmental Defect Amount.</text>
           <text>“Environmental Review Defect Properties” has the meaning set forth in Section 5.2(a).</text>
           <text>“Environmental Threshold” has the meaning set forth in Section 5.6(c).</text>
         </definition>
-        <definition standardID="5bcbc3b673bfc55d">
+        <definition standardID="5bcbc3b673bfc55d" term="erisa">
           <text>“ERISA” means the Employee Retirement Income Security Act of 1974.</text>
         </definition>
-        <definition standardID="84828abef6161c5c">
+        <definition standardID="84828abef6161c5c" term="erisa affiliates">
           <text>“ERISA Affiliates” means any corporation or trade or business (regardless of whether incorporated) that is or in the past six years has been treated with the Company as a single employer or under common control within the meaning of Section 414 of the Code.</text>
         </definition>
-        <definition standardID="8d42162550d92d4e">
+        <definition standardID="8d42162550d92d4e" term="escrow account">
           <text>“Escrow Account” means the escrow account established by the Escrow Agreement.</text>
         </definition>
-        <definition standardID="41e6754a3e67928c">
+        <definition standardID="41e6754a3e67928c" term="escrow agent">
           <text>“Escrow Agent” means JPMorgan Chase Bank, N.A.</text>
         </definition>
-        <definition standardID="cabcdaca18456a77">
+        <definition standardID="cabcdaca18456a77" term="escrow agreement">
           <text>“Escrow Agreement” means the escrow agreement to be entered into by Escrow Agent, Buyer and Sellers’ Representative in substantially the form of the Escrow Agreement dated July 26, 2016 between the Escrow Agent, Buyer, and Kimmeridge Energy Management Company, LLC and containing such terms regarding the escrow of Holdback Shares as mutually agreed by Escrow Agent, Buyer and Sellers’ Representative.</text>
           <text>“Escrowed Funds” has the meaning set forth in Section 2.1(c).</text>
         </definition>
-        <definition standardID="af14b9374a223e77">
+        <definition standardID="af14b9374a223e77" term="exchange act">
           <text>“Exchange Act” means the Securities Exchange Act of 1934 and the rules and regulations promulgated thereunder.</text>
           <pageUUID>3e738a98-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>(based on, among other relevant factors, factors set forth in Treas. Reg. § 1.1502-76(b)(1)(ii)(B)) to the portion of the Closing Date after the Closing, (d) any Taxes imposed on the Company or any of its Subsidiaries with respect to any period on or after the Effective Time, (e) any Tax payable to Buyer under Article VI, that together with any indemnity payment under Article X, exceeds the Indemnity Cap, and (f) any reduction of any Tax Attribute.</text>
           <text>“Execution Date” has the meaning set forth in the introductory paragraph hereto.</text>
         </definition>
-        <definition standardID="b95cda961637ab4b">
+        <definition standardID="b95cda961637ab4b" term="fair market value">
           <text>“Fair Market Value” means an amount equal to $62.84.</text>
         </definition>
-        <definition standardID="8287ae996916bf9d">
+        <definition standardID="8287ae996916bf9d" term="fcpa">
           <text>“FCPA” means the Foreign Corrupt Practices Act of 1977, as amended.</text>
           <text>“Final Settlement Date” has the meaning set forth in Section 9.1.</text>
           <text>“Final Settlement Statement” has the meaning set forth in Section 9.1.</text>
         </definition>
-        <definition standardID="f72fdf2b26f83765">
+        <definition standardID="f72fdf2b26f83765" term="financing">
           <text>“Financing” means any debt or equity financing under which Buyer (either directly or through any of its Subsidiaries) receives proceeds that are sufficient to enable Buyer to consummate the Transactions in accordance with the terms of this Agreement.</text>
         </definition>
-        <definition standardID="72b44b8058c87c72">
+        <definition standardID="72b44b8058c87c72" term="financing sources">
           <text>“Financing Sources” means the entities that have committed to provide or may commit to provide, or otherwise entered into agreements with any of Buyer or any of its Affiliates in connection with, the Financing, including any parties (other than Buyer or any of its Affiliates) to the agreements executed in connection with the Financing, any joinder agreements and fee letters (including the definitive agreements executed in connection with the Financing) and their respective successors and assigns.</text>
           <text>“FTC” has the meaning set forth in Section 4.9.</text>
         </definition>
-        <definition standardID="3af35c84d74f202e">
+        <definition standardID="3af35c84d74f202e" term="governmental body">
           <text>“Governmental Body” means any instrumentality, subdivision, court, administrative agency, commission, official or other governmental body of the United States or any other country or any state, municipality, locality or other government or political subdivision thereof, or any quasi-governmental or private body exercising any administrative, executive, judicial, legislative, police, regulatory, taxing, importing or other governmental or quasi-governmental body.</text>
         </definition>
-        <definition standardID="3af35c84d74f202e">
+        <definition standardID="3af35c84d74f202e" term="governmental consent">
           <text>“Governmental Consent” means any consent, approval, Order or authorization of, or registration, declaration or filing with, notice to or license or permit from, any Governmental Body.</text>
           <pageUUID>3e739006-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>Environmental Law and (c) any other chemical, material or substance, exposure to which is prohibited, limited or regulated by any applicable Environmental Law.</text>
         </definition>
-        <definition standardID="f943e19a02ddaa02">
+        <definition standardID="f943e19a02ddaa02" term="hedge contract">
           <text>“Hedge Contract” means any contract with respect to any swap, forward, future or derivative transaction or option or similar agreement, whether exchange traded, “over-the-counter” or otherwise, involving, or settled by reference to, one or more rates, currencies, commodities, equity or debt instruments or securities, or economic, financial or pricing indices or measures of economic, financial or pricing risk or value or any similar transaction or any combination of these transactions.</text>
         </definition>
-        <definition standardID="cedf9324e7089775">
+        <definition standardID="cedf9324e7089775" term="holdback amount">
           <text>“Holdback Amount” means an amount equal to (a) $57,426,348.73 in cash plus (b) the Holdback Shares.</text>
         </definition>
-        <definition standardID="ad3c76a91a160707">
+        <definition standardID="ad3c76a91a160707" term="holdback shares">
           <text>“Holdback Shares” means 456,925 fully paid and nonassessable shares of Buyer Common Stock.</text>
           <text>“HSR Act” has the meaning set forth in Section 3.3(b)(ii).</text>
         </definition>
-        <definition standardID="6f1a7e2891381452">
+        <definition standardID="6f1a7e2891381452" term="hydrocarbons">
           <text>“Hydrocarbons” means oil, gas, well gas, casinghead gas, condensate, or other liquid or gaseous hydrocarbons and all components of any of them (including liquids and products produced from any of them).</text>
         </definition>
-        <definition standardID="11852f73101bf80f">
+        <definition standardID="11852f73101bf80f" term="imbalance">
           <text>“Imbalance” means over-production or under-production or over-deliveries or under-deliveries, as applicable, on account of (a) any imbalance at the wellhead between the amount of Hydrocarbons produced from a Well and allocable to the interests of the Company Group therein and the shares of production from the relevant Well that are actually taken by or delivered to or for the account of the Company Group and (b) any marketing imbalance between the amount of Hydrocarbons required to be delivered by or to the Company Group under any Applicable Contracts relating to the purchase and sale, gathering, transportation, storage, treating, processing, or marketing of Hydrocarbons and the Hydrocarbons actually delivered by or to the Company pursuant to any such Applicable Contracts.</text>
         </definition>
-        <definition standardID="487364d965a16aa3">
+        <definition standardID="487364d965a16aa3" term="income taxes">
           <text>“Income Taxes” means any Tax based upon or measured by gross or net income, and franchise taxes based upon income, capital, Properties or operations.</text>
           <pageUUID>3e73942a-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>“Indemnity Cap” has the meaning set forth in Section 10.3.</text>
           <text>“Indemnity Deductible” has the meaning set forth in Section 10.3.</text>
         </definition>
-        <definition standardID="495e1587906c97e7">
+        <definition standardID="495e1587906c97e7" term="information technology">
           <text>“Information Technology” means each of the tangible or digital databases, computer software programs, computer hardware, and telecommunications systems owned, licensed or leased by the Company or any of its Subsidiaries, that is, whether individually or in operation together with others, material to the business of the Company or any of its Subsidiaries, including any such databases, computer software programs, computer hardware or telecommunications systems, the absence of which would be reasonably likely to cause a disruption (other than a de minimis disruption) to the operations of the Company or any of its Subsidiaries as presently conducted and a replacement or substantially functionally equivalent database or computer software program is not immediately available pursuant to a shrink-wrap or click-wrap license, or, in the instance of computer hardware or telecommunications systems, through purchase, license, or lease. “Intellectual Property” is expressly excluded from “Information Technology.”</text>
           <text>“Insperity” has the meaning set forth in the definition of “Employee Plan”.</text>
           <text>“Insperity Agreement” has the meaning set forth in the definition of “Employee Plan”.</text>
           <text>“Insperity Plans” has the meaning set forth in the definition of “Employee Plan”.</text>
         </definition>
-        <definition standardID="27daa9f0cf9bd2db">
+        <definition standardID="27daa9f0cf9bd2db" term="intellectual property">
           <text>“Intellectual Property” means the following, and all rights arising out of or associated therewith, throughout the world: (a) all inventions and discoveries, invention disclosures, patents and applications therefor and all reissues, divisions, renewals, extensions, provisionals, non-provisionals, continuations and continuations-in-part thereof, including any utility and design patents, industrial designs, and equivalent or similar statutory rights in inventions; (b) all copyrights, copyright registrations and applications therefor, and all other rights corresponding thereto, including moral rights; (c) trademarks, service marks, logos, slogans, designs, product configurations, trade dress, trade names, domain names and registrations thereof, corporate names, assumed names, and all registrations and applications for registration thereof, and the goodwill associated therewith; and (d) all trade secrets and confidential information regarding confidential information, know-how, software (other than software that is available pursuant to a shrink-wrap or click-wrap license), improvements, trade secrets, technology, technical data, customer information, supplier information, manufacturer information, blueprints, drawings, manuals, rights in databases, and all documentation relating to the foregoing.</text>
           <text>“Interim Period” has the meaning set forth in Section 4.1(a).</text>
         </definition>
-        <definition standardID="1e85ed8f06deb27b">
+        <definition standardID="1e85ed8f06deb27b" term="investment agreement">
           <text>“Investment Agreement” means the Investment Agreement substantially in the form attached hereto as Exhibit D, by and among Buyer, Sellers and each of the other Investors (as defined therein).</text>
           <pageUUID>3e73998e-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>phrase means the Knowledge of the specific Seller making such representation, and when used in Section 3.2, the phrase “to the knowledge of Sellers,” the phrase “to the knowledge of the Company” or any similar phrase means the Knowledge of the individuals set forth on Schedule 1.1(a).</text>
           <text>“Lands” has the meaning set forth in the definition of “Properties”.</text>
         </definition>
-        <definition standardID="d3a0a4989c28a607">
+        <definition standardID="d3a0a4989c28a607" term="law">
           <text>“Law” means any statute, law, ordinance, regulation, rule or Order of any Governmental Body, including any Environmental Law.</text>
         </definition>
-        <definition standardID="76e43186a73f8496">
+        <definition standardID="76e43186a73f8496" term="lease burdens">
           <text>“Lease Burdens” means the royalties, non-participating royalties, overriding royalties, production payments, reversionary interests, convertible interests, net profits interests and all other similar interests and burdens upon, measured by, or payable out of production burdening a Lease.</text>
           <text>“Leases” has the meaning set forth in the definition of “Properties”.</text>
           <text>“Liabilities” has the meaning set forth in Section 10.1.</text>
           <text>“Limited Representations” has the meaning set forth in Section 5.3.</text>
           <text>“Liquidation Preference” has the meaning set forth in the Company Charter.</text>
         </definition>
-        <definition standardID="0352754a7b285f98">
+        <definition standardID="0352754a7b285f98" term="listed interests">
           <text>“Listed Interests” means each Well and/or Lease set forth on Exhibit C.</text>
           <text>“Material Company Insurance Policies” has the meaning set forth in Section 3.2(r).</text>
           <text>“Material Contracts” has the meaning set forth in Section 3.2(w)(ii).</text>
         </definition>
-        <definition standardID="962112f07015b79c">
+        <definition standardID="962112f07015b79c" term="median cost response">
           <text>“Median Cost Response” means the response required or allowed under Environmental Laws that addresses the identified condition in the manner commensurate with the median cost (considered as a whole, taking into consideration any material negative impact such response may have on the operations of the relevant Properties and any potential material additional costs or liabilities that may likely arise as a result of such response) that is consistent with applicable cleanup objectives under relevant Environmental Laws as compared to any other response that is required or allowed under Environmental Laws. The Median Cost Response shall not include (a) the costs of Buyer’s and/or its Affiliates’ employees, project manager(s) or attorneys, (b) expenses for matters that are costs of doing business, e.g., those costs that would ordinarily be incurred in the day-to-day operations of the Properties, or in connection with permit renewal/amendment activities, maintenance on active RCRA waste management units, and operation and oversight of active RCRA waste management units, (c) overhead costs of Buyer and/or its Affiliates, and/or (d) costs or expenses incurred in connection with remedial or corrective action that is designed to achieve standards that are more stringent than those required for similar facilities or that fail to reasonably take advantage of applicable risk reduction or risk assessment principles allowed under applicable Environmental Laws.</text>
         </definition>
         <pageUUID>3e739e2a-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="8b360b527569cf2b">
+        <definition standardID="8b360b527569cf2b" term="net mineral acres">
           <text>“Net Mineral Acres” means, as computed separately with respect to each Lease, (a) the number of gross acres in the Lands covered by such Lease, multiplied by (b) the undivided percentage interest in the Hydrocarbons produced from the Target Depth for such Lease under the Lands covered by such Lease, multiplied by (c) the Company Group’s undivided Working Interest in such Lease with respect to the Target Depth for such Lease; provided, however, that, if items (b) and/or (c) vary as to different areas (including depths) of such Lands covered by such Lease, a separate calculation shall be done for each such area.</text>
         </definition>
-        <definition standardID="c29d9056a3d09b21">
+        <definition standardID="c29d9056a3d09b21" term="net revenue interest">
           <text>“Net Revenue Interest” means the interest (expressed as a percentage or decimal fraction), in and to all the Hydrocarbons produced and saved or sold from or allocated to the relevant Well or Lease after giving effect to all Lease Burdens.</text>
           <text>“Offering Documents” has the meaning set forth in Section 4.10(a).</text>
         </definition>
-        <definition standardID="c770eb43cadcc66e">
+        <definition standardID="c770eb43cadcc66e" term="order">
           <text>“Order” means any judgment, order, consent order, injunction, decree or writ of or with any Governmental Body.</text>
         </definition>
-        <definition standardID="ba231f3fad837289">
+        <definition standardID="ba231f3fad837289" term="ordinary course">
           <text>“Ordinary Course” means the ownership or operation of the Properties as a reasonably prudent person, in a good and workmanlike manner, with all due diligence and dispatch, and in accordance with good oilfield practice.</text>
           <text>“Outside Date” has the meaning set forth in Section 12.1(a).</text>
           <text>“Party” and “Parties” have the meanings set forth in the introductory paragraph hereto.</text>
           <text>“Pay Off Letter” has the meaning set forth in Section 8.2(b)(vi).</text>
           <text>“Permits” has the meaning set forth in the definition of “Properties”.</text>
         </definition>
-        <definition standardID="84ee69342f821635">
+        <definition standardID="84ee69342f821635" term="permitted encumbrance">
           <text>“Permitted Encumbrance” means:</text>
           <text>(a) all Lease Burdens affecting the Company Group’s Net Revenue Interest in any Listed Interest, if the net cumulative effect of such burdens does not operate to (i) reduce the Net Revenue Interest of the Company Group in any Well or Lease, with respect to the Target Depth for such Well or Lease, to less than the Net Revenue Interest for such Well or Lease as set forth in Exhibit C, (ii) increase the Working Interest of the Company Group in any Well or Lease, with respect to the Target Depth for such Well or Lease, to greater than the Working Interest for such Well or Lease as set forth in Exhibit C (unless the Company Group’s Net Revenue Interest with respect to such Well or Lease, with respect to the Target Depth for such Well or Lease, is greater than the Net Revenue Interest for such Well or Lease as set forth in Exhibit C, in the same or greater proportion as such increase in such Working Interest) or (iii) reduce the Net Mineral Acres in any Lease, with respect to the Target Depth for such Lease, to less than the Net Mineral Acres for such Lease as set forth on Exhibit C;</text>
           <pageUUID>3e73a3de-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
@@ -295,30 +295,30 @@
           <text>(o) all preferential purchase rights with respect to which notice has been properly served in accordance with the terms of the preferential right instrument and the time period for asserting such rights have expired without an exercise of such rights; and</text>
           <text>(p) liens and encumbrances created under deeds of trust, mortgages, and similar instruments by the lessor under a Lease covering the lessor’s surface and mineral interests in the land covered thereby provided that this clause shall not apply to any (i) (A) Well, (B) a Lease that covers more than five Net Mineral Acres, or (C) any Lease that covers lands which as of the Execution Date are being used by the Company Group for surface operations or (ii) such lien or encumbrance perfected after the recordation of the affected Lease or otherwise contractually subordinated thereto.</text>
         </definition>
-        <definition standardID="b0e470147e4d35ca">
+        <definition standardID="b0e470147e4d35ca" term="person">
           <text>“Person” means any individual, firm, corporation, partnership, limited liability company, joint venture, association, trust, unincorporated organization, Governmental Body or any other entity.</text>
         </definition>
         <pageUUID>3e73adde-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="5133f8f738309d9a">
+        <definition standardID="5133f8f738309d9a" term="phase ii environmental assessment">
           <text>“Phase II Environmental Assessment” means an intrusive investigation which collects original samples of soil, groundwater, other environmental media, indoor air or building materials to analyze for quantitative values of contaminants of concern for purposes of identifying any Recognized Environmental Condition or any Historical Recognized Environmental Condition (as such terms are defined in ASTM Standard Practice E1527-13 for Environmental Site Assessments: Phase I Environmental Site Assessment Process).</text>
         </definition>
-        <definition standardID="7828439c0f50ed78">
+        <definition standardID="7828439c0f50ed78" term="pipeline facilities">
           <text>“Pipeline Facilities” means all equipment, machinery, fixtures, and other tangible personal property and improvements located on or used or held for use in connection with any gathering, transportation, flow, disposal, production, or other type of pipeline located in, on, or under the Subject Oil and Gas Interests, together with all surface leases, permits, rights-of-way, licenses, easements, rights to any interstate gas taps, and other surface rights agreements that are primarily related to the use, ownership, or operation of such pipelines.</text>
         </definition>
-        <definition standardID="f41d3bb025599e4f">
+        <definition standardID="f41d3bb025599e4f" term="post-effective time tax period">
           <text>“Post-Effective Time Tax Period” means any Tax Period beginning at or after the Effective Time and the portion of any Straddle Period beginning at the Effective Time.</text>
         </definition>
-        <definition standardID="a7855e62e7264345">
+        <definition standardID="a7855e62e7264345" term="pre-effective time tax period">
           <text>“Pre-Effective Time Tax Period” means any Tax Period ending before the Effective Time and the portion of any Straddle Period ending immediately prior to the Effective Time.</text>
           <text>“Preliminary Settlement Statement” has the meaning set forth in Section 8.1(a).</text>
         </definition>
-        <definition standardID="eae2f99bfbf296c3">
+        <definition standardID="eae2f99bfbf296c3" term="pro rata portion">
           <text>“Pro Rata Portion” means (a) with respect to a Seller’s allocable share of any indemnification obligation, Seller Tax, Purchase Price adjustment or other payment obligation of Sellers under this Agreement, the amount by which such Seller’s portion of the Base Purchase Price would have been reduced under Section 2.3 if the Base Purchase Price had been reduced by the total amount of such indemnification obligation, Seller Tax, Purchase Price adjustment or other payment obligation of Sellers and (b) with respect to a Seller’s allocable share of any consideration or other payment to be made to Sellers under this Agreement, the amount to which such Seller would have been entitled with respect to such consideration or other payment under Section 2.3 if the Base Purchase Price had been increased by the amount of such consideration or other payment.</text>
         </definition>
-        <definition standardID="b08d20616d8e6f03">
+        <definition standardID="b08d20616d8e6f03" term="production taxes">
           <text>“Production Taxes” means Severance Taxes and Property Taxes.</text>
         </definition>
-        <definition standardID="b61c6ebb7b68016f">
+        <definition standardID="b61c6ebb7b68016f" term="properties">
           <text>“Properties” means all of the assets of the Company Group, including, without limitation, all of the Company Group’s right and title to, and interest in the following assets and properties:</text>
           <pageUUID>3e73b25c-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>(b) all oil wells and gas wells, water injection wells and other injection or disposal wells, temporarily abandoned and permanently plugged and abandoned wells, and all other wells of every nature and kind located on or attributable to the Leases, the Lands or the Unit Interests, including all of the wells described on Exhibit B-2 (the “Wells”, and, together with the Lands, the Leases, and the Unit Interests, the “Subject Oil and Gas Interests”);</text>
@@ -335,22 +335,22 @@
           <text>(m) all claims for refunds of, and any loss or credit carryovers or similar items with respect to, any Production Taxes that are for the benefit of Buyer under Section 6.1; and</text>
           <text>(n) all trade credits, accounts, receivables, instruments, general intangibles and other proceeds, benefits, income or revenues attributable to any of the Properties and properties described in this definition.</text>
         </definition>
-        <definition standardID="e56864d4a7972698">
+        <definition standardID="e56864d4a7972698" term="property taxes">
           <text>“Property Taxes” means all ad valorem, real property, personal property, and all other Taxes and similar obligations, and any penalties, additions to Tax, and interest levied or assessed thereon, assessed against the Properties or based upon or measured by the ownership of the Properties, but not including Income Taxes, Severance Taxes, or Transfer Taxes.</text>
           <text>“Purchase Price” has the meaning set forth in Section 2.1(a).</text>
           <text>“Purchased Company Group” has the meaning set forth in Section 13.15(a).</text>
         </definition>
-        <definition standardID="77b2e4512dd6a561">
+        <definition standardID="77b2e4512dd6a561" term="rcra">
           <text>“RCRA” means the Resource Conservation and Recovery Act of 1976, as amended.</text>
           <text>“Records” has the meaning set forth in the definition of “Properties”.</text>
           <text>“Related Entities” has the meaning set forth in Section 13.15(a).</text>
         </definition>
-        <definition standardID="b5c6294f8125ee48">
+        <definition standardID="b5c6294f8125ee48" term="release">
           <text>“Release” means to release, spill, leak, discharge, dispose of, pump, pour, emit, empty, inject, leach, dump or allow to escape into or through the environment.</text>
           <text>“Releasor” has the meaning set forth in Section 13.15(f).</text>
           <text>“Report Preparers” has the meaning set forth in Section 3.2(l).</text>
         </definition>
-        <definition standardID="7981d0ead65f0728">
+        <definition standardID="7981d0ead65f0728" term="representatives">
           <text>“Representatives” means, with respect to any Person, such Person’s managers, directors, officers, employees, agents, accountants, landmen, engineers, legal or financial advisors, or any representatives of such accountants, legal, or financial advisors.</text>
           <pageUUID>3e73bd88-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>existing registration statement on Form S-3 under the Securities Act; and (c) to the extent the Company Group retains or has retained auditors or independent reservoir engineers, drafts of customary comfort letters (including customary “negative assurances”) by such auditors and independent reservoir engineers that such auditors and independent reservoir engineers are prepared to issue upon completion of customary procedures in connection with any such syndication or offering of securities contemplated as part of the Financing; provided, however, that in no event shall the Company Group be required to provide any pro forma adjustments or other information regarding Buyer’s capital structure or intended use of the Properties.</text>
@@ -360,10 +360,10 @@
           <text>“Rules” has the meaning set forth in Section 11.1(b).</text>
           <text>“Scheduled Closing Date” has the meaning set forth in Section 8.1(b).</text>
         </definition>
-        <definition standardID="90e5a112fef977b4">
+        <definition standardID="90e5a112fef977b4" term="sec">
           <text>“SEC” means the United States Securities and Exchange Commission.</text>
         </definition>
-        <definition standardID="70ee2b7c25af1529">
+        <definition standardID="70ee2b7c25af1529" term="securities act">
           <text>“Securities Act” means the Securities Act of 1933 and the rules and regulations promulgated thereunder.</text>
           <text>“Security Arrangements” has the meaning set forth in Section 3.2(gg).</text>
           <text>“Seller” and “Sellers” have the meanings set forth in the introductory paragraph hereto.</text>
@@ -371,60 +371,60 @@
           <text>“Seller Claims” has the meaning set forth in Section 3.15(b).</text>
           <text>“Seller Confidentiality Agreement” has the meaning set forth in Section 12.4.</text>
         </definition>
-        <definition standardID="229274a884390da5">
+        <definition standardID="229274a884390da5" term="seller deliverables">
           <text>“Seller Deliverables” means all documents, certificates and other items required to be delivered by Sellers and Sellers’ Representative pursuant to Section 8.2(b), Section 8.2(c) and Section 8.2(d).</text>
           <text>“Seller Disclosure Schedule” has the meaning set forth in Section 3.1.</text>
           <text>“Seller Fundamental Representations” has the meaning set forth in Section 3.4(a).</text>
           <text>“Seller Indemnified Parties” has the meaning set forth in Section 10.1.</text>
         </definition>
-        <definition standardID="17bbc9fbc6991a76">
+        <definition standardID="17bbc9fbc6991a76" term="seller material adverse effect">
           <text>“Seller Material Adverse Effect” means a change, event, circumstance, development, state of facts, or condition that, individually or in the aggregate with any other event or events, materially impairs, prevents or delays Sellers’ timely consummation of the Transactions.</text>
           <pageUUID>3e73c3e6-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
           <text>“Seller Releasing Parties” has the meaning set forth in Section 13.15(a).</text>
         </definition>
-        <definition standardID="5189bc6e836a8740">
+        <definition standardID="5189bc6e836a8740" term="seller taxes">
           <text>“Seller Taxes” means (a) all Taxes imposed on the Company or any Subsidiary pursuant to Treas. Reg. § 1.1502-6 or similar provision of state or local law solely as a result of the Company or any Subsidiary having been a member of a consolidated, unitary or combined (or similar) tax group for any Tax Period that ends on or before the Closing Date, (b) Taxes imposed on the Company or any of its Subsidiaries for any Pre-Effective Time Tax Period, (c) any Taxes resulting from a breach of any representation or warranty set forth in Section 3.2(j) or a breach by any Seller (or the Company Group prior to Closing) of any covenant relating to Taxes set forth in this Agreement and (d) any reasonable out-of-pocket expenses incurred by Buyer in connection with the determination, settlement or litigation of any of the Taxes described in clauses (a) through (c) above; provided, however, that Seller Taxes shall not include Excluded Taxes.</text>
           <text>“Sellers’ Representative” has the meaning set forth in the introductory paragraph hereto.</text>
         </definition>
-        <definition standardID="98d9bef49105143d">
+        <definition standardID="98d9bef49105143d" term="severance taxes">
           <text>“Severance Taxes” means all extraction, production, excise, net proceeds, severance, windfall profit and all other Taxes and similar obligations, and any penalties, additions to Tax, and interest levied or assessed thereon, with respect to the Properties that are based upon or measured by the production of Hydrocarbons or the receipt of proceeds therefrom, but not including Property Taxes, Income Taxes, and Transfer Taxes.</text>
           <text>“SOL Survival Period” has the meaning set forth in Section 3.4(a).</text>
         </definition>
-        <definition standardID="2a39d8a19f1346d2">
+        <definition standardID="2a39d8a19f1346d2" term="specified liabilities">
           <text>“Specified Liabilities” means all Liabilities resulting from, based upon, or resulting from: (a) ownership, development, exploration, operation or maintenance of the Properties prior to the Effective Time or the production, transportation, processing and marketing of Hydrocarbons from the Properties prior to the Effective Time, in each case of this clause (a) other than Environmental Liabilities; (b) the gross negligence or willful misconduct of any Seller or such Seller’s Affiliates or the Company Group or their respective Affiliates with respect to the operation of the Properties prior to Closing; (c) any personal injury or death occurring on or attributable to the Company Group’s interest in the Properties prior to Closing; (d) those actions, suits, proceedings, or litigation relating to the Properties and for which any Seller or any member of the Company Group has been served prior to the Execution Date, including any matters described on Schedule 3.2(i) of the Company Disclosure Schedule; (e) any civil fines or penalties or criminal sanctions imposed on Sellers or the Company Group as a result of any pre-Closing violation of Law in connection with the Properties; (f) any Liabilities that are the result of any off-site transport or disposal, or arrangement for transport or disposal, of any Hazardous Substances from the Company Group’s interest in the Properties prior to Closing; (g) any Company Group member’s or such Company Group member’s Affiliates’ responsibilities under ERISA applicable to employees; and (h) any Company Group member’s or such Company Group member’s Affiliates’ employment relationship with the employees of any Company Group member or its Affiliates.</text>
         </definition>
         <pageUUID>3e73c904-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="686ff9e00d82be95">
+        <definition standardID="686ff9e00d82be95" term="straddle period">
           <text>“Straddle Period” means any taxable year or period beginning on or before and ending after the Effective Time.</text>
           <text>“Subject Oil and Gas Interests” has the meaning set forth in the definition of “Properties”.</text>
         </definition>
-        <definition standardID="acf26aa6537ca6e1">
+        <definition standardID="acf26aa6537ca6e1" term="subsidiary">
           <text>“Subsidiary” means, with respect to a specified entity, (a) in the case of a corporation or limited liability company, 50% or more of the capital stock or membership interests, as applicable, the holders of which are regularly entitled to vote for the election of directors or managers, is owned directly or indirectly by such entity, or (b) in the case of a trust, partnership or other entity, a trust, partnership or entity of which such specified entity owns directly or indirectly 50% or more of the beneficial interest or equity.</text>
         </definition>
-        <definition standardID="3408a85f4b557d86">
+        <definition standardID="3408a85f4b557d86" term="supporting documentation">
           <text>“Supporting Documentation” means for a particular Title Defect, (a) if the basis is derived from any document, a copy of such document (or pertinent part thereof) or (b) if the basis is derived from any gap in the Company Group’s chain of title, the recorded documents preceding and following the gap or a run sheet or other evidence showing such gap, or (c) if the basis is not as described in clauses (a) and (b), then reasonable, written documentation.</text>
         </definition>
-        <definition standardID="18c2972516ef0929">
+        <definition standardID="18c2972516ef0929" term="survival period">
           <text>“Survival Period” means, with respect to any representation and warranty, the SOL Survival Period or the 12-Month Survival Period, whichever is applicable to such representation and warranty.</text>
           <text>“Tangible Property” has the meaning set forth in the definition of “Properties”.</text>
           <text>“Target Depth” (a) for each Well listed on Exhibit B-2, the depth or depths, as the case may be, from which such Well is completed as of the Execution Date, as described on Exhibit B-2 for such Well and (b) for each Lease listed on Exhibit C, the depth or depths described on Exhibit C for such Lease.</text>
         </definition>
-        <definition standardID="15308ef6ac224f29">
+        <definition standardID="15308ef6ac224f29" term="tax">
           <text>“Tax” (and, with correlative meaning, “Taxes”) means any federal, state, local or foreign net income, gross income, gross receipts, windfall profit, severance, property, production, sales, use, license, excise, franchise, employment, payroll, withholding, alternative or add-on minimum, ad valorem, value-added, transfer or stamp tax, or any other similar tax, custom, duty, governmental fee or other like assessment or charge imposed by and payable to any Governmental Body, including any interest, penalty or addition thereto.</text>
         </definition>
-        <definition standardID="727b0f07d84a0525">
+        <definition standardID="727b0f07d84a0525" term="tax attributes">
           <text>“Tax Attributes” means, with respect to any Tax, any net operating loss carryovers, net capital loss carryovers, credits and similar Tax items of any Person, provided that “Tax Attributes” shall not include Tax basis.</text>
         </definition>
-        <definition standardID="ac8941f40baae85a">
+        <definition standardID="ac8941f40baae85a" term="tax period">
           <text>“Tax Period” means any period prescribed by any Governmental Body for which a Tax Return is required to be filed or a Tax is required to be paid.</text>
         </definition>
         <pageUUID>3e73cd46-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="a708f83a2fd82bd5">
+        <definition standardID="a708f83a2fd82bd5" term="tax return">
           <text>“Tax Return” means any return, report or similar statement required to be filed with respect to any Tax (including any attached schedules), including any information return, claim for refund, amended return or declaration of estimated Tax.</text>
           <text>“TD Purchase Price Adjustment Amount” has the meaning set forth in Section 5.4(b).</text>
           <text>“Third-Party Claim” has the meaning set forth in Section 10.4(a).</text>
         </definition>
-        <definition standardID="fe45a5a3413dfe3c">
+        <definition standardID="fe45a5a3413dfe3c" term="title benefit">
           <text>“Title Benefit” means any right, circumstance or condition that operates to (a) increase the Net Revenue Interest of the Company Group in any Well or Lease, with respect to the Target Depth for such Well or Lease, to an amount above the Net Revenue Interest set forth on Exhibit C with respect to such Well or Lease, (b) obligate the Company Group to bear a Working Interest in any Well, with respect to the Target Depth for such Well, that is less than the Working Interest set forth on Exhibit C with respect to such Well, or (c) increase the Net Mineral Acres in any Lease, with respect to the Target Depth for such Lease, to greater than the Net Mineral Acres for such Lease as set forth on Exhibit C.</text>
           <text>“Title Benefit Amount” has the meaning set forth in Section 5.5(b).</text>
           <text>“Title Deductible” has the meaning set forth in Section 5.4(c).</text>
@@ -433,22 +433,22 @@
           <text>“Title Defect Amount” has the meaning set forth in Section 5.5(a).</text>
           <text>“Title Defect Property” has the meaning set forth in Section 5.4(b).</text>
         </definition>
-        <definition standardID="04da886fabdee5c4">
+        <definition standardID="04da886fabdee5c4" term="title notice">
           <text>“Title Notice” means a written notice with respect to any Title Defect or Title Benefit, as applicable, that includes (a) a description and explanation of the Title Defect or Title Benefit, as applicable, and the Listed Interest affected thereby, (b) copies of Supporting Documentation and (c) the Allocated Value of the Listed Interest affected by such Title Defect or Title Benefit, as applicable, and Buyer’s or Sellers’ Representative’s, as applicable, estimate of, with respect to any Title Defect, the Title Defect Amount, and with respect to any Title Benefit, the Title Benefit Amount, and the computations upon which Buyer’s or Sellers’ Representative’s, as applicable, belief is based.</text>
           <text>“Title Threshold” has the meaning set forth in Section 5.4(c).</text>
         </definition>
-        <definition standardID="2b1a1fff85717447">
+        <definition standardID="2b1a1fff85717447" term="transactions">
           <text>“Transactions” means the transactions contemplated by this Agreement and the other documents and instruments to be delivered hereunder.</text>
         </definition>
-        <definition standardID="2b1a1fff85717447">
+        <definition standardID="2b1a1fff85717447" term="transaction liabilities">
           <text>“Transaction Liabilities” means (i) all fees, costs and expenses (including all legal fees and expenses, all fees and expenses payable to any investment banking firm, broker or finder, and all fees and expenses of any audit firm or accountants) that have been incurred by the Company Group in connection with this Agreement or the Transactions, (ii) all amounts due to third parties and all other costs incurred by the Company Group, in each case in connection with the Transactions including, without limitation, any amounts owing in connection with the obtaining of any Consent (it being understood that Transaction Liabilities shall not include payments or re-licensing fees required as a result of the Transactions under seismic licenses and similar licenses of geological or geophysical assets) but excluding Transfer Taxes, (iii) any costs, expenses or other obligations owing by the Company Group under or related to the Letter Agreement dated August 5, 2016 between Arris Delaware Basin, LLC and Rosetta Resources Operating LP as a result of the completion of the Closing hereunder, (iv) any liability incurred by the Company Group by reason of Section 280G or Section 4999 of the Code as a result of the Transactions and (v) the aggregate amount of cash bonuses, severance payments or any other payments paid (or accrued for) by the Company Group to current or former Company Group employees upon and as a result of consummation of the Transactions (for clarity, such amount would not include annual cash performance bonuses authorized by the Company’s Board of Directors in the Ordinary Course), in each case except for any fees, costs, expenses or payments that Buyer has otherwise expressly agreed to pay under this Agreement.</text>
         </definition>
-        <definition standardID="b10f287d8995a186">
+        <definition standardID="b10f287d8995a186" term="transfer taxes">
           <text>“Transfer Taxes” means all transfer, sales, gross receipts, use, real property transfer, documentary, stamp and other similar Taxes, and recording fees.</text>
           <text>“Unit Interests” has the meaning set forth in the definition of “Properties”.</text>
         </definition>
         <pageUUID>3e73d6ba-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="a1f703e886d5fbbb">
+        <definition standardID="a1f703e886d5fbbb" term="working interest">
           <text>“Working Interest” means the percentage of costs and expenses associated with the exploration, drilling, development, operation and abandonment of any Well or Lease required to be borne with respect thereto.</text>
         </definition>
       </section>

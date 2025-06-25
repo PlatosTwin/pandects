@@ -24,28 +24,28 @@
         <text>As used in this Agreement, the following terms have the following meanings.</text>
         <text>“Acquirer” has the meaning set forth in the preamble to this Agreement.</text>
         <text>“Acquirer Average Price” has the meaning set forth in Section 11.1.9.</text>
-        <definition standardID="7701037403048b98">
+        <definition standardID="7701037403048b98" term="acquirer bank">
           <text>“Acquirer Bank” means PNC Bank, National Association, a national banking association.</text>
         </definition>
         <pageUUID>685e6a56-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="b617b271c70f58a7">
+        <definition standardID="b617b271c70f58a7" term="acquirer closing price">
           <text>“Acquirer Closing Price” means the average, rounded to the nearest one tenth of a cent, of the closing sale prices of Acquirer Common Stock on the Stock Exchange as reported by The Wall Street Journal for the five trading days immediately preceding the date of the Effective Time.</text>
         </definition>
-        <definition standardID="d6dce6da0e40f7fc">
+        <definition standardID="d6dce6da0e40f7fc" term="acquirer common stock">
           <text>“Acquirer Common Stock” means the common stock, par value $5.00 per share, of Acquirer.</text>
         </definition>
-        <definition standardID="ee7f29b7523cad67">
+        <definition standardID="ee7f29b7523cad67" term="acquirer disclosure schedule">
           <text>“ACQUIRER DISCLOSURE SCHEDULE” means a written disclosure schedule delivered by Acquirer to Yardville prior to the execution and delivery hereof specifically referring to the appropriate section of this Agreement.</text>
           <text>“Acquirer Fee” has the meaning set forth in Section 11.2.2.</text>
         </definition>
-        <definition standardID="25d386192f2e249f">
+        <definition standardID="25d386192f2e249f" term="acquirer financial statements">
           <text>“Acquirer Financial Statements” means the (i) the audited consolidated statements of financial condition (including related notes and schedules) of Acquirer as of December 31, 2006 and 2005 and the consolidated statements of income, changes in stockholders’ equity and cash flows (including related notes and schedules, if any) of Acquirer for each of the three years ended December 31, 2006, 2005 and 2004, as set forth in Acquirer’s Annual Report on Form 10-K for the year ended December 31, 2006, and (ii) the unaudited interim consolidated financial statements of Acquirer as of the end of each calendar quarter following December 31, 2006, and for the periods then ended, as filed by Acquirer in its Securities Documents.</text>
           <text>“Acquirer Permitted Encumbrances” has the meaning set forth in Section 5.10.</text>
           <text>“Acquirer Preferred Stock” has the meaning set forth in Section 5.3.</text>
           <text>“Acquirer Ratio” has the meaning set forth in Section 11.1.9.</text>
           <text>“Acquirer Regulatory Agreement” has the meaning set forth in Section 5.12.3.</text>
         </definition>
-        <definition standardID="426b4896b71f6da2">
+        <definition standardID="426b4896b71f6da2" term="acquirer regulatory reports">
           <text>“Acquirer Regulatory Reports” means the reports of Acquirer and Acquirer Bank and accompanying schedules, as filed with any Bank Regulator, for each calendar quarter beginning with the quarter ended December 31, 2004 through the Closing Date.</text>
           <text>“Acquirer Series A Preferred Stock” has the meaning set forth in Section 5.3.1.</text>
           <text>“Acquirer Series B Preferred Stock” has the meaning set forth in Section 5.3.1.</text>
@@ -54,25 +54,25 @@
           <text>“Acquirer Series H Preferred Stock” has the meaning set forth in Section 5.3.1.</text>
           <text>“Acquirer Series I Preferred Stock” has the meaning set forth in Section 5.3.1.</text>
         </definition>
-        <definition standardID="98e2de0db6fe97fe">
+        <definition standardID="98e2de0db6fe97fe" term="acquirer stock benefit plans">
           <text>“Acquirer Stock Benefit Plans” means those stock benefit plans identified in the Exhibits to Acquirer’s Form 10-K for the year ended December 31, 2006.</text>
           <text>“Acquisition Proposal” has the meaning set forth in Section 6.10.</text>
         </definition>
         <pageUUID>685e6dd0-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="1198c4a699797a12">
+        <definition standardID="1198c4a699797a12" term="affiliate">
           <text>“Affiliate” means any Person who directly, or indirectly, through one or more intermediaries, controls, or is controlled by, or is under common control with, such Person and, without limiting the generality of the foregoing, includes any executive officer or director of such Person and any Affiliate of such executive officer or director.</text>
           <text>“Agency” has the meaning set forth in Section 4.16.6.</text>
           <text>“Agreement” has the meaning set forth in the preamble to this Agreement.</text>
           <text>“Average Index Value” has the meaning set forth in Section 11.1.9.</text>
           <text>“Bank Merger” has the meaning set forth in Section 2.6.1.</text>
         </definition>
-        <definition standardID="2cf7783a5ca2258b">
+        <definition standardID="2cf7783a5ca2258b" term="bank regulator">
           <text>“Bank Regulator” means any Federal or state banking regulator, including but not limited to the Federal Reserve, the FDIC and the OCC, which regulates the banking subsidiaries of Acquirer or Yardville, or any of their respective holding companies or subsidiaries, as the case may be.</text>
         </definition>
-        <definition standardID="7957cd93af3a1235">
+        <definition standardID="7957cd93af3a1235" term="bhca">
           <text>“BHCA” means the Bank Holding Company Act of 1956, as amended.</text>
         </definition>
-        <definition standardID="e5fbc917ee1025be">
+        <definition standardID="e5fbc917ee1025be" term="cash component">
           <text>“Cash Component” shall mean $156,455,236.</text>
           <text>“Cash Consideration” has the meaning set forth in Section 3.1.3.</text>
           <text>“Cash Conversion Number” has the meaning set forth in Section 3.1.6(a).</text>
@@ -80,69 +80,69 @@
           <text>“Cash Election Number” has the meaning set forth in Section 3.1.6(b)(i).</text>
           <text>“Cash Election Shares” has the meaning set forth in Section 3.1.3.</text>
         </definition>
-        <definition standardID="068b372713ab93bb">
+        <definition standardID="068b372713ab93bb" term="certificate">
           <text>“Certificate” means each certificate evidencing shares of Yardville Common Stock.</text>
           <text>“Claim” has the meaning set forth in Section 7.9.2.</text>
           <text>“Closing Date” has the meaning set forth in Section 2.2.</text>
           <text>“Closing” has the meaning set forth in Section 2.2.</text>
         </definition>
-        <definition standardID="fae6c769f6c7602c">
+        <definition standardID="fae6c769f6c7602c" term="cobra">
           <text>“COBRA” means the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended.</text>
           <text>“Code” has the meaning set forth in the Recitals to this Agreement.</text>
         </definition>
-        <definition standardID="969054151aeb5eea">
+        <definition standardID="969054151aeb5eea" term="confidentiality agreement">
           <text>“Confidentiality Agreement” means the confidentiality agreement referred to in Section 12.1.</text>
           <text>“Continuing Employees” has the meaning set forth in Section 7.8.2.</text>
           <text>“CRA” has the meaning set forth in Section 4.12.3.</text>
           <text>“DPC Common Shares” has the meaning set forth in Section 3.1.2.</text>
         </definition>
         <pageUUID>685e712c-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="2de30d2386532dad">
+        <definition standardID="2de30d2386532dad" term="defined benefit plan">
           <text>“Defined Benefit Plan” means a defined benefit plan within the meaning of Section 3(35) of ERISA.</text>
           <text>“Determination Date” has the meaning set forth in Section 11.1.9.</text>
           <text>“Determination Date Value” has the meaning set forth in Section 11.1.9.</text>
           <text>“Effective Time” has the meaning set forth in Section 2.2.</text>
           <text>“Election Deadline” has the meaning set forth in Section 3.2.1(d).</text>
         </definition>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental laws">
           <text>“Environmental Laws” means any applicable Federal, state or local law, statute, ordinance, rule, regulation, code, license, permit, authorization, approval, consent, order, judgment, decree, injunction or agreement with any governmental entity relating to (1) the protection, preservation or restoration of the environment (including, without limitation, air, water vapor, surface water, groundwater, drinking water supply, surface soil, subsurface soil, plant and animal life or any other natural resource), and/or (2) the use, storage, recycling, treatment, generation, transportation, processing, handling, labeling, production, release or disposal of Materials of Environmental Concern. The term Environmental Law includes without limitation (a) the Comprehensive Environmental Response, Compensation and Liability Act, as amended, 42 U.S.C. §9601, et seq.; the Resource Conservation and Recovery Act, as amended, 42 U.S.C. §6901, et seq.; the Clean Air Act, as amended, 42 U.S.C. §7401, et seq.; the Federal Water Pollution Control Act, as amended, 33 U.S.C. §1251, et seq.; the Toxic Substances Control Act, as amended, 15 U.S.C. §2601, et seq.; the Emergency Planning and Community Right to Know Act, 42 U.S.C. §11001, et seq.; the Safe Drinking Water Act, 42 U.S.C. §300f, et seq.; and all comparable state and local laws, and (b) any common law (including without limitation common law that may impose strict liability) that may impose liability or obligations for injuries or damages due to the presence of or exposure to any Materials of Environmental Concern.</text>
         </definition>
-        <definition standardID="84828abef6161c5c">
+        <definition standardID="84828abef6161c5c" term="erisa affiliate plan">
           <text>“ERISA Affiliate Plan” means any bonus, incentive, deferred compensation, pension, retirement, profit-sharing, thrift, savings, employee stock ownership, stock bonus, stock purchase, restricted stock, stock option, stock appreciation, phantom stock, severance, welfare benefit plans, fringe benefit plans, employment, severance and change in control agreements and all other material benefit practices, policies and arrangements maintained by an ERISA Affiliate in which any employee or former employee, consultant or former consultant or director or former director of any ERISA Affiliate participates or to which any such employee, consultant or director is a party or is otherwise entitled to receive benefits.</text>
         </definition>
-        <definition standardID="84828abef6161c5c">
+        <definition standardID="84828abef6161c5c" term="erisa affiliate">
           <text>“ERISA Affiliate” means, with respect to any Person, (i) a member of any “controlled group” (as defined in Section 414(b) of the Code) of which such Person is a member, (ii) a trade or business, whether or not incorporated, under common control (within the meaning of Section 414(c) of the Code) with such Person, or (iii) a member of any affiliated service group (within the meaning of Section 414(m) of the Code) of which such Person is a member.</text>
         </definition>
-        <definition standardID="5bcbc3b673bfc55d">
+        <definition standardID="5bcbc3b673bfc55d" term="erisa">
           <text>“ERISA” means the Employee Retirement Income Security Act of 1974, as amended.</text>
         </definition>
-        <definition standardID="af14b9374a223e77">
+        <definition standardID="af14b9374a223e77" term="exchange act">
           <text>“Exchange Act” means the Securities Exchange Act of 1934, as amended.</text>
         </definition>
-        <definition standardID="c9d7a995199203e3">
+        <definition standardID="c9d7a995199203e3" term="exchange agent">
           <text>“Exchange Agent” means such bank or trust company or other agent designated by Acquirer, and reasonably acceptable to Yardville, which shall act as agent for Acquirer in connection with the exchange procedures for converting shares of Yardville Common Stock evidenced by Certificates into the Merger Consideration.</text>
           <pageUUID>685e7424-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
           <text>“Exchange Agent Agreement” has the meaning set forth in Section 3.2.1.</text>
           <text>“Exchange Fund” has the meaning set forth in Section 3.2.2.</text>
         </definition>
-        <definition standardID="5fed63bc634d0665">
+        <definition standardID="5fed63bc634d0665" term="exchange ratio">
           <text>“Exchange Ratio” shall mean the quotient, rounded to the nearest one ten thousandth, of (A) the Per Share Amount divided by (B) the Acquirer Closing Price.</text>
         </definition>
-        <definition standardID="3ac4dce45d93ac9b">
+        <definition standardID="3ac4dce45d93ac9b" term="fdic">
           <text>“FDIC” means the Federal Deposit Insurance Corporation.</text>
         </definition>
-        <definition standardID="78674b7c556cf310">
+        <definition standardID="78674b7c556cf310" term="federal reserve">
           <text>“Federal Reserve” means the Board of Governors of the Federal Reserve System.</text>
         </definition>
-        <definition standardID="36345256b63260b5">
+        <definition standardID="36345256b63260b5" term="fhlb">
           <text>“FHLB” means the Federal Home Loan Bank.</text>
           <text>“Final Price” has the meaning set forth in Section 11.1.9.</text>
           <text>“Form of Election” has the meaning set forth in Section 3.2.1(b).</text>
         </definition>
-        <definition standardID="12024e80ae327bfd">
+        <definition standardID="12024e80ae327bfd" term="gaap">
           <text>“GAAP” means accounting principles generally accepted in the United States of America.</text>
         </definition>
-        <definition standardID="3af35c84d74f202e">
+        <definition standardID="3af35c84d74f202e" term="governmental entity">
           <text>“Governmental Entity” means any Federal or state court, administrative agency or commission or self-regulatory authority or other governmental authority or instrumentality.</text>
           <text>“Holder” has the meaning set forth in Section 3.2.1.</text>
           <text>“Indemnified Liabilities” has the meaning set forth in Section 7.9.2.</text>
@@ -152,146 +152,146 @@
           <text>“Initial Index Price” has the meaning set forth in Section 11.1.9.</text>
           <text>“Initial Value” has the meaning set forth in Section 11.1.9.</text>
         </definition>
-        <definition standardID="27daa9f0cf9bd2db">
+        <definition standardID="27daa9f0cf9bd2db" term="intellectual property">
           <text>“Intellectual Property” means trademarks, service marks, brand names, certification marks, trade dress and other indications of origin, the goodwill associated with the foregoing and registrations in any jurisdiction of, and applications in any jurisdiction to register, the foregoing, including any extension, modification or renewal of any such registration or application; inventions, discoveries and ideas, whether patentable or not, in any jurisdiction; patents, applications for patents (including divisions, continuations, continuations in part and renewal applications), and any renewals, extensions or reissues thereof, in any jurisdiction; nonpublic information, trade secrets and confidential information and rights in any jurisdiction to limit the use or disclosure thereof by any Person; writings and other works, whether copyrightable or not, in any jurisdiction; and registrations or applications for registration of copyrights in any jurisdiction, and any renewals or extensions thereof; and any similar intellectual property or proprietary rights.</text>
         </definition>
-        <definition standardID="e52465f78d43e2d7">
+        <definition standardID="e52465f78d43e2d7" term="irs">
           <text>“IRS” means the United States Internal Revenue Service.</text>
         </definition>
         <pageUUID>685ee53a-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="c539fd73108d7a74">
+        <definition standardID="c539fd73108d7a74" term="knowledge">
           <text>“Knowledge” means (i) with respect to Yardville, with respect to the matter in question, that any of Yardville’s Chief Executive Officer, President and Chief Operating Officer, Chief Financial Officer, and Chief Legal Officer has actual knowledge of such matter and (ii) with respect to Acquirer, with respect to the matter in question, that any of Acquirer’s Chief Executive Officer, Chief Financial Officer and General Counsel has actual knowledge of such matter.</text>
           <text>“Letter of Transmittal” has the meaning set forth in Section 3.2.3(a).</text>
           <text>“Loan Property” has the meaning set forth in Section 4.15.2.</text>
           <text>“Loans” has the meaning set forth in Section 4.16.4.</text>
         </definition>
-        <definition standardID="32d9b79490f77899">
+        <definition standardID="32d9b79490f77899" term="material adverse effect">
           <text>“Material Adverse Effect” means, with respect to Acquirer, Yardville or the Surviving Corporation, respectively, any effect that is material and adverse to (i) the financial condition, results of operations or business of such party and its Subsidiaries taken as a whole; provided that, with respect to this clause (i), “Material Adverse Effect” shall not be deemed to include the impact of any of the following: (a) changes, after the date hereof, in laws, rules or regulations or interpretations thereof by courts or Governmental Entities of general applicability to banking or bank holding company businesses, but not uniquely relating to such party, (b) changes, after the date hereof, in general economic conditions, including changes in prevailing interest rates, affecting banking or bank holding company businesses generally except to the extent that such changes have a disproportionate adverse effect on such party (c) changes in GAAP or regulatory accounting principles after the date hereof generally applicable to banks or savings institutions and their holding companies, but not uniquely relating to such party, (d) actions and omissions of a party hereto (or any of its Subsidiaries) taken with the prior written consent of the other party or to the extent expressly permitted or required by the specific terms of this Agreement, (e) the engagement by the United States in hostilities, whether or not pursuant to the declaration of a national emergency or war, or the occurrence, after the date hereof, of any military or terrorist attack upon or within the United States, or any of its territories, possessions or diplomatic or consular offices or upon any military installation, equipment or personnel of the United States, except to the extent that such engagement or occurrence has a disproportionate adverse effect on such party, and (f) the announcement of this Agreement and of the transactions contemplated by this Agreement, or (ii) the ability of such party to timely consummate the transactions contemplated by this Agreement.</text>
           <text>“Materially Burdensome Regulatory Condition” has the meaning set forth in Section 8.3.</text>
         </definition>
-        <definition standardID="faadef4ec436caa4">
+        <definition standardID="faadef4ec436caa4" term="materials of environmental concern">
           <text>“Materials of Environmental Concern” means pollutants, contaminants, wastes, toxic substances, petroleum and petroleum products, and any other materials regulated under Environmental Laws.</text>
           <text>“Maximum Amount” has the meaning set forth in Section 7.9.1.</text>
           <text>“Merger Consideration” has the meaning set forth in Section 3.1.3.</text>
         </definition>
-        <definition standardID="076bc7a557410e9b">
+        <definition standardID="076bc7a557410e9b" term="merger registration statement">
           <text>“Merger Registration Statement” means the registration statement, together with all amendments, filed with the SEC under the Securities Act for the purpose of registering shares of Acquirer Common Stock to be offered to holders of Yardville Common Stock in connection with the Merger.</text>
           <text>“Merger” has the meaning set forth in the Recitals to this Agreement.</text>
         </definition>
-        <definition standardID="b653adac4a16c02a">
+        <definition standardID="b653adac4a16c02a" term="nasdaq">
           <text>“NASDAQ” means The NASDAQ Stock Market, LLC.</text>
         </definition>
         <pageUUID>685ef39a-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="6df5f469774900d3">
+        <definition standardID="6df5f469774900d3" term="njbca">
           <text>“NJBCA” means the New Jersey Business Corporation Act, as amended.</text>
           <text>“Non-Election Shares” has the meaning set forth in Section 3.1.3.</text>
         </definition>
-        <definition standardID="b47f670df5a9cf64">
+        <definition standardID="b47f670df5a9cf64" term="occ">
           <text>“OCC” means the Office of the Comptroller of the Currency.</text>
           <text>“Operative Documents” has the meaning set forth in Section 8.5.2.</text>
           <text>“Participation Facility” has the meaning set forth in Section 4.15.2.</text>
         </definition>
-        <definition standardID="6db9a2f752b9a9f8">
+        <definition standardID="6db9a2f752b9a9f8" term="pbcl">
           <text>“PBCL” means the Business Corporation Law of the Commonwealth of Pennsylvania, as amended.</text>
           <text>“Pension Plan” has the meaning set forth in Section 4.13.2.</text>
         </definition>
-        <definition standardID="a7f66d8d72b6448d">
+        <definition standardID="a7f66d8d72b6448d" term="per share amount">
           <text>“Per Share Amount” shall mean the sum, rounded to the nearest one-tenth of a cent, of (A) $14.00 plus (B) the product, rounded to the nearest one tenth of a cent, of 0.2923 (the “Share Ratio”) times the Acquirer Closing Price.</text>
         </definition>
-        <definition standardID="b0e470147e4d35ca">
+        <definition standardID="b0e470147e4d35ca" term="person">
           <text>“Person” means any individual, corporation, partnership, joint venture, organization, association, trust, other entity or “group” (as that term is defined under the Exchange Act).</text>
           <text>“Pre-Closing” has the meaning set forth in Section 10.1.</text>
           <text>“Proxy Statement-Prospectus” has the meaning set forth in Section 8.2.1.</text>
         </definition>
-        <definition standardID="93f818d18219d629">
+        <definition standardID="93f818d18219d629" term="regulatory approvals">
           <text>“Regulatory Approvals” means the approvals of all Bank Regulators that are necessary in connection with the consummation of the Merger, the Bank Merger and the related transactions contemplated by this Agreement and the Bank Merger.</text>
         </definition>
-        <definition standardID="73f4dc2058a0e276">
+        <definition standardID="73f4dc2058a0e276" term="rights">
           <text>“Rights” means warrants, options, calls, rights, subscriptions, convertible securities, stock appreciation rights and other arrangements or commitments which obligate an entity to issue or dispose of, or make any payment based on, any of its capital stock, preferred stock, Voting Debt or other ownership interests or which provide for compensation based on the equity appreciation of its capital stock.</text>
         </definition>
-        <definition standardID="7580b993b2fa3a57">
+        <definition standardID="7580b993b2fa3a57" term="sarbanes-oxley act">
           <text>“Sarbanes-Oxley Act” means the Sarbanes-Oxley Act of 2002.</text>
         </definition>
-        <definition standardID="90e5a112fef977b4">
+        <definition standardID="90e5a112fef977b4" term="sec">
           <text>“SEC” means the Securities and Exchange Commission.</text>
         </definition>
-        <definition standardID="70ee2b7c25af1529">
+        <definition standardID="70ee2b7c25af1529" term="securities act">
           <text>“Securities Act” means the Securities Act of 1933, as amended.</text>
         </definition>
-        <definition standardID="70ee2b7c25af1529">
+        <definition standardID="70ee2b7c25af1529" term="securities documents">
           <text>“Securities Documents” means all reports, offering circulars, proxy statements, registration statements and all similar documents filed, required to be filed or furnished, pursuant to the Securities Laws.</text>
         </definition>
-        <definition standardID="70ee2b7c25af1529">
+        <definition standardID="70ee2b7c25af1529" term="securities laws">
           <text>“Securities Laws” means the Securities Act; the Exchange Act; the Investment Company Act of 1940, as amended; the Investment Advisers Act of 1940, as amended; the Trust Indenture Act of 1939, as amended; and, with respect to each of the foregoing, the rules and regulations of the SEC promulgated thereunder.</text>
           <text>“Shortfall Number” has the meaning set forth in Section 3.1.6(b)(ii).</text>
         </definition>
         <pageUUID>685efcaa-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="23e7dcdb854d6e14">
+        <definition standardID="23e7dcdb854d6e14" term="stock consideration">
           <text>“Stock Consideration” shall have the meaning set forth in Section 3.1.3.</text>
           <text>“Stock Election” has the meaning set forth in Section 3.1.3.</text>
           <text>“Stock Election Shares” has the meaning set forth in Section 3.1.3.</text>
         </definition>
-        <definition standardID="283222c30b02512a">
+        <definition standardID="283222c30b02512a" term="stock exchange">
           <text>“Stock Exchange” means New York Stock Exchange.</text>
         </definition>
-        <definition standardID="acf26aa6537ca6e1">
+        <definition standardID="acf26aa6537ca6e1" term="subsidiary">
           <text>“Subsidiary” means any entity, of which 50% or more of its economic ownership interests are owned either directly or indirectly by Acquirer or Yardville, as applicable.</text>
           <text>“Superior Proposal” has the meaning set forth in Section 6.10.</text>
           <text>“Surviving Corporation” has the meaning set forth in Section 2.1.1.</text>
         </definition>
-        <definition standardID="6fee74789626b0ba">
+        <definition standardID="6fee74789626b0ba" term="takeover laws">
           <text>“Takeover Laws” shall have the meaning set forth in Section 4.20.1.</text>
         </definition>
-        <definition standardID="ad6430da9024a2a2">
+        <definition standardID="ad6430da9024a2a2" term="tax">
           <text>“Tax” means (i) all federal, state, local, and foreign income, excise, gross receipts, ad valorem, profits, gains, property, capital, sales, transfer, use, license, payroll, employment, social security, severance, unemployment, withholding, duties, excise, windfall profits, intangibles, franchise, backup withholding, value added, alternative or add-on minimum, estimated and other taxes, charges, levies or like assessments together with all penalties and additions to tax and interest thereon and (ii) any liability for Taxes described in clause (i) above under Treasury Regulation Section 1.1502-6 (or any similar provision of state, local or foreign law).</text>
         </definition>
-        <definition standardID="a708f83a2fd82bd5">
+        <definition standardID="a708f83a2fd82bd5" term="tax return">
           <text>“Tax Return” means any return, report or declaration, including information returns, filed or required to be filed with respect to Taxes (including any amended return).</text>
         </definition>
-        <definition standardID="721b25c5c1e28ced">
+        <definition standardID="721b25c5c1e28ced" term="termination date">
           <text>“Termination Date” means March 31, 2008.</text>
           <text>“Treasury Stock” has the meaning set forth in Section 4.3.1.</text>
           <text>“Trust Account Common Shares” has the meaning set forth in Section 3.1.2.</text>
           <text>“USA Patriot Act” has the meaning set forth in Section 4.12.1.</text>
           <text>“Voting Agreement” has the meaning set forth in the Recitals to this Agreement.</text>
         </definition>
-        <definition standardID="ca1cc2904392a16e">
+        <definition standardID="ca1cc2904392a16e" term="voting debt">
           <text>“Voting Debt” means any bonds, debentures, notes or other indebtedness having the right to vote on any matters on which stockholders may vote.</text>
           <text>“Yardville” has the meaning set forth in the preamble to this Agreement, with its principal executive offices located at 2465 Kuser Road, Hamilton, New Jersey 08690.</text>
         </definition>
-        <definition standardID="1239665551951122">
+        <definition standardID="1239665551951122" term="yardville bank">
           <text>“Yardville Bank” means The Yardville National Bank, a wholly owned national bank subsidiary of Yardville that is chartered under the laws of the United States of America, with its principal executive offices at 2465 Kuser Road, Hamilton, New Jersey 08690.</text>
         </definition>
-        <definition standardID="6c47ab3778477854">
+        <definition standardID="6c47ab3778477854" term="yardville common stock">
           <text>“Yardville Common Stock” means the common stock, no par value, of Yardville.</text>
           <text>“Yardville Compensation and Benefit Plans” has the meaning set forth in Section 4.13.1.</text>
         </definition>
         <pageUUID>685f05d8-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="107cd92b5adb03ac">
+        <definition standardID="107cd92b5adb03ac" term="yardville disclosure schedule">
           <text>“YARDVILLE DISCLOSURE SCHEDULE” means a written disclosure schedule delivered by Yardville to Acquirer prior to the execution and delivery hereof specifically referring to the appropriate section of this Agreement.</text>
         </definition>
-        <definition standardID="6bf20437a54ce3ed">
+        <definition standardID="6bf20437a54ce3ed" term="yardville financial statements">
           <text>“Yardville Financial Statements” means (i) the audited consolidated statements of financial condition (including related notes and schedules, if any) of Yardville as of December 31, 2006 and 2005 and the consolidated statements of income, changes in stockholders’ equity and cash flows (including related notes and schedules, if any) of Yardville for each of the three years ended December 31, 2006, 2005 and 2004, as set forth in Yardville’s Annual Report on Form 10-K for the year ended December 31, 2006, and (ii) the unaudited interim consolidated financial statements of Yardville as of the end of each calendar quarter following December 31, 2006, and for the periods then ended, as filed by Yardville in its Securities Documents.</text>
           <text>“Yardville Insiders” has the meaning set forth in Section 7.12.</text>
         </definition>
-        <definition standardID="4fb17f1af9bd49aa">
+        <definition standardID="4fb17f1af9bd49aa" term="yardville option">
           <text>“Yardville Option” means an option to purchase shares of Yardville Common Stock granted pursuant to a Yardville Option Plan and as set forth in YARDVILLE DISCLOSURE SCHEDULE 4.3.1.</text>
         </definition>
-        <definition standardID="4fb17f1af9bd49aa">
+        <definition standardID="4fb17f1af9bd49aa" term="yardville option plans">
           <text>“Yardville Option Plans” means the 1988 Stock Option Plan, the 1997 Stock Option Plan, the Yardville National Bancorp 2003 Stock Option Plan for Non-Employee Directors and the 2005 Equity Incentive Plan, and any amendments thereto.</text>
           <text>“Yardville Permitted Encumbrances” has the meaning set forth in Section 4.10.1.</text>
           <text>“Yardville Preferred Stock” has the meaning set forth in Section 4.3.1.</text>
           <text>“Yardville Regulatory Agreement” has the meaning set forth in Section 4.12.3.</text>
         </definition>
-        <definition standardID="dfd45b193c288e3a">
+        <definition standardID="dfd45b193c288e3a" term="yardville regulatory reports">
           <text>“Yardville Regulatory Reports” means the reports of Yardville and Yardville Bank and accompanying schedules, as filed with any Bank Regulator, for each calendar quarter beginning with the quarter ended December 31, 2004 through the Closing Date.</text>
           <text>“Yardville Section 16 Information” has the meaning set forth in Section 7.12.</text>
           <text>“Yardville Stockholders Meeting” has the meaning set forth in Section 8.1.1.</text>
         </definition>
-        <definition standardID="05c9cd5269fb011a">
+        <definition standardID="05c9cd5269fb011a" term="yardville trust">
           <text>“Yardville Trust” means each of the following statutory business trust subsidiaries of Yardville: Yardville Capital Trust, Yardville Capital Trust II, Yardville Capital Trust III, Yardville Capital Trust IV, Yardville Capital Trust V, and Yardville Capital Trust VI, collectively the “Yardville Trusts.”</text>
         </definition>
-        <definition standardID="05c9cd5269fb011a">
+        <definition standardID="05c9cd5269fb011a" term="yardville trust preferred securities">
           <text>“Yardville Trust Preferred Securities” means the trust preferred securities issued by the Yardville Trusts and the related subordinated debentures issued by Yardville.</text>
           <text>“Yardville Warrants” has the meaning set forth in Section 4.3.1.</text>
           <text>Other capitalized terms used herein are defined elsewhere in this Agreement.</text>
@@ -835,27 +835,27 @@
         <text>Notwithstanding the foregoing, if Yardville elects to exercise its termination right pursuant to this Section 11.1.9, then during the seventy-two hour period commencing with the receipt by Acquirer of the notice required pursuant to the last paragraph of this Section 11.1, Acquirer shall have the option of increasing the Merger Consideration to be paid to the Yardville stockholders under Section 3.1 by adjusting the Share Ratio to equal the lesser of (i) the number (rounded to the nearest one-ten-thousandth) that would cause the Determination Date Value to be equal to the product of 0.85 and the Initial Value, and (ii) the number equal to a quotient (rounded to the nearest one-ten-thousandth), the numerator of which is the Index Ratio multiplied by the Share Ratio (as then in effect) and the denominator of which is the Acquirer Ratio.</text>
         <text>If Acquirer makes an election contemplated by the preceding sentence within such seventy-two hour period, it shall give prompt written notice to Yardville of such election and the revised Share Ratio, whereupon no termination shall have occurred pursuant to this Section 11.1.9 and this Agreement shall remain in effect in accordance with its terms (except as the Share Ratio shall have been so modified), and any references in this Agreement to the Share Ratio shall thereafter be deemed to refer to the Share Ratio as adjusted pursuant to this Section 11.1.9 (together with any additional adjustments pursuant to Section 3.1.5).</text>
         <text>As used in this Section 11.1.9, the following terms have the following meanings.</text>
-        <definition standardID="c9cb3f59be21869a">
+        <definition standardID="c9cb3f59be21869a" term="acquirer average price">
           <text>“Acquirer Average Price” means the arithmetic mean of the closing sales prices per share of Acquirer Common Stock on the Stock Exchange as reported by The Wall Street Journal for the five consecutive Stock Exchange trading days ending at the close of trading on the Determination Date.</text>
         </definition>
-        <definition standardID="a8493e3424acb465">
+        <definition standardID="a8493e3424acb465" term="average index value">
           <text>“Average Index Value” means the sum of the Final Prices for each company comprising the Index Group multiplied by the weight set forth on Exhibit C opposite the name of the applicable company, as they may be adjusted in accordance herewith.</text>
         </definition>
         <pageUUID>68625e4a-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="61e86341eabafcae">
+        <definition standardID="61e86341eabafcae" term="determination date">
           <text>“Determination Date” means the later of (i) the date on which the last required Regulatory Approval is obtained with respect to the Merger, without regard to any requisite waiting period and (ii) the business day immediately preceding the date of the Yardville Stockholders Meeting; provided, however, that if the Determination Date would occur more than fifteen days prior to the Closing Date, the Determination Date shall mean the third business day prior to the Closing Date. For the avoidance of doubt, there shall be only one Determination Date.</text>
         </definition>
-        <definition standardID="61e86341eabafcae">
+        <definition standardID="61e86341eabafcae" term="determination date value">
           <text>“Determination Date Value” means the sum of (i) the Cash Component; plus (ii) the product of (y) the aggregate Stock Consideration, multiplied by (z) the Acquirer Average Price.</text>
         </definition>
-        <definition standardID="3085829cdc0488cc">
+        <definition standardID="3085829cdc0488cc" term="final price">
           <text>“Final Price” means, with respect to any company belonging to the Index Group, the arithmetic average of the daily closing sales prices of a share of common stock of such company, as reported on the consolidated transaction reporting system for the market or exchange on which such common stock is principally traded (as reported by the Wall Street Journal or, if not reported thereby, another authoritative source) for the same trading days used in calculating the Acquirer Average Price.</text>
         </definition>
-        <definition standardID="0afc5743ec85449c">
+        <definition standardID="0afc5743ec85449c" term="index group">
           <text>“Index Group” means the twelve financial institution holding companies listed on Exhibit C attached hereto, the common stock of all of which shall be publicly traded and as to which there shall not have been a publicly announced proposal for the acquisition of any such company or as to which any such company shall have made a proposal to acquire another company in which 20% or more of its outstanding shares would be issued, in each case at any time during the period beginning on the date of this Agreement and ending on the Determination Date. In the event that, at any time during the period beginning on the date of this Agreement and ending on the Determination Date, the common stock of any such company ceases to be publicly traded, a proposal to acquire any such company is announced, or such company announces an acquisition proposal in which 20% or more of such company’s outstanding shares are to be issued, such company will be removed from the Index Group, and the weights (which have been evenly distributed) attributed to the remaining companies will be adjusted so that they remain evenly distributed for purposes of determining the Final Index Price and the Initial Index Price. The twelve financial institution holding companies and the weights attributed to them are listed on Exhibit C.</text>
           <text>“Initial Index Price” $49.83.</text>
         </definition>
-        <definition standardID="d8fc571400d62ad4">
+        <definition standardID="d8fc571400d62ad4" term="initial value">
           <text>“Initial Value” shall mean $403,354,213.</text>
           <text>The party desiring to terminate this Agreement pursuant to this Section 11.1 shall give written notice of such termination to the other party in accordance with Section 12.4, specifying the provision or provisions hereof pursuant to which such termination is effected.</text>
         </definition>

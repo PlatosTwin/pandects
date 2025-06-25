@@ -19,410 +19,410 @@
     <article title="ARTICLE 1 INTERPRETATION" standardId="2642cfbca44922d6">
       <section title="Section 1.1 Definitions." order="1" standardId="a3315f05e6460096">
         <text>As used in this Agreement the following words and expressions have the following meanings:</text>
-        <definition standardID="17e79ca754de38e0">
+        <definition standardID="17e79ca754de38e0" term="abbvie board">
           <text>“AbbVie Board” means the board of directors of AbbVie.</text>
         </definition>
-        <definition standardID="d3f8a6c6bfcda68f">
+        <definition standardID="d3f8a6c6bfcda68f" term="abbvie group">
           <text>“AbbVie Group” means AbbVie and all of its Subsidiaries.</text>
           <pageUUID>0ff5d290-4a10-11f0-8d00-be44a5e954c9</pageUUID>
           <text>agreed that the facts, events, developments or occurrences giving rise to or contributing to such decline that are not otherwise excluded from the definition of AbbVie Material Adverse Effect may, to the extent not otherwise excluded, be taken into account in determining whether there has been, or would reasonably be expected to be, an AbbVie Material Adverse Effect), (iv) any changes in political conditions or in securities, credit, financial, debt or other capital markets, in each case in the United States or any foreign jurisdiction, (v) any failure, in and of itself, by AbbVie or any of its Subsidiaries to meet any internal or published projections, forecasts, estimates or predictions, revenues, earnings or other financial or operating metrics for any period (it being understood and agreed that the facts, events, developments or occurrences giving rise to or contributing to such failure that are not otherwise excluded from the definition of AbbVie Material Adverse Effect may, to the extent not otherwise excluded, be taken into account in determining whether there has been, or would reasonably be expected to be, an AbbVie Material Adverse Effect), (vi) the execution and delivery of this Agreement, the public announcement of this Agreement or the consummation of the transactions contemplated hereby (including the Acquisition) (it being understood and agreed that the foregoing shall not apply with respect to any representation or warranty that is intended to expressly address the consequences of the execution, delivery or performance of this Agreement or the consummation of the transactions contemplated hereby (including the Acquisition) or Condition 5(ii) to the extent it relates to such representations and warranties), (vii) any adoption, implementation, promulgation, repeal, modification, amendment or change of any applicable Law of or by any Governmental Entity, (viii) any changes or prospective changes in GAAP, (ix) any changes in geopolitical conditions, the outbreak or escalation of hostilities, any acts of war, sabotage, cyberattack or terrorism, or any escalation or worsening of any such acts of war, sabotage, cyberattack or terrorism threatened or underway as of the date of this Agreement, (x) any epidemic, plague, pandemic or other outbreak of illness or public health event, hurricane, earthquake, flood or other natural disasters, acts of God or any change resulting from weather conditions (xi) any matter set forth in Section 6.2(h) of the AbbVie Disclosure Schedule or (xii) any action taken by AbbVie or any of its Subsidiaries that is expressly required to be taken by AbbVie or any of its Subsidiaries pursuant to this Agreement or any action expressly requiring Allergan’s consent pursuant to this Agreement which is not taken as a result of the failure of Allergan to consent to such action following request for such consent by AbbVie, except in the case of each of clauses (i), (ii), (iv), (vii), (viii), (ix) or (x), to the extent that any such event, change, effect, development or occurrence has a disproportionate adverse effect on AbbVie and its Subsidiaries, taken as a whole, relative to the adverse effect such event, change, effect, development or occurrence has on other companies operating in the industries in which AbbVie and its Subsidiaries operate.</text>
         </definition>
-        <definition standardID="2a37f8c79a96b92b">
+        <definition standardID="2a37f8c79a96b92b" term="abbvie parties">
           <text>“AbbVie Parties” means, collectively, AbbVie and Acquirer Sub.</text>
         </definition>
-        <definition standardID="471765126b0305e4">
+        <definition standardID="471765126b0305e4" term="abbvie preferred shares">
           <text>“AbbVie Preferred Shares” means the preferred stock of AbbVie, par value $0.01 per share.</text>
         </definition>
-        <definition standardID="d6fb90e04c4047d2">
+        <definition standardID="d6fb90e04c4047d2" term="abbvie reimbursement payment">
           <text>“AbbVie Reimbursement Payment” shall have the meaning given to that term in the Expenses Reimbursement Agreement.</text>
         </definition>
-        <definition standardID="7c19731fd1b569f2">
+        <definition standardID="7c19731fd1b569f2" term="abbvie share plan">
           <text>“AbbVie Share Plan” means the AbbVie 2013 Stock Award and Incentive Plan.</text>
         </definition>
-        <definition standardID="7c19731fd1b569f2">
+        <definition standardID="7c19731fd1b569f2" term="abbvie shares">
           <text>“AbbVie Shares” means the common stock of AbbVie, par value $0.01 per share.</text>
         </definition>
         <pageUUID>0ff5d8bc-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="6ac95f89defd0a11">
+        <definition standardID="6ac95f89defd0a11" term="acquisition">
           <text>“Acquisition” means the proposed acquisition by Acquirer Sub of Allergan by means of the Scheme or the Takeover Offer (and any such Scheme or Takeover Offer as it may be revised, amended or extended from time to time), including the issuance by AbbVie of the aggregate Share Consideration and payment by Acquirer Sub of the aggregate Cash Consideration pursuant to the Scheme or the Takeover Offer, in each case, as described in the Rule 2.5 Announcement and provided for in this Agreement.</text>
         </definition>
-        <definition standardID="a2bc13baaea1ae7b">
+        <definition standardID="a2bc13baaea1ae7b" term="act">
           <text>“Act” means the Companies Act 2014, all enactments which are to be read as one with, or construed or read together as one with the Act and every statutory modification and reenactment thereof for the time being in force.</text>
         </definition>
-        <definition standardID="ae59eaeef0fb5792">
+        <definition standardID="ae59eaeef0fb5792" term="acting in concert">
           <text>“Acting in Concert” shall have the meaning given to that term in the Takeover Panel Act.</text>
         </definition>
-        <definition standardID="ff0b5c96846edf99">
+        <definition standardID="ff0b5c96846edf99" term="actions">
           <text>“Actions” means any civil, criminal or administrative actions, litigations, arbitrations, suits, demands, claims, hearings, notices of violation, investigations, proceedings, demand letters, settlement or enforcement actions by, from or before any Governmental Entity.</text>
         </definition>
-        <definition standardID="1198c4a699797a12">
+        <definition standardID="1198c4a699797a12" term="affiliate">
           <text>“Affiliate” means, in relation to any Person, any other Person that, directly or indirectly, controls, is controlled by, or is under common control with, such first person (as used in this definition, “control” means the possession, directly or indirectly, of the power to direct or cause the direction of management or policies of a Person, whether through the ownership of securities or partnership or other ownership interests, by Contract or otherwise and the terms “controlled” and “controlling” shall have correlative meanings).</text>
         </definition>
-        <definition standardID="a99483242e56630f">
+        <definition standardID="a99483242e56630f" term="allergan alternative proposal">
           <text>“Allergan Alternative Proposal” means any bona fide proposal or offer (including non-binding proposals or offers) from any Person or Group, other than AbbVie and its Subsidiaries or any of its Concert Parties, relating to any (i) direct or indirect acquisition (whether in a single transaction or a series of related transactions) of assets of Allergan or any of its Subsidiaries (including equity securities of Subsidiaries) equal to twenty percent (20%) or more of the consolidated assets of Allergan, or to which twenty percent (20%) or more of the revenues or earnings of Allergan on a consolidated basis are attributable for the most recent fiscal year for which audited financial statements are then available, (ii) direct or indirect acquisition (including by scheme of arrangement or takeover offer) or issuance (whether in a single transaction or a series of related transactions) of twenty percent (20%) or more of any class of equity or voting securities of Allergan, (iii) scheme of arrangement, tender offer, takeover offer or exchange offer that, if consummated, would result in a Person or Group beneficially owning twenty percent (20%) or more of any class of equity or voting securities of Allergan, or (iv) scheme of arrangement, merger, consolidation, share exchange, business combination, joint venture, reorganization, recapitalization or similar transaction involving Allergan or any of its Subsidiaries, under which a Person or Group or, in the case of clause (B) below, the shareholders or equityholders of any Person or Group would, directly or indirectly, (A) acquire assets equal to twenty percent (20%) or more of the consolidated assets of Allergan, or to which 20% or more of the revenues or earnings of Allergan on a consolidated basis are attributable for the most recent fiscal year for which audited financial statements are then available, or (B) immediately after giving effect to such transactions, beneficially own twenty percent (20%) or more of any class of</text>
           <pageUUID>0ff5dec0-4a10-11f0-8d00-be44a5e954c9</pageUUID>
           <text>equity or voting securities of Allergan or the surviving or resulting Person (including any parent Person) in such transaction.</text>
         </definition>
-        <definition standardID="d5c14c2c55768f0e">
+        <definition standardID="d5c14c2c55768f0e" term="allergan benefit plan">
           <text>“Allergan Benefit Plan” means each employee welfare benefit plan within the meaning of Section 3(1) of ERISA (whether or not such plan is subject to ERISA), each employee pension benefit plan within the meaning of Section 3(2) of ERISA (whether or not such plan is subject to ERISA), and each employment, consulting, compensation, salary contribution, change-in-control, bonus, incentive, equity or equity-based, phantom equity, deferred compensation, vacation, paid time off, stock purchase, stock or stock-based, severance, termination pay or indemnity, retention, employment, change of control or fringe benefit or other material benefit or compensation plan, program, policy, scheme, arrangement, or agreement, whether or not written, that in each case, is sponsored, maintained or contributed to by any member of the Allergan Group or to which any member of the Allergan Group has or would reasonably be expected to have any material liability (whether current or contingent), excluding any arrangements maintained by any Governmental Entity or otherwise required by applicable Law.</text>
         </definition>
-        <definition standardID="ceeda6e49010bb03">
+        <definition standardID="ceeda6e49010bb03" term="allergan board">
           <text>“Allergan Board” means the board of directors of Allergan.</text>
         </definition>
-        <definition standardID="debe0e9b9e54ce31">
+        <definition standardID="debe0e9b9e54ce31" term="allergan directors">
           <text>“Allergan Directors” means the members of the board of directors of Allergan.</text>
         </definition>
-        <definition standardID="a420d9eea9b45b44">
+        <definition standardID="a420d9eea9b45b44" term="allergan employees">
           <text>“Allergan Employees” means the employees of Allergan or any Subsidiary of Allergan as of immediately prior to the Effective Time.</text>
         </definition>
-        <definition standardID="f296ac1baea57a06">
+        <definition standardID="f296ac1baea57a06" term="allergan equity award holder proposal">
           <text>“Allergan Equity Award Holder Proposal” means the proposal of AbbVie to the Allergan Equity Award Holders to be made in accordance with Rule 15 of the Takeover Rules and the terms of the Allergan Share Plans.</text>
         </definition>
-        <definition standardID="f296ac1baea57a06">
+        <definition standardID="f296ac1baea57a06" term="allergan equity award holders">
           <text>“Allergan Equity Award Holders” means the holders of Allergan Equity Awards.</text>
         </definition>
-        <definition standardID="f296ac1baea57a06">
+        <definition standardID="f296ac1baea57a06" term="allergan equity awards">
           <text>“Allergan Equity Awards” means the Allergan Options, the Allergan Restricted Stock Awards, the Allergan RSU Awards, the Allergan PSU Awards and any other Allergan equity-based awards granted under a Allergan Share Plan or otherwise.</text>
         </definition>
-        <definition standardID="fec3c66692780632">
+        <definition standardID="fec3c66692780632" term="allergan group">
           <text>“Allergan Group” means Allergan and all of its Subsidiaries.</text>
         </definition>
-        <definition standardID="ab36db54225e532b">
+        <definition standardID="ab36db54225e532b" term="allergan intellectual property">
           <text>“Allergan Intellectual Property” means the Owned Intellectual Property and the Licensed Intellectual Property.</text>
         </definition>
-        <definition standardID="ab36db54225e532b">
+        <definition standardID="ab36db54225e532b" term="allergan intervening event">
           <text>“Allergan Intervening Event” means any material event, fact, change, effect, development or occurrence arising or occurring after the date of this Agreement that (i) was not known, or the material consequences of which were not known, in each case to the Allergan Board as of or prior to the date of this Agreement, (ii) does not relate to or involve any Allergan Alternative Proposal and (iii) does not relate to AbbVie or any of its Subsidiaries.</text>
         </definition>
-        <definition standardID="d5d0db0b7d21bf59">
+        <definition standardID="d5d0db0b7d21bf59" term="allergan material adverse effect">
           <text>“Allergan Material Adverse Effect” means any event, change, effect, development or occurrence that, individually or together with any other event, change, effect, development or occurrence, (a) would prevent, materially delay or materially impair the ability of Allergan to</text>
           <pageUUID>0ff5e528-4a10-11f0-8d00-be44a5e954c9</pageUUID>
           <text>consummate the transactions contemplated hereby (including the Acquisition) prior to the End Date or (b) has had or would reasonably be expected to have a material adverse effect on the condition (financial or otherwise), properties, assets, liabilities, business, operations or results of operations of Allergan and its Subsidiaries, taken as a whole; provided that, solely for the purposes of clause (b), no event, change, effect, development or occurrence to the extent resulting from or arising out of any of the following shall be deemed to constitute an Allergan Material Adverse Effect or shall be taken into account in determining whether there has been, or would reasonably be expected to be, an Allergan Material Adverse Effect: (i) any changes in general United States or global economic conditions, (ii) any changes in conditions generally affecting the industries in which Allergan or any of its Subsidiaries operate, (iii) any decline, in and of itself, in the market price or trading volume of Allergan Shares (it being understood and agreed that the facts, events, developments or occurrences giving rise to or contributing to such decline that are not otherwise excluded from the definition of Allergan Material Adverse Effect may, to the extent not otherwise excluded, be taken into account in determining whether there has been, or would reasonably be expected to be, an Allergan Material Adverse Effect), (iv) any changes in political conditions or in securities, credit, financial, debt or other capital markets, in each case in the United States or any foreign jurisdiction, (v) any failure, in and of itself, by Allergan or any of its Subsidiaries to meet any internal or published projections, forecasts, estimates or predictions, revenues, earnings or other financial or operating metrics for any period (it being understood and agreed that the facts, events, developments or occurrences giving rise to or contributing to such failure that are not otherwise excluded from the definition of Allergan Material Adverse Effect may, to the extent not otherwise excluded, be taken into account in determining whether there has been, or would reasonably be expected to be, an Allergan Material Adverse Effect), (vi) the execution and delivery of this Agreement, the public announcement of this Agreement or the consummation of the transactions contemplated hereby (including the Acquisition) (it being understood and agreed that the foregoing shall not apply with respect to any representation or warranty that is intended to expressly address the consequences of the execution, delivery or performance of this Agreement or the consummation of the transactions contemplated hereby (including the Acquisition) or Condition 4(ii) to the extent it relates to such representations and warranties), (vii) any adoption, implementation, promulgation, repeal, modification, amendment or change of any applicable Law of or by any Governmental Entity, (viii) any changes or prospective changes in GAAP, (ix) any changes in geopolitical conditions, the outbreak or escalation of hostilities, any acts of war, sabotage, cyberattack or terrorism, or any escalation or worsening of any such acts of war, sabotage, cyberattack or terrorism threatened or underway as of the date of this Agreement, (x) any epidemic, plague, pandemic or other outbreak of illness or public health event, hurricane, earthquake, flood or other natural disasters, acts of God or any change resulting from weather conditions, (xi) any matter set forth in Section 6.1(a)(k)(ii) of the Allergan Disclosure Schedule or (xii) any action taken by Allergan or any of its Subsidiaries that is expressly required to be taken by Allergan or any of its Subsidiaries pursuant to this Agreement or any action expressly requiring AbbVie’s consent pursuant to this Agreement which is not taken as a result of the failure of AbbVie to consent to such action following request for such consent by Allergan, except in the case of each of clauses (i), (ii), (iv), (vii), (viii), (ix) or (x), to the extent that any such event, change, effect, development or occurrence has a disproportionate adverse effect on Allergan and its Subsidiaries, taken as a whole, relative to the adverse effect such event, change, effect, development or occurrence has on other companies operating in the industries in which Allergan and its Subsidiaries operate.</text>
         </definition>
         <pageUUID>0ff5eadc-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="1fb17beb755a74f7">
+        <definition standardID="1fb17beb755a74f7" term="allergan options">
           <text>“Allergan Options” means all options to purchase Allergan Shares, whether granted pursuant to the Allergan Share Plans or otherwise.</text>
         </definition>
-        <definition standardID="e1104555f8d358bd">
+        <definition standardID="e1104555f8d358bd" term="allergan preferred shares">
           <text>“Allergan Preferred Shares” means the preferred stock of Allergan, par value US $0.0001 per share.</text>
         </definition>
-        <definition standardID="e1104555f8d358bd">
+        <definition standardID="e1104555f8d358bd" term="allergan product">
           <text>“Allergan Product” means all products or product candidates that are being researched, tested, developed, commercialized, manufactured, sold or distributed by any member of the Allergan Group and all products or product candidates, if any, with respect to which any member of the Allergan Group has royalty rights.</text>
         </definition>
-        <definition standardID="aa74a317584cff8f">
+        <definition standardID="aa74a317584cff8f" term="allergan psu awards">
           <text>“Allergan PSU Awards” means all Allergan RSU Awards with performance-based vesting or delivery requirements, whether granted pursuant to the Allergan Share Plans or otherwise.</text>
         </definition>
-        <definition standardID="cbd2caf895c735f7">
+        <definition standardID="cbd2caf895c735f7" term="allergan regulatory agency">
           <text>“Allergan Regulatory Agency” means any Governmental Entity that is concerned with the quality, identity, strength, purity, safety, efficacy, testing, manufacturing, labeling, storage, distribution, marketing, sale, pricing, import or export of any of the Allergan Products.</text>
         </definition>
-        <definition standardID="cbd2caf895c735f7">
+        <definition standardID="cbd2caf895c735f7" term="allergan regulatory permits">
           <text>“Allergan Regulatory Permits” means authorizations (i) under the FDCA or the Public Health Service Act and (ii) of any applicable Allergan Regulatory Agency necessary for the lawful operation of the businesses of Allergan or any of its Subsidiaries.</text>
         </definition>
-        <definition standardID="cbd2caf895c735f7">
+        <definition standardID="cbd2caf895c735f7" term="allergan restricted stock awards">
           <text>“Allergan Restricted Stock Awards” means all awards of Allergan Shares subject to vesting restrictions and/or forfeiture back to Allergan, whether granted pursuant to the Allergan Share Plans or otherwise.</text>
         </definition>
-        <definition standardID="1c9de8fef360c93f">
+        <definition standardID="1c9de8fef360c93f" term="allergan rsu awards">
           <text>“Allergan RSU Awards” means all restricted stock units payable in Allergan Shares or whose value is determined with reference to the value of Allergan Shares, whether granted pursuant to the Allergan Share Plans or otherwise.</text>
         </definition>
-        <definition standardID="82e207d38ad93649">
+        <definition standardID="82e207d38ad93649" term="allergan share award">
           <text>“Allergan Share Award” means an award denominated in Allergan Shares (including Allergan Restricted Stock Awards, Allergan PSU Awards and Allergan RSU Awards), other than an Allergan Option.</text>
         </definition>
-        <definition standardID="82e207d38ad93649">
+        <definition standardID="82e207d38ad93649" term="allergan share plans">
           <text>“Allergan Share Plans” means, collectively, the Allergan, Inc. 2008 Equity Plan, the Forest Laboratories LLC 2007 Equity Incentive Plan, the Amended and Restated 2011 Incentive Award Plan of Allergan, the Amended and Restated 2013 Incentive Award Plan of Allergan (the “Allergan 2013 Plan”), the Kythera Biopharmaceuticals, Inc. 2012 Equity Incentive Plan, the Warner Chilcott Equity Incentive Plan, the ZELTIQ Aesthetics, Inc. 2012 Stock Plan, and any other equity-based incentive plan maintained by Allergan or assumed by Allergan in connection with prior acquisitions.</text>
         </definition>
-        <definition standardID="82e207d38ad93649">
+        <definition standardID="82e207d38ad93649" term="allergan shareholder approval">
           <text>“Allergan Shareholder Approval” means (i) the approval of the Scheme by a majority in number of members of each class of Allergan Shareholders (including as may be directed by the High Court pursuant to Section 450(5) of the Act) representing, at the relevant voting record time, at least seventy five percent (75%) in value of the Allergan Shares of that class held by Allergan Shareholders who are members of that class and that are present and voting either in</text>
           <pageUUID>0ff5f0f4-4a10-11f0-8d00-be44a5e954c9</pageUUID>
           <text>person or by proxy, at the Court Meeting (or at any adjournment or postponement of such meeting) and (ii) the Required EGM Resolutions being duly passed by the requisite majorities of Allergan Shareholders at the EGM (or at any adjournment or postponement of such meeting).</text>
         </definition>
-        <definition standardID="82e207d38ad93649">
+        <definition standardID="82e207d38ad93649" term="allergan shareholders">
           <text>“Allergan Shareholders” means the holders of Allergan Shares.</text>
         </definition>
-        <definition standardID="82e207d38ad93649">
+        <definition standardID="82e207d38ad93649" term="allergan shares">
           <text>“Allergan Shares” means the ordinary shares of Allergan, par value US$0.0001 per share.</text>
         </definition>
-        <definition standardID="22037ad9dd96e525">
+        <definition standardID="22037ad9dd96e525" term="allergan superior proposal">
           <text>“Allergan Superior Proposal” means any bona fide, written Allergan Alternative Proposal (other than an Allergan Alternative Proposal which has resulted from a breach in any material respect of Section 5.3) (with all references to “twenty percent (20%)” in the definition of Allergan Alternative Proposal being deemed to be references to “fifty percent (50%)”) on terms that the Allergan Board determines in good faith, after consultation with its financial advisor and outside legal counsel, and taking into account all the terms and conditions of the Allergan Alternative Proposal that the Allergan Board considers to be appropriate (including the identity of the Person making the Allergan Alternative Proposal and the expected timing and likelihood of consummation, any governmental or other approval requirements (including divestitures and entry into other commitments and limitations), break-up fees, expense reimbursement provisions, conditions to consummation and availability of necessary financing), is more favorable to the Allergan Shareholders from a financial point of view than the Acquisition (taking into account any proposal by AbbVie to amend the terms of this Agreement).</text>
         </definition>
-        <definition standardID="5aa81b1f3314883c">
+        <definition standardID="5aa81b1f3314883c" term="anda">
           <text>“ANDA” means an abbreviated new drug application submitted pursuant to 21 U.S.C. § 355(j).</text>
         </definition>
-        <definition standardID="92de6de35c7ae8b4">
+        <definition standardID="92de6de35c7ae8b4" term="antitrust laws">
           <text>“Antitrust Laws” means the Sherman Act of 1890, the Clayton Act of 1914, the Federal Trade Commission Act of 1914, the HSR Act and all other federal, state and foreign applicable Laws in effect from time to time that are designed or intended to prohibit, restrict or regulate actions having the purpose or effect of monopolization or restraint of trade.</text>
         </definition>
-        <definition standardID="b202a5a148ac6b34">
+        <definition standardID="b202a5a148ac6b34" term="bribery act">
           <text>“Bribery Act” means the United Kingdom Bribery Act 2010.</text>
         </definition>
-        <definition standardID="57c214d68b83b47b">
+        <definition standardID="57c214d68b83b47b" term="bribery legislation">
           <text>“Bribery Legislation” means all and any of the following: the FCPA; the Organization For Economic Co-operation and Development Convention on Combating Bribery of Foreign Public Officials in International Business Transactions and related implementing legislation; the relevant Law in England and Wales relating to bribery and/or corruption, including, the Public Bodies Corrupt Practices Act 1889; the Prevention of Corruption Act 1906 as supplemented by the Prevention of Corruption Act 1916 and the Anti-Terrorism, Crime and Security Act 2001; the Bribery Act; the Proceeds of Crime Act 2002; the relevant Laws in Ireland relating to bribery and/or corruption including the Criminal Justice (Corruption Offences) Act 2018 of Ireland; and any anti-bribery or anti-corruption related provisions in criminal and anti-competition laws and /or anti-bribery, anti-corruption and/or anti-money laundering Laws of any jurisdiction in which the Allergan Group operates.</text>
         </definition>
-        <definition standardID="74b99e3a1ba60dc6">
+        <definition standardID="74b99e3a1ba60dc6" term="bridge credit agreement">
           <text>“Bridge Credit Agreement” means that certain 364-Day Bridge Credit Agreement, dated as of the date hereof, among AbbVie, the lenders party thereto and Morgan Stanley Senior</text>
           <pageUUID>0ff5f702-4a10-11f0-8d00-be44a5e954c9</pageUUID>
           <text>Funding, Inc., as administrative agent, an executed copy of which has been provided to Allergan on the date hereof.</text>
         </definition>
-        <definition standardID="a5200bdd4f9d84cd">
+        <definition standardID="a5200bdd4f9d84cd" term="business day">
           <text>“Business Day” means any day, other than a Saturday, Sunday or a day on which banks in Ireland or in New York are authorized or required by applicable Law to be closed.</text>
         </definition>
-        <definition standardID="3a5636d9ebe55910">
+        <definition standardID="3a5636d9ebe55910" term="cash consideration">
           <text>“Cash Consideration” means US$120.30 in cash per Allergan Share, as it may be adjusted pursuant to Section 8.1(c)(v).</text>
         </definition>
-        <definition standardID="e0962d66d07ccfd0">
+        <definition standardID="e0962d66d07ccfd0" term="clearances">
           <text>“Clearances” means all consents, clearances, approvals, permissions, license, variance, exemption, authorization, acknowledgement, permits, nonactions, Orders and waivers to be obtained from, and all registrations, applications, notices and filings to be made with or provided to, any Governmental Entity or other Third Party in connection with the implementation of the Scheme and/or the Acquisition.</text>
         </definition>
-        <definition standardID="7666a237d6818118">
+        <definition standardID="7666a237d6818118" term="code">
           <text>“Code” means the United States Internal Revenue Code of 1986.</text>
         </definition>
-        <definition standardID="6f2f654fb52e6077">
+        <definition standardID="6f2f654fb52e6077" term="completion">
           <text>“Completion” means the completion of the Acquisition.</text>
         </definition>
-        <definition standardID="7c9129c649bca5ba">
+        <definition standardID="7c9129c649bca5ba" term="concert parties">
           <text>“Concert Parties” means such Persons as are deemed to be Acting in Concert with AbbVie pursuant to Rule 3.3 of Part A of the Takeover Rules.</text>
         </definition>
-        <definition standardID="04d8f128e150d812">
+        <definition standardID="04d8f128e150d812" term="conditions">
           <text>“Conditions” means the conditions to the Scheme and the Acquisition set out in paragraphs 1, 2, 3, 4 and 5 of Appendix III of the Rule 2.5 Announcement, and “Condition” means any one of the Conditions.</text>
         </definition>
-        <definition standardID="969054151aeb5eea">
+        <definition standardID="969054151aeb5eea" term="confidentiality agreement">
           <text>“Confidentiality Agreement” means the confidentiality agreement between Allergan and AbbVie dated as of May 30, 2019.</text>
         </definition>
-        <definition standardID="ce1936e43a099772">
+        <definition standardID="ce1936e43a099772" term="contract">
           <text>“Contract” means any legally binding contract, agreement, obligation, understanding or instrument, lease, license or other legally binding commitment or undertaking of any nature.</text>
         </definition>
-        <definition standardID="da97a825e5e1500e">
+        <definition standardID="da97a825e5e1500e" term="court hearing">
           <text>“Court Hearing” means the hearing by the High Court of the Petition to sanction the Scheme under Section 453 of the Act.</text>
         </definition>
-        <definition standardID="cd7ca08ebd39e0a3">
+        <definition standardID="cd7ca08ebd39e0a3" term="court meeting">
           <text>“Court Meeting” means the meeting or meetings of the Allergan Shareholders or, if applicable, the meeting or meetings of any class or classes of Allergan Shareholders (and, in each case, any adjournment or postponement thereof) convened by (i) resolution of the Allergan Board or (ii) order of the High Court, in either case, pursuant to Section 450 of the Act to consider and, if thought fit, approve the Scheme (with or without amendment).</text>
         </definition>
-        <definition standardID="cd7ca08ebd39e0a3">
+        <definition standardID="cd7ca08ebd39e0a3" term="court meeting resolution">
           <text>“Court Meeting Resolution” means the resolution to be proposed at the Court Meeting for the purposes of approving and implementing the Scheme.</text>
         </definition>
-        <definition standardID="b2503e4cfbbd2fb9">
+        <definition standardID="b2503e4cfbbd2fb9" term="court order">
           <text>“Court Order” means the Order or Orders of the High Court sanctioning the Scheme under Section 453 of the Act and confirming the reduction of capital that forms part of it under Sections 84 and 85 of the Act.</text>
         </definition>
         <pageUUID>0ff5fd7e-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="27f0741bd953c893">
+        <definition standardID="27f0741bd953c893" term="ec merger regulation">
           <text>“EC Merger Regulation” means the Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings.</text>
         </definition>
-        <definition standardID="3cee9c2a4cd5ce53">
+        <definition standardID="3cee9c2a4cd5ce53" term="effective date">
           <text>“Effective Date” means the date on which the Scheme becomes effective in accordance with its terms or, if the Acquisition is implemented by way of a Takeover Offer, the date on which the Takeover Offer has become (or has been declared) unconditional in all respects in accordance with the provisions of the Takeover Offer Documents and the Takeover Rules.</text>
         </definition>
-        <definition standardID="6449203fd8838c18">
+        <definition standardID="6449203fd8838c18" term="effective time">
           <text>“Effective Time” means the time on the Effective Date at which the Court Order and a copy of the minute required by Section 86 of the Act are registered by the Registrar of Companies or, if the Acquisition is implemented by way of a Takeover Offer, the time on the Effective Date at which the Takeover Offer becomes (or is declared) unconditional in all respects in accordance with the provisions of the Takeover Offer Documents and the Takeover Rules.</text>
         </definition>
-        <definition standardID="eda961b41b269791">
+        <definition standardID="eda961b41b269791" term="egm">
           <text>“EGM” means the extraordinary general meeting of the Allergan Shareholders (and any adjournment or postponement thereof) to be convened in connection with the Scheme, expected to be held as soon as the preceding Court Meeting shall have been concluded (it being understood that if the Court Meeting is adjourned or postponed, the EGM shall be correspondingly adjourned or postponed).</text>
         </definition>
-        <definition standardID="b0916679a67e5b50">
+        <definition standardID="b0916679a67e5b50" term="egm resolutions">
           <text>“EGM Resolutions” means, collectively, the following resolutions to be proposed at the EGM: (i) an ordinary resolution to approve the Scheme and to authorize the Allergan Board to take all such action as it considers necessary or appropriate to implement the Scheme; (ii) a special resolution to cancel, subject to the approval of the High Court, the issued share capital of Allergan (other than any Allergan Shares held by any member of the AbbVie Group); (iii) an ordinary resolution authorizing the Allergan Board to allot new ordinary shares to Acquirer Sub pursuant to this Agreement and the Scheme by capitalization of the reserve arising from the cancellation of the issued share capital of Allergan pursuant to the resolution described in clause (ii); (iv) a special resolution amending the Allergan Memorandum and Articles of Association in accordance with Section 4.5 of this Agreement (the resolutions described in the foregoing clauses (i) through (iv), the “Required EGM Resolutions”); (v) an ordinary resolution that any motion by the Chairperson of the Allergan Board to adjourn or postpone the EGM, or any adjournments or postponements thereof, to another time and place if necessary or appropriate to solicit additional proxies if there are insufficient votes at the time of the EGM to approve the Scheme or any of the Required EGM Resolutions to be approved; and (vi) any other resolutions as Allergan reasonably determines to be necessary or desirable for the purposes of implementing the Acquisition as have been approved by AbbVie (such approval not to be unreasonably withheld, conditioned or delayed).</text>
         </definition>
-        <definition standardID="f45b77e2ac8db54a">
+        <definition standardID="f45b77e2ac8db54a" term="end date">
           <text>“End Date” means June 25, 2020; provided, that if as of such date any of Conditions 3(ii), 3(iii), 3(iv) or 3(v) (with respect to Condition 3(v), only if the failure of such Condition to have been satisfied as of such date is an Order or Law under any Antitrust Law) have not been satisfied, and on such date all other Conditions (other than Conditions 2(iii) and 2(iv)) have been satisfied (or, in the sole discretion of the applicable Party, waived (where applicable)) or would be satisfied (or, in the sole discretion of the applicable Party, waived (where applicable)) if the Acquisition were completed on such date, the “End Date” shall be September 25, 2020.</text>
         </definition>
         <pageUUID>0ff60378-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental law">
           <text>“Environmental Law” means each applicable Law relating to (i) the protection, preservation or restoration of the environment (including air, surface water, groundwater, drinking water supply, surface land, subsurface land, plant and animal life or any other natural resource), or (ii) the exposure to, or the use, storage, recycling, treatment, generation, transportation, processing, handling, labeling, production, release or disposal of, Hazardous Substances.</text>
         </definition>
-        <definition standardID="cb75fb473fd318db">
+        <definition standardID="cb75fb473fd318db" term="environmental permits">
           <text>“Environmental Permits” means all consents, clearances, approvals, permissions, licenses, variances, exemptions, authorizations, acknowledgements, approvals, permits and orders of Governmental Entities required by Environmental Law and affecting, or relating to, the business of Allergan or any of its Subsidiaries.</text>
         </definition>
-        <definition standardID="be92ebd4d2361243">
+        <definition standardID="be92ebd4d2361243" term="equity award conversion ratio">
           <text>“Equity Award Conversion Ratio” means the sum, rounded to the nearest one thousandth, of (a) the Exchange Ratio and (b) the quotient obtained by dividing (i) the Cash Consideration by (ii) the VWAP of AbbVie Shares.</text>
         </definition>
-        <definition standardID="6b0c5875310363ed">
+        <definition standardID="6b0c5875310363ed" term="equity securities">
           <text>“Equity Securities” means, with respect to any Person, (i) any shares of capital or capital stock (including any ordinary shares) or other voting securities of, or other ownership interest in, such Person, (ii) any securities of such Person convertible into or exchangeable for cash or shares of capital or capital stock or other voting securities of, or other ownership interests in, such Person or any of its Subsidiaries, (iii) any warrants, calls, options or other rights to acquire from such Person, or other obligations of such Person to issue, any shares of capital or capital stock or other voting securities of, or other ownership interests in, or securities convertible into or exchangeable for shares of capital or capital stock or other voting securities of, or other ownership interests in, such Person or any of its Subsidiaries, or (iv) any restricted shares, stock appreciation rights, restricted units, performance units, contingent value rights, “phantom” stock or similar securities or rights issued by or with the approval of such Person that are derivative of, or provide economic benefits based, directly or indirectly, on the value or price of, any shares of capital or capital stock or other voting securities of, other ownership interests in, or any business, products or assets of, such Person or any of its Subsidiaries.</text>
         </definition>
-        <definition standardID="5bcbc3b673bfc55d">
+        <definition standardID="5bcbc3b673bfc55d" term="erisa">
           <text>“ERISA” means the United States Employee Retirement Income Security Act of 1974.</text>
         </definition>
-        <definition standardID="84828abef6161c5c">
+        <definition standardID="84828abef6161c5c" term="erisa affiliate">
           <text>“ERISA Affiliate” means any Person that, together with any member of the Allergan Group, is (or at any relevant time has or would be) treated as a single employer under Section 414 of the Code.</text>
         </definition>
-        <definition standardID="af14b9374a223e77">
+        <definition standardID="af14b9374a223e77" term="exchange act">
           <text>“Exchange Act” means the United States Securities Exchange Act of 1934.</text>
         </definition>
-        <definition standardID="c9d7a995199203e3">
+        <definition standardID="c9d7a995199203e3" term="exchange agent">
           <text>“Exchange Agent” means the bank or trust company appointed by AbbVie (and reasonably acceptable to Allergan) to act as exchange agent for the payment of the Scheme Consideration.</text>
         </definition>
-        <definition standardID="cdfc395e1dd453a6">
+        <definition standardID="cdfc395e1dd453a6" term="expenses reimbursement agreement">
           <text>“Expenses Reimbursement Agreement” means the expenses reimbursement agreement dated as of the date hereof between AbbVie and Allergan, the terms of which have been approved by the Panel.</text>
         </definition>
-        <definition standardID="8287ae996916bf9d">
+        <definition standardID="8287ae996916bf9d" term="fcpa">
           <text>“FCPA” means the United States Foreign Corrupt Practices Act of 1977.</text>
         </definition>
         <pageUUID>0ff60986-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="6408c546bee12bd1">
+        <definition standardID="6408c546bee12bd1" term="fda">
           <text>“FDA” means the United States Food and Drug Administration.</text>
         </definition>
-        <definition standardID="0f5e9862d3f33689">
+        <definition standardID="0f5e9862d3f33689" term="fdca">
           <text>“FDCA” means the United States Food, Drug and Cosmetic Act of 1938.</text>
         </definition>
-        <definition standardID="a9e1df2406e706d0">
+        <definition standardID="a9e1df2406e706d0" term="filing">
           <text>“Filing” means any registration, petition, statement, application, schedule, form, declaration, notice, notification, report, submission or other filing.</text>
         </definition>
-        <definition standardID="f72fdf2b26f83765">
+        <definition standardID="f72fdf2b26f83765" term="financing">
           <text>“Financing” means the debt financing provided by the Bridge Credit Agreement and any other third party debt financing that is necessary, or that is otherwise incurred or intended to be incurred by AbbVie or any of the Subsidiaries of AbbVie, to refinance or refund any existing indebtedness for borrowed money of Allergan, AbbVie or any of their respective Subsidiaries in each case in connection with the transactions contemplated hereby, or to fund the Cash Consideration payable by Acquirer Sub in the Scheme or (as the case may be) the Takeover Offer, including the offering or private placement of debt securities or the incurrence of credit facilities.</text>
         </definition>
-        <definition standardID="72b44b8058c87c72">
+        <definition standardID="72b44b8058c87c72" term="financing sources">
           <text>“Financing Sources” means (i) the Persons that have committed to provide or arrange or otherwise entered into agreements in connection with the Financing, including the parties to any joinder agreements, engagement letters, indentures or credit agreements entered into pursuant thereto or relating thereto, but excluding in each case, for clarity, the Parties and their Subsidiaries, (ii) the Affiliates of the Persons set forth in clause (i) above and (iii) the Representatives and the respective successors and assigns of the Persons set forth in clauses (i) and (ii) above.</text>
         </definition>
-        <definition standardID="12024e80ae327bfd">
+        <definition standardID="12024e80ae327bfd" term="gaap">
           <text>“GAAP” means U.S. generally accepted accounting principles.</text>
         </definition>
-        <definition standardID="5fbdfcf3530fff07">
+        <definition standardID="5fbdfcf3530fff07" term="government official">
           <text>“Government Official” means (i) any official, officer, employee, or representative of, or any Person acting in an official capacity for or on behalf of, any Governmental Entity, (ii) any political party, party official or candidate for political office or (iii) any company, business, enterprise or other entity owned or controlled by any Person described in the foregoing clause (i) or (ii) of this definition.</text>
         </definition>
-        <definition standardID="3af35c84d74f202e">
+        <definition standardID="3af35c84d74f202e" term="governmental entity">
           <text>“Governmental Entity” means any United States, Irish or other foreign or supranational, federal, state or local governmental commission, board, body, division, political subdivision, bureau or other regulatory authority or agency, including courts and other judicial bodies, or any competition, antitrust or supervisory body, central bank, public international organization or other governmental, trade or regulatory agency or body, securities exchange or any self-regulatory body or authority, including any instrumentality or entity designed to act for or on behalf of the foregoing, in each case, in any jurisdiction, including, the Panel, the High Court, the SEC, and each Allergan Regulatory Agency.</text>
         </definition>
-        <definition standardID="3af35c84d74f202e">
+        <definition standardID="3af35c84d74f202e" term="governmental healthcare program">
           <text>“Governmental Healthcare Program” means any federal healthcare program as defined in 42 U.S.C. § 1320a-7b(f), including Medicare, Medicaid, TRICARE, CHAMPVA, and state healthcare programs (as defined therein), and any other healthcare program administered by a Governmental Entity.</text>
         </definition>
-        <definition standardID="fc1b3a47a01db0c2">
+        <definition standardID="fc1b3a47a01db0c2" term="group">
           <text>“Group” means a “group” as defined in Section 13(d) of the Exchange Act.</text>
         </definition>
         <pageUUID>0ff60fc6-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="0857d2bc7dfa7467">
+        <definition standardID="0857d2bc7dfa7467" term="hazardous substance">
           <text>“Hazardous Substance” means any substance, material or waste that is listed, defined, designated or classified as hazardous, toxic, radioactive, dangerous or a “pollutant” or “contaminant” or words of similar meaning under any Environmental Law or that is otherwise regulated by any Governmental Entity with jurisdiction over the environment or natural resources, including petroleum or any derivative or byproduct thereof, radon, radioactive material, asbestos or asbestos-containing material, urea formaldehyde, foam insulation or polychlorinated biphenyls.</text>
         </definition>
-        <definition standardID="add5ab9075085144">
+        <definition standardID="add5ab9075085144" term="healthcare laws">
           <text>“Healthcare Laws” means all Laws relating to healthcare, including: Title XVIII of the Social Security Act, 42 U.S.C. §§ 1395-1395lll (the Medicare statute); Title XIX of the Social Security Act, 42 U.S.C. §§ 1396-1396w-5 (the Medicaid statute); the Federal Health Care Program Anti-Kickback Statute, 42 U.S.C. § 1320a-7b(b); the False Claims Act, 31 U.S.C. §§ 3729-3733; the Program Fraud Civil Remedies Act, 31 U.S.C. §§ 3801-3812; the Anti-Kickback Act of 1986, 41 U.S.C. §§ 51-58; the Civil Monetary Penalties Law, 42 U.S.C. §§ 1320a-7a and 1320a-7b; the Exclusion Laws, 42 U.S.C. § 1320a 7; the Health Insurance Portability and Accountability Act of 1996, as amended by the Health Information Technology for Economic and Clinical Health Act (Title XIII of the American Recovery and Reinvestment Act of 2009); any similar international, federal, state and local Laws that address the subject matter of the foregoing; and the Patient Protection and Affordable Care Act of 2010.</text>
         </definition>
-        <definition standardID="9a91fe372cf7e990">
+        <definition standardID="9a91fe372cf7e990" term="high court">
           <text>“High Court” means the High Court of Ireland.</text>
         </definition>
-        <definition standardID="37eda8e87f558c04">
+        <definition standardID="37eda8e87f558c04" term="hsr act">
           <text>“HSR Act” means the United States Hart-Scott-Rodino Antitrust Improvements Act of 1976.</text>
         </definition>
-        <definition standardID="6bf83bf10c86f680">
+        <definition standardID="6bf83bf10c86f680" term="indentures">
           <text>“Indentures” means, collectively, those certain indentures (i) dated as of August 24, 2009, relating to the 3.250% Senior Notes due 2022 and 4.625% Senior Notes due 2042 issued by Allergan Finance, LLC; (ii) dated as of September 14, 2010, relating to the 3.375% Senior Notes due 2020 issued by Allergan, Inc.; (iii) dated as of March 12, 2013, relating to the 2.800% Senior Notes due 2023 issued by Allergan, Inc.; (iv) dated as of December 10, 2013, relating to the 5.000% Senior Notes due 2021 issued by Allergan Sales, LLC; (v) dated as of January 31, 2014, relating to the 4.875% Senior Notes due 2021 issued by Allergan Sales, LLC; (vi) dated as of June 19, 2014, relating to the 3.850% Senior Notes due 2024 and 4.850% Senior Notes due 2044 issued by Allergan Funding SCS; and (vii) dated as of March 12, 2015, relating to the USD-denominated Floating Rate Senior Notes due 2020, Euro-denominated Floating Rate Senior Notes due 2020, 3.000% Senior Notes due 2020, 0.500% Senior Notes due 2021, 3.450% Senior Notes due 2022, 1.500% Senior Notes due 2023, 1.250% Senior Notes due 2024, 3.800% Senior Notes due 2025, 2.625% Senior Notes due 2028, 2.125% Senior Notes due 2029, 4.550% Senior Notes due 2035 and 4.750% Senior Notes due 2045 issued by Allergan Funding SCS.</text>
         </definition>
-        <definition standardID="27daa9f0cf9bd2db">
+        <definition standardID="27daa9f0cf9bd2db" term="intellectual property">
           <text>“Intellectual Property” means any and all rights in or associated with any of the following, whether or not registered, including all rights therein and associated therewith, arising in the United States or any other jurisdiction throughout the world: (i) trademarks, service marks, trade names, trade dress, logos, slogans, Internet domain names, Internet account names (including social networking and media names) and other indicia of origin, together with all goodwill associated therewith or symbolized thereby, and all registrations and applications relating to the foregoing; (ii) patents and pending patent applications, and all divisions,</text>
           <pageUUID>0ff615c0-4a10-11f0-8d00-be44a5e954c9</pageUUID>
           <text>continuations, continuations-in-part, reissues and reexaminations, and any extensions thereof; (iii) works of authorship (whether or not copyrightable), registered and unregistered copyrights (including those in Software), all registrations and applications to register the same, and all renewals, extensions, reversions and restorations thereof, including moral rights of authors, and database rights; (iv) trade secrets, rights in technology, confidential or proprietary information and other know-how, including inventions (whether or not patentable or reduced to practice), concepts, methods, processes, protocols, assays, formulations, formulae, technical, research, clinical and other data, databases, designs, specifications, schematics, drawings, algorithms, models and methodologies; (v) rights in Software; and (vi) other similar types of proprietary rights or other intellectual property.</text>
         </definition>
-        <definition standardID="3f1a8571f8d1c54a">
+        <definition standardID="3f1a8571f8d1c54a" term="ireland">
           <text>“Ireland” or “Republic of Ireland” means Ireland, excluding Northern Ireland, and the word “Irish” shall be construed accordingly.</text>
         </definition>
-        <definition standardID="040b729f0f7dfe7c">
+        <definition standardID="040b729f0f7dfe7c" term="it assets">
           <text>“IT Assets” means any and all computers, Software, firmware, middleware, servers, workstations, routers, hubs, switches, data communications lines and other information technology equipment, and all associated documentation, owned by, or licensed or leased to, Allergan or any of its Subsidiaries.</text>
         </definition>
-        <definition standardID="07ee285e092e383a">
+        <definition standardID="07ee285e092e383a" term="knowledge">
           <text>“knowledge” means in relation to Allergan, the actual knowledge, after due inquiry, of the Persons listed in Section 1.1(a) of the Allergan Disclosure Schedule, and in relation to AbbVie, the actual knowledge, after due inquiry, of the Persons listed in Section 1.1(a) of the AbbVie Disclosure Schedule. None of the individuals set forth in Section 1.1(a) of the Allergan Disclosure Schedule or Section 1.1(a) of the AbbVie Disclosure Schedule shall have any personal liability or obligations regarding such knowledge.</text>
         </definition>
-        <definition standardID="d3a0a4989c28a607">
+        <definition standardID="d3a0a4989c28a607" term="law">
           <text>“Law” means any federal, state, local, foreign or supranational law, statute, ordinance, rule, regulation, judgment, order, injunction, decree, executive order or agency requirement of any Governmental Entity.</text>
         </definition>
-        <definition standardID="8aeaa4a9ec6b5b56">
+        <definition standardID="8aeaa4a9ec6b5b56" term="licensed intellectual property">
           <text>“Licensed Intellectual Property” means any and all Intellectual Property owned by a Third Party and licensed (including sublicensed) to any member of the Allergan Group.</text>
         </definition>
-        <definition standardID="4d91d1f8124c2d5c">
+        <definition standardID="4d91d1f8124c2d5c" term="lien">
           <text>“Lien” means, with respect to any property or asset, any mortgage, lien, license, pledge, charge, security interest or encumbrance of any kind in respect of such property or asset (including in each case any license to, or covenant not to sue in respect of, Intellectual Property).</text>
         </definition>
-        <definition standardID="69810bd76c26090e">
+        <definition standardID="69810bd76c26090e" term="northern ireland">
           <text>“Northern Ireland” means the counties of Antrim, Armagh, Derry, Down, Fermanagh and Tyrone on the island of Ireland.</text>
         </definition>
-        <definition standardID="be8a83297d8236be">
+        <definition standardID="be8a83297d8236be" term="nyse">
           <text>“NYSE” means the New York Stock Exchange.</text>
         </definition>
-        <definition standardID="c770eb43cadcc66e">
+        <definition standardID="c770eb43cadcc66e" term="order">
           <text>“Order” means any order, writ, decree, judgment, award, injunction, ruling, settlement or stipulation issued, promulgated, made, rendered or entered into by or with any Governmental Entity or arbitrator (in each case, whether temporary, preliminary or permanent).</text>
         </definition>
         <pageUUID>0ff61bba-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="aa04a32ed03d82d9">
+        <definition standardID="aa04a32ed03d82d9" term="organizational documents">
           <text>“Organizational Documents” means articles of association, articles of incorporation, certificate of incorporation, constitution, by-laws, limited liability company agreement, operating agreement or other equivalent organizational document, as appropriate.</text>
         </definition>
-        <definition standardID="6ab7d50fb7fc1c09">
+        <definition standardID="6ab7d50fb7fc1c09" term="owned intellectual property">
           <text>“Owned Intellectual Property” means any and all Intellectual Property owned or purported to be owned by any member of the Allergan Group.</text>
         </definition>
-        <definition standardID="fb957006883d3862">
+        <definition standardID="fb957006883d3862" term="panel">
           <text>“Panel” means the Irish Takeover Panel.</text>
         </definition>
-        <definition standardID="3b9f466fcc7a68c0">
+        <definition standardID="3b9f466fcc7a68c0" term="parties">
           <text>“Parties” means Allergan and the AbbVie Parties and “Party” shall mean either Allergan, on the one hand, or AbbVie or the AbbVie Parties (whether individually or collectively), on the other hand (as the context requires).</text>
         </definition>
-        <definition standardID="cc249be7a0326fa7">
+        <definition standardID="cc249be7a0326fa7" term="permitted lien">
           <text>“Permitted Lien” means (i) any Liens for Taxes (A) not yet due and payable or (B) which are being contested in good faith by appropriate proceedings and with respect to which adequate reserves have been established in accordance with GAAP, (ii) carriers’, warehousemen’s, mechanics’, materialmen’s, repairmen’s or other similar Liens, (iii) pledges or deposits in connection with workers’ compensation, unemployment insurance and other social security legislation, (iv) gaps in the chain of title evident from the records of the applicable Governmental Entity maintaining such records, easements, rights-of-way, covenants, restrictions and other encumbrances of record as of the date of this Agreement, (v) easements, rights-of-way, covenants, restrictions and other encumbrances incurred in the ordinary course of business that do not materially detract from the value or the use of the property subject thereto, (vi) statutory landlords’ liens and liens granted to landlords under any lease, (vii) any purchase money security interests, equipment leases or similar financing arrangements, (viii) any Liens which are disclosed on the Allergan Balance Sheet, or the notes thereto, or (ix) any Liens that are not material to Allergan and its Subsidiaries, taken as a whole.</text>
         </definition>
-        <definition standardID="b0e470147e4d35ca">
+        <definition standardID="b0e470147e4d35ca" term="person">
           <text>“Person” means any individual, corporation, partnership, limited liability company, association, trust or other entity or organization, including a government or political subdivision or an agency or instrumentality of such government or political subdivision.</text>
         </definition>
-        <definition standardID="a070208b8a458553">
+        <definition standardID="a070208b8a458553" term="petition">
           <text>“Petition” means the petition to the High Court seeking the Court Order.</text>
         </definition>
-        <definition standardID="b5fd62241ce41778">
+        <definition standardID="b5fd62241ce41778" term="registrar of companies">
           <text>“Registrar of Companies” means the Registrar of Companies in Dublin, Ireland.</text>
         </definition>
-        <definition standardID="93f818d18219d629">
+        <definition standardID="93f818d18219d629" term="regulatory information service">
           <text>“Regulatory Information Service” means a regulatory information service as defined in the Takeover Rules.</text>
         </definition>
-        <definition standardID="7981d0ead65f0728">
+        <definition standardID="7981d0ead65f0728" term="representatives">
           <text>“Representatives” means, in relation to any Person, the directors, officers, employees, agents, investment bankers, financial advisors, legal advisors, accountants, brokers, finders, consultants or other representatives of such Person.</text>
         </definition>
-        <definition standardID="366beb06fb3f00e4">
+        <definition standardID="366beb06fb3f00e4" term="resolutions">
           <text>“Resolutions” means the EGM Resolutions and the Court Meeting Resolution, which will be set out in the Scheme Document.</text>
         </definition>
         <pageUUID>0ff621dc-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="58fcbbbdbb7d76a9">
+        <definition standardID="58fcbbbdbb7d76a9" term="rule 2.5 announcement">
           <text>“Rule 2.5 Announcement” means the announcement to be made by the Parties pursuant to Rule 2.5 of the Takeover Rules for the purposes of the Acquisition, in the form agreed to by on or on behalf of the Parties.</text>
         </definition>
-        <definition standardID="b9baebf90b606042">
+        <definition standardID="b9baebf90b606042" term="sanctioned country">
           <text>“Sanctioned Country” means any of Crimea, Cuba, Iran, North Korea, Sudan, and Syria.</text>
         </definition>
-        <definition standardID="b9baebf90b606042">
+        <definition standardID="b9baebf90b606042" term="sanctioned person">
           <text>“Sanctioned Person” means any Person with whom dealings are restricted or prohibited under any Sanctions Laws, including the Sanctions Laws of the United States, the United Kingdom, the European Union or the United Nations, including (i) any Person identified in any list of Sanctioned Persons maintained by (A) the United States Department of Treasury, Office of Foreign Assets Control, the United States Department of Commerce, Bureau of Industry and Security or the United States Department of State, (B) Her Majesty’s Treasury of the United Kingdom, (C) any committee of the United Nations Security Council, or (D) the European Union, (ii) any Person located, organized, or resident in, organized in, or a Governmental Entity of, any Sanctioned Country and (iii) any Person which is directly or indirectly fifty percent (50%) or more owned or controlled by, or acting for the benefit or on behalf of, a Person described in clause (i) or (ii).</text>
         </definition>
-        <definition standardID="adc745eaa47d0a4b">
+        <definition standardID="adc745eaa47d0a4b" term="sanctions laws">
           <text>“Sanctions Laws” means all applicable Laws concerning economic sanctions, including embargoes, export restrictions, the ability to make or receive international payments, the freezing or blocking of assets of targeted Persons, the ability to engage in transactions with specified Persons or countries or the ability to take an ownership interest in assets of specified Persons or located in a specified country, including any applicable Laws threatening to impose economic sanctions on any person for engaging in proscribed behavior.</text>
         </definition>
-        <definition standardID="54f26d12c1921e41">
+        <definition standardID="54f26d12c1921e41" term="scheme">
           <text>“Scheme” means the proposed scheme of arrangement under Chapter 1 of Part 9 of the Act and the capital reduction under Sections 84 and 85 of the Act to effect the Acquisition pursuant to this Agreement, on such terms and in such form as is consistent with the terms agreed to by the Parties as set out in the Rule 2.5 Announcement, including any revision thereof as may be agreed between the Parties in writing, and, if required, by the High Court.</text>
         </definition>
-        <definition standardID="8d0f5564802a5c89">
+        <definition standardID="8d0f5564802a5c89" term="scheme document">
           <text>“Scheme Document” means a document (or relevant sections of the Proxy Statement comprising the Scheme Document) (including any amendments or supplements thereto) to be distributed to Allergan Shareholders and, for information only, to Allergan Equity Award Holders containing (i) the Scheme, (ii) the notice or notices of the Court Meeting and EGM, (iii) an explanatory statement as required by Section 452 of the Act with respect to the Scheme, (iv) such other information as may be required or necessary pursuant to the Act, the Exchange Act or the Takeover Rules and (v) such other information as Allergan and AbbVie shall agree.</text>
         </definition>
-        <definition standardID="b20c9ed477f7ffb1">
+        <definition standardID="b20c9ed477f7ffb1" term="scheme recommendation">
           <text>“Scheme Recommendation” means the recommendation of the Allergan Board that Allergan Shareholders vote in favor of the Resolutions.</text>
         </definition>
-        <definition standardID="90e5a112fef977b4">
+        <definition standardID="90e5a112fef977b4" term="sec">
           <text>“SEC” means the United States Securities and Exchange Commission.</text>
         </definition>
-        <definition standardID="70ee2b7c25af1529">
+        <definition standardID="70ee2b7c25af1529" term="securities act">
           <text>“Securities Act” means the United States Securities Act of 1933.</text>
         </definition>
         <pageUUID>0ff627e0-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="77846052c2c1ef38">
+        <definition standardID="77846052c2c1ef38" term="significant subsidiary">
           <text>“Significant Subsidiary” means a significant subsidiary as defined in Rule l-02(w) of Regulation S-X of the Securities Act.</text>
         </definition>
-        <definition standardID="a7730ae3a47c5805">
+        <definition standardID="a7730ae3a47c5805" term="software">
           <text>“Software” means all (i) computer programs and other software including any and all software implementations of algorithms, models, methodologies, assemblers, applets, compilers, development tools, design tools and user interfaces, whether in source code or object code form, (ii) databases and compilations, including all data and collections of data, whether machine readable or otherwise, and (iii) updates, upgrades, modifications, improvements, enhancements, derivative works, new versions, new releases and corrections to or based on any of the foregoing.</text>
         </definition>
-        <definition standardID="acf26aa6537ca6e1">
+        <definition standardID="acf26aa6537ca6e1" term="subsidiary">
           <text>“Subsidiary” means, with respect to any Person, any entity of which securities or other ownership interests having ordinary voting power to elect a majority of the board of directors or other persons performing similar functions are directly or indirectly owned by such Person. For purposes of this Agreement, a Subsidiary shall be considered a “wholly owned Subsidiary” of a Person if such Person directly or indirectly owns all of the securities or other ownership interests (excluding any securities or other ownership interests held by an individual director or officer required to hold such securities or other ownership interests pursuant to applicable Law) of such Subsidiary.</text>
         </definition>
-        <definition standardID="cbc65b1bf2d37fa6">
+        <definition standardID="cbc65b1bf2d37fa6" term="takeover offer">
           <text>“Takeover Offer” means an offer in accordance with Section 3.6 for the entire issued share capital of Allergan (other than any Allergan Shares beneficially owned by AbbVie or any member of the AbbVie Group (if any) and any Allergan Shares held by any member of the Allergan Group) including any amendment or revision thereto pursuant to this Agreement, the full terms of which would be set out in the Takeover Offer Document or (as the case may be) any revised offer documents.</text>
         </definition>
-        <definition standardID="cbc65b1bf2d37fa6">
+        <definition standardID="cbc65b1bf2d37fa6" term="takeover offer document">
           <text>“Takeover Offer Document” means, if, following the date of this Agreement, AbbVie elects to implement the Acquisition by way of the Takeover Offer in accordance with Section 3.6, the document to be despatched to Allergan Shareholders and others jointly by AbbVie and Acquirer Sub containing, among other things, the Takeover Offer, the Conditions (except as AbbVie determines pursuant to and in accordance with Section 3.6 not to be appropriate in the case of a Takeover Offer) and certain information about AbbVie, Acquirer Sub and Allergan and, where the context so requires, includes any form of acceptance, election, notice or other document reasonably required in connection with the Takeover Offer.</text>
         </definition>
-        <definition standardID="ba7242d1fb3763a4">
+        <definition standardID="ba7242d1fb3763a4" term="takeover panel act">
           <text>“Takeover Panel Act” means the Irish Takeover Panel Act 1997.</text>
         </definition>
-        <definition standardID="bac56bcd335b47f4">
+        <definition standardID="bac56bcd335b47f4" term="takeover rules">
           <text>“Takeover Rules” means the Irish Takeover Panel Act 1997, Takeover Rules, 2013.</text>
         </definition>
-        <definition standardID="6084e22093ae19f5">
+        <definition standardID="6084e22093ae19f5" term="third party">
           <text>“Third Party” means any Person or Group, other than Allergan or any of its Affiliates, in the case of AbbVie and Acquirer Sub, or other than AbbVie or any of its Affiliates, in the case of Allergan, and the Representatives of such Persons, in each case, acting in such capacity.</text>
         </definition>
-        <definition standardID="ed30823ff2b62acf">
+        <definition standardID="ed30823ff2b62acf" term="u.s.">
           <text>“U.S.” or “United States” means the United States, its territories and possessions, any State of the United States and the District of Columbia, and all other areas subject to its jurisdiction.</text>
         </definition>
         <pageUUID>0ff62df8-4a10-11f0-8d00-be44a5e954c9</pageUUID>
-        <definition standardID="51cb656107c6aa16">
+        <definition standardID="51cb656107c6aa16" term="vwap of abbvie shares">
           <text>“VWAP of AbbVie Shares” means the volume weighted average price of an AbbVie Share for a ten trading day period, starting with the opening of trading on the eleventh trading day prior to the Completion Date to the closing of trading on the second to last trading day prior to the Completion Date, as reported by Bloomberg.</text>
         </definition>
-        <definition standardID="dafe5ab23540bb07">
+        <definition standardID="dafe5ab23540bb07" term="willful breach">
           <text>“Willful Breach” means a material breach of this Agreement that is the consequence of an act or omission by a party with the actual knowledge that the taking of such act or such omission to take action would be a material breach of this Agreement.</text>
           <text>Each of the following terms is defined in the Section set forth opposite such term:</text>
           <text>Term Section AbbVie Preamble AbbVie Balance Sheet Section 6.2(e) AbbVie Capitalization Date Section 6.2(b)(i) AbbVie Disclosure Schedule Section 6.2 AbbVie Equity Awards Section 6.2(b)(i) AbbVie Financing Information Section 3.4(b)(i) AbbVie Options Section 6.2(b)(i) AbbVie Performance Awards Section 6.2(b)(i) AbbVie Restricted Stock Units Section 6.2(b)(i) AbbVie RSAs Section 6.2(b)(i) AbbVie SEC Documents Section 6.2(d)(i) Acquirer Sub Preamble Agreement Preamble Allergan Alternative Proposal NDA Section 5.3(b) Allergan Approval Time Section 5.3(b) Allergan Balance Sheet Section 6.1(g) Allergan Capitalization Date Section 6.1(c)(i) Allergan Change of Recommendation Section 5.3(a)(ii) Allergan Disclosure Schedule Section 6.1 Allergan Exchange Fund Section 8.1(d)(i) Allergan Insurance Policies Section 6.1(u) Allergan Material Contract Section 6.1(t)(i) Allergan Memorandum and Articles of Association Section 6.1(a) Allergan Note Offers and Consent Solicitations Section 7.9(b) Allergan Permits Section 6.1(h)(ii) Allergan Registered IP Section 6.1(q)(i) Allergan Replacement Option Section 4.1 Allergan Replacement Share Award Section 4.2(a) Allergan SEC Documents Section 6.1(e)(i) Allergan Supplemental Indenture Section 7.9(b) Benefits Continuation Period Section 7.4(a) Claim Expenses Section 7.3(a) Completion Date Section 8.1(a) Consent Solicitations Section 7.9(b) Covered Individual Section 5.1(b)(xii)</text>

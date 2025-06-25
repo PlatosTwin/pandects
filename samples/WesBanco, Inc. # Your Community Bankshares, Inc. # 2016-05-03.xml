@@ -606,22 +606,22 @@
         <text>subject to the following. If Seller elects to exercise its termination right pursuant to the immediately preceding sentence, it shall give prompt written notice to Buyer; provided that such notice of</text>
         <pageUUID>bb26c468-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
         <text>election to terminate may be withdrawn by Seller at any time within the aforementioned five-day period. For purposes of this Section 11.01(d)(iv), the following terms shall have the following meanings:</text>
-        <definition standardID="075ad32f25c907d0">
+        <definition standardID="075ad32f25c907d0" term="average closing price">
           <text>“Average Closing Price” means the average of the last reported sale price per share of the Buyer Shares as reported on the Nasdaq Global Select Market, (as reported in The Wall Street Journal or, if not reported therein, in another mutually agreed upon authoritative source) for each of the 10 consecutive trading days ending on the Walkaway Determination Date.</text>
         </definition>
-        <definition standardID="2e49bd71feebe80f">
+        <definition standardID="2e49bd71feebe80f" term="walkaway determination date">
           <text>“Walkaway Determination Date” means the fifth trading day immediately preceding the Closing Date (such fifth trading day to be determined by counting the trading day immediately preceding the Closing Date as the first trading day).</text>
         </definition>
-        <definition standardID="4fcc79728124b701">
+        <definition standardID="4fcc79728124b701" term="index price">
           <text>“Index Price” on a given date means the closing value of the Nasdaq Bank Index as reported on Bloomberg.com, or if not reported therein, in another mutually agreed upon authoritative source.</text>
         </definition>
-        <definition standardID="baca8ff47c8c7165">
+        <definition standardID="baca8ff47c8c7165" term="per share consideration">
           <text>“Per Share Consideration” shall mean the Exchange Ratio multiplied by the Average Closing Price.</text>
         </definition>
-        <definition standardID="982b59a9d0f2da6a">
+        <definition standardID="982b59a9d0f2da6a" term="starting price">
           <text>“Starting Price” shall mean $31.96, which is the average of the last reported sale price per share of Buyer Common Stock as reported on the Nasdaq Global Select Market (as reported in The Wall Street Journal or, if not reported therein, in another mutually agreed upon authoritative source) for each of the 10 consecutive trading days ending on the Starting Date.</text>
         </definition>
-        <definition standardID="43c58fd5420f8021">
+        <definition standardID="43c58fd5420f8021" term="starting date">
           <text>“Starting Date” shall mean April 27, 2016.</text>
           <text>If Buyer declares or effects a stock dividend, reclassification, recapitalization, split-up, combination, non-acquisitive exchange of shares or similar transaction between the Starting Date and the Walkaway Determination Date (or establishes a record date in respect thereof), the prices for the common stock of Buyer shall be appropriately adjusted for the purposes of applying this Section 11.01(d)(iv).</text>
         </definition>

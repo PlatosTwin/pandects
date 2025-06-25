@@ -18,14 +18,14 @@
   <body>
     <article title="ARTICLE I. DEFINITIONS" standardId="43f412ac5c772c0a">
       <text>The following terms have the meanings specified or referred to in this Article I:</text>
-      <definition standardID="35a7cf3309149836">
+      <definition standardID="35a7cf3309149836" term="acquired companies">
         <text>“Acquired Companies” means the Company and its Subsidiaries.</text>
       </definition>
-      <definition standardID="6ac95f89defd0a11">
+      <definition standardID="6ac95f89defd0a11" term="acquisition proposal">
         <text>“Acquisition Proposal” means any inquiry, proposal or offer from any Person (other than Buyer or any of its Affiliates) concerning (a) a merger, consolidation, liquidation, recapitalization, share exchange or other business combination transaction involving any of the Acquired Companies, (b) the issuance or acquisition of shares of capital stock or other equity securities of any of the Acquired Companies, or (c) the sale, lease, exchange or other disposition of any significant portion of any of the Acquired Companies’ properties or assets.</text>
         <text>“Additional Capital Expenditures” has the meaning set forth in Section 5.01.</text>
       </definition>
-      <definition standardID="1198c4a699797a12">
+      <definition standardID="1198c4a699797a12" term="affiliate">
         <text>“Affiliate” of a Person means any other Person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such Person. The term “control” (including the terms “controlled by” and “under common control with”) means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise.</text>
         <text>“Agreed Remediation Plan” has the meaning set forth in Section 5.16.</text>
         <text>“Agreement” has the meaning set forth in the preamble.</text>
@@ -38,21 +38,21 @@
         <text>“Base Purchase Price” has the meaning set forth in Section 2.02.</text>
         <text>“Benefit Plan” has the meaning set forth in Section 3.20(a).</text>
       </definition>
-      <definition standardID="a5200bdd4f9d84cd">
+      <definition standardID="a5200bdd4f9d84cd" term="business day">
         <text>“Business Day” means any day except Saturday, Sunday or any other day on which commercial banks located in Dallas, Texas are authorized or required by Law to be closed for business.</text>
         <text>“Buyer” has the meaning set forth in the preamble.</text>
       </definition>
-      <definition standardID="cc5e329d7b5e42c7">
+      <definition standardID="cc5e329d7b5e42c7" term="cash">
         <text>“Cash” means the cash and cash equivalents (net of outstanding checks or wires and other payments in transit to the extent such checks, wires or other payments are accounted for in the calculation of Current Liabilities or Current Assets) of the Company as of 11:59 p.m., central time, on the Closing Date.</text>
       </definition>
-      <definition standardID="6699aa7a2a44efe7">
+      <definition standardID="6699aa7a2a44efe7" term="cash surplus">
         <text>“Cash Surplus” means the amount by which Cash exceeds the Cash Target.</text>
       </definition>
-      <definition standardID="6f41918243fb9198">
+      <definition standardID="6f41918243fb9198" term="cash target">
         <text>“Cash Target” means zero dollars ($0).</text>
         <text>“Closing” has the meaning set forth in Section 2.07.</text>
       </definition>
-      <definition standardID="2981566535599d32">
+      <definition standardID="2981566535599d32" term="closing adjustment amount">
         <text>“Closing Adjustment Amount” means an amount equal to (a) any Estimated Working Capital Surplus, minus (b) any Estimated Working Capital Deficiency, minus (c) Estimated Indebtedness.</text>
         <text>“Closing Date” has the meaning set forth in Section 2.07.</text>
         <text>“Closing Indebtedness” has the meaning set forth in Section 2.05(a).</text>
@@ -60,71 +60,71 @@
         <text>“Closing Working Capital Deficiency” has the meaning set forth in Section 2.05(a).</text>
         <text>“Closing Working Capital Surplus” has the meaning set forth in Section 2.05(a).</text>
       </definition>
-      <definition standardID="7666a237d6818118">
+      <definition standardID="7666a237d6818118" term="code">
         <text>“Code” means the Internal Revenue Code of 1986, as amended.</text>
         <text>“Common Stock” has the meaning set forth in the recitals.</text>
         <pageUUID>beb303da-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
         <text>“Company” has the meaning set forth in the preamble.</text>
         <text>“Company Intellectual Property” has the meaning set forth in Section 3.15(b).</text>
       </definition>
-      <definition standardID="515dbeafdb8e5360">
+      <definition standardID="515dbeafdb8e5360" term="company transaction costs">
         <text>“Company Transaction Costs” means (i) all fees, costs and expenses of any brokers, investment banks, financial advisors, consultants, accountants, attorneys or other professionals engaged by or paid by the Company in connection with the structuring, negotiation or consummation of the transactions contemplated by this Agreement, the Escrow Agreement or any other documents entered into in connection herewith or therewith and (ii) any bonuses payable to Company Employees as a result of the acquisition of the Shares.</text>
       </definition>
-      <definition standardID="a402e197c2899cc5">
+      <definition standardID="a402e197c2899cc5" term="competitive business">
         <text>“Competitive Business” means the business of owning, leasing, managing or operating motion picture theaters.</text>
       </definition>
-      <definition standardID="969054151aeb5eea">
+      <definition standardID="969054151aeb5eea" term="confidential information">
         <text>“Confidential Information” means any information of the Acquired Companies marked as confidential or proprietary or any of the following information of the Acquired Companies that a reasonable person under the circumstances would regard as confidential or proprietary: (a) proprietary supplier information; (b) marketing plans and strategies, supplier lists, pricing information, sales data and projections; (c) any financial statements or other financial information of the Acquired Companies; and (d) the terms and conditions of this Agreement. “Confidential Information” does not include, and there shall be no obligation hereunder with respect to, information that (i) is generally available to the public on the date of this Agreement, (ii) becomes generally available to the public other than as a result of a disclosure not otherwise permissible hereunder, (iii) is or becomes available to the Sellers or their Affiliates from a source other than the Acquired Companies that is not known to be bound by a confidentiality obligation to the Acquired Companies or (iv) is independently developed by the Sellers or their Affiliates without the use of or reference to any Confidential Information.</text>
       </definition>
-      <definition standardID="969054151aeb5eea">
+      <definition standardID="969054151aeb5eea" term="confidentiality agreement">
         <text>“Confidentiality Agreement” means the Confidentiality Letter Agreement, dated as of July 22, 2014, between an Affiliate of Buyer and the Company.</text>
       </definition>
-      <definition standardID="253114e22fb26b46">
+      <definition standardID="253114e22fb26b46" term="current assets">
         <text>“Current Assets” means the sum of all current assets of the Company and its Subsidiaries as determined in accordance with this Agreement and GAAP applied on a basis consistent with the preparation of the Balance Sheet; provided, however, that Current Assets shall not include (a) accounts and obligations owed by the Company to any of its Subsidiaries or owed by a Subsidiary of the Company to the Company and/or one or more of its Subsidiaries, (b) Cash, (c) miscellaneous accounts receivable related to Loudoun, or (d) prepaid income taxes.</text>
       </definition>
-      <definition standardID="1375340c4d24b547">
+      <definition standardID="1375340c4d24b547" term="current liabilities">
         <text>“Current Liabilities” means the sum of all current liabilities of the Company and its Subsidiaries as determined in accordance with this Agreement and GAAP applied on a basis consistent with the preparation of the Balance Sheet; provided, however, that (a) no reserves reflected on such Balance Sheet (including, but not limited to, the allowance for bad debts or obsolete inventory, insurance accruals and other contingent matters) shall be increased, reduced or eliminated, except in the case of a reduction or elimination by reason of a payment or credit occurring in the ordinary course of business and consistent with past practices and (b) Current Liabilities shall not include, in whole or in part, (i) Company Transaction Costs paid on or before the Closing Date; (ii) the current portion of long-term Indebtedness, and accrued and unpaid</text>
         <pageUUID>beb3095c-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
         <text>interest on long-term Indebtedness, or any costs associated with any refinancing thereof by Buyer; (iii) any deferred Tax liabilities; (iv) income and franchise Taxes payable; (v) accounts and obligations owed by the Company to any of its Subsidiaries or owed by a Subsidiary of the Company to the Company and/or one or more of its Subsidiaries; (vi) accounts payable for Approved Capital Expenditures or Additional Capital Expenditures; (vii) the current portion of capital lease obligations; (viii) the current portion of deferred gains from sale leaseback transactions; and (ix) the current portion of deferred rent. For the avoidance of doubt, Current Liabilities shall include all Company Transaction Costs that are unpaid as of the Closing Date regardless of when accrued, incurred or invoiced.</text>
       </definition>
-      <definition standardID="d3c3bfa316adb944">
+      <definition standardID="d3c3bfa316adb944" term="data room">
         <text>“Data Room” means the electronic documentation site established by Peter J. Solomon Company on behalf of the Company in connection with the transactions contemplated by this Agreement.</text>
         <text>“Deductible” has the meaning set forth in Section 7.04(a).</text>
         <text>“Direct Claim” has the meaning set forth in Section 7.05(c).</text>
       </definition>
-      <definition standardID="13745fe4585822a3">
+      <definition standardID="13745fe4585822a3" term="disclosure schedules">
         <text>“Disclosure Schedules” means the Disclosure Schedules delivered by Sellers and Buyer concurrently with the execution and delivery of this Agreement.</text>
         <text>“Disclosure Schedules Supplement” has the meaning set forth in Section 5.02.</text>
         <text>“Documentation” has the meaning set forth in Section 5.16.</text>
       </definition>
-      <definition standardID="d1c95562dcac0e6c">
+      <definition standardID="d1c95562dcac0e6c" term="dollars">
         <text>“Dollars” or “$” means the lawful currency of the United States.</text>
         <text>“Dormant” shall refer to any claim for Losses for which indemnification is sought after twelve (12) months or more have passed since the last affirmative action has been taken to pursue, perfect, collect or enforce the claim so made.</text>
       </definition>
-      <definition standardID="ad1175c2ab8f55e7">
+      <definition standardID="ad1175c2ab8f55e7" term="employees">
         <text>“Employees” means those Persons employed by the Company or any of its Subsidiaries immediately prior to the Closing.</text>
       </definition>
-      <definition standardID="d81e5a1f628dde5c">
+      <definition standardID="d81e5a1f628dde5c" term="encumbrance">
         <text>“Encumbrance” means any lien, pledge, mortgage, deed of trust, security interest, charge, claim, easement, encroachment or other similar encumbrance.</text>
       </definition>
-      <definition standardID="cb75fb473fd318db">
+      <definition standardID="cb75fb473fd318db" term="environmental law">
         <text>“Environmental Law” means any applicable Law, and any Governmental Order or binding agreement with any Governmental Authority (a) relating to pollution (or the cleanup thereof) or the protection of natural resources, endangered or threatened species, human health or safety, or the environment (including ambient air, soil, surface water or groundwater, or subsurface strata) or (b) concerning the presence of, exposure to, or the management, manufacture, use, containment, storage, recycling, reclamation, reuse, treatment, generation, discharge, transportation, processing, production, disposal or remediation of any hazardous materials, chemicals, substances or wastes. The term “Environmental Law” includes, without limitation, the following (including their implementing regulations, any amendments thereto, and any state analogs): CERCLA; the Solid Waste Disposal Act, as amended by the Resource Conservation and Recovery Act of 1976, as amended by the Hazardous and Solid Waste</text>
         <pageUUID>beb312c6-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
         <text>Amendments of 1984, 42 U.S.C. §§ 6901 et seq.; the Federal Water Pollution Control Act of 1972, as amended by the Clean Water Act of 1977, 33 U.S.C. §§ 1251 et seq.; the Toxic Substances Control Act of 1976, as amended, 15 U.S.C. §§ 2601 et seq.; the Emergency Planning and Community Right-to-Know Act of 1986, 42 U.S.C. §§ 11001 et seq.; and the Clean Air Act of 1966, as amended by the Clean Air Act Amendments of 1990, 42 U.S.C. §§ 7401 et seq.</text>
       </definition>
-      <definition standardID="5bcbc3b673bfc55d">
+      <definition standardID="5bcbc3b673bfc55d" term="erisa">
         <text>“ERISA” means the Employee Retirement Income Security Act of 1974, as amended, and the regulations promulgated thereunder.</text>
       </definition>
-      <definition standardID="84828abef6161c5c">
+      <definition standardID="84828abef6161c5c" term="erisa affiliate">
         <text>“ERISA Affiliate” means the Company and each other member of a “controlled group of corporations” with, or which is under “common control” with the Company, in each case, as defined in Section 414(b), (c), (m) or (o) of the Code.</text>
       </definition>
-      <definition standardID="8d42162550d92d4e">
+      <definition standardID="8d42162550d92d4e" term="escrow account">
         <text>“Escrow Account” means the account maintained pursuant to the Escrow Agreement.</text>
       </definition>
-      <definition standardID="41e6754a3e67928c">
+      <definition standardID="41e6754a3e67928c" term="escrow agent">
         <text>“Escrow Agent” means U.S. Bank National Association.</text>
       </definition>
-      <definition standardID="cabcdaca18456a77">
+      <definition standardID="cabcdaca18456a77" term="escrow agreement">
         <text>“Escrow Agreement” means the agreement, which will be entered into at the Closing in substantially the form of Exhibit A, by and among the Representative, on behalf of the Sellers, Buyer and the Escrow Agent.</text>
         <text>“Escrow Amount” has the meaning set forth in Section 2.03(b).</text>
         <text>“Estimated Balance Sheet” has the meaning set forth in Section 2.04.</text>
@@ -133,13 +133,13 @@
         <text>“Estimated Working Capital Deficiency” has the meaning set forth in Section 2.04.</text>
         <text>“Estimated Working Capital Surplus” has the meaning set forth in Section 2.04.</text>
       </definition>
-      <definition standardID="2fe6928e59cf00df">
+      <definition standardID="2fe6928e59cf00df" term="final adjustment amount">
         <text>“Final Adjustment Amount” means an amount equal to (a) any Final Working Capital Surplus, minus (b) any Final Working Capital Deficiency, minus (c) any Final Indebtedness.</text>
         <text>“Final Adjustment Deficiency” has the meaning set forth in Section 2.05(d).</text>
         <text>“Final Adjustment Surplus” has the meaning set forth in Section 2.05(d).</text>
         <text>“Final Balance Sheet” has the meaning set forth in Section 2.05(a).</text>
       </definition>
-      <definition standardID="86e92c39faadf02f">
+      <definition standardID="86e92c39faadf02f" term="final cash surplus">
         <text>“Final Cash Surplus” means an amount equal to (a) the amount of Cash on hand of the Company as of 11:59 p.m. on the Closing Date, minus (b) the Cash Target.</text>
         <text>“Final Indebtedness” has the meaning set forth in Section 2.05(b).</text>
         <text>“Final Working Capital Deficiency” has the meaning set forth in Section 2.05(b).</text>
@@ -148,24 +148,24 @@
         <text>“Financial Statements” has the meaning set forth in Section 3.10.</text>
         <text>“Fraud” has the meaning set forth in Section 7.04(b).</text>
       </definition>
-      <definition standardID="ab95d27b0f7df30c">
+      <definition standardID="ab95d27b0f7df30c" term="fundamental representations">
         <text>“Fundamental Representations” means the representations and warranties set forth in Section 3.01 (Organization and Authority of the Acquired Companies), Section 3.02 (Execution by and Enforceability against the Company), Section 3.04 (Capitalization), Section 3.05 (Ownership of Shares), Section 3.06 (Subsidiaries), Section 3.07 (Authority of Sellers; Execution by and Enforceability Against Sellers); the first sentence of Section 3.11 (Indebtedness; Undisclosed Liabilities), Section 3.23 (Related Party Transactions), and Section 3.24 (Brokers).</text>
       </definition>
-      <definition standardID="12024e80ae327bfd">
+      <definition standardID="12024e80ae327bfd" term="gaap">
         <text>“GAAP” means United States generally accepted accounting principles in effect from time to time.</text>
       </definition>
-      <definition standardID="3af35c84d74f202e">
+      <definition standardID="3af35c84d74f202e" term="governmental authority">
         <text>“Governmental Authority” means any federal, state, local or foreign government, or any agency or instrumentality of such government, or any arbitrator, court or tribunal of competent jurisdiction.</text>
       </definition>
-      <definition standardID="3af35c84d74f202e">
+      <definition standardID="3af35c84d74f202e" term="governmental order">
         <text>“Governmental Order” means any agreement, order, writ, judgment, injunction, decree, stipulation, determination or award entered by or with any Governmental Authority.</text>
         <text>“Health Plans” has the meaning set forth in Section 3.20(a).</text>
       </definition>
-      <definition standardID="37eda8e87f558c04">
+      <definition standardID="37eda8e87f558c04" term="hsr act">
         <text>“HSR Act” means the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.</text>
         <text>“Incomplete Repairs” has the meaning set forth in Section 5.16.</text>
       </definition>
-      <definition standardID="a6306e1bb03e00c9">
+      <definition standardID="a6306e1bb03e00c9" term="indebtedness">
         <text>“Indebtedness” means, except for accounts and obligations owed by the Company to any of its Subsidiaries or owed by a Subsidiary of the Company to the Company and/or one or more of its Subsidiaries, (a) all indebtedness of the Company and its Subsidiaries for the repayment of borrowed money, whether or not represented by bonds, debentures, notes or similar instruments, and all accrued and unpaid interest and all premiums, penalties, fees, expenses, breakage costs and bank overdrafts related to the foregoing; (b) all other indebtedness of the Company and its Subsidiaries evidenced by bonds, debentures, notes or similar instruments; (c) all obligations of the Company and its Subsidiaries under equipment leases required to be capitalized in accordance with GAAP; (d) any commitment by which the Company or any of its Subsidiaries assures a financial institution against a loss (including contingent reimbursement obligations with respect to letters of credit); (e) any off-balance sheet financing, including synthetic leases and project financing; (f) any payment obligations in respect of banker’s acceptances or letters of credit; (g) any obligations with respect to interest rate swaps, collars, caps and similar hedging obligations; (h) all obligations for the deferred and unpaid purchase price of property of services (other than trade payables and accrued expenses incurred in the ordinary course of business consistent with past practice); and (i) any of the obligations described in clauses (a) through (h) above of any other Person which are either guaranteed by the</text>
         <pageUUID>beb31f6e-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
         <text>Company or any of its Subsidiaries, or secured by any Encumbrance upon any asset or property of the Company or any of its Subsidiaries.</text>
@@ -177,16 +177,16 @@
         <text>“Interim Financial Statements” has the meaning set forth in Section 3.10.</text>
         <text>“Knowledge of the Company” or “the Company’s Knowledge” or any other similar knowledge qualification means the actual (and not constructive) knowledge, after reasonable investigation, of each of Steve Holmes, William K. Daniels, and Tod Hanna.</text>
       </definition>
-      <definition standardID="d3a0a4989c28a607">
+      <definition standardID="d3a0a4989c28a607" term="law">
         <text>“Law” means any statute, law, ordinance, regulation, rule, code, order, constitution, treaty, common law, judgment, decree, other requirement or rule of law of any Governmental Authority.</text>
         <text>“Leases” has the meaning set forth in Section 3.14(b).</text>
         <text>“Lease Amendments” has the meaning set forth in Section 3.10.</text>
       </definition>
-      <definition standardID="47a2902c51c37e24">
+      <definition standardID="47a2902c51c37e24" term="losses">
         <text>“Losses” means actual losses, damages, liabilities, costs or expenses, including reasonable attorneys’ fees and expenses.</text>
         <text>“Major Repairs” has the meanting set forth in Section 5.16.</text>
       </definition>
-      <definition standardID="32d9b79490f77899">
+      <definition standardID="32d9b79490f77899" term="material adverse effect">
         <text>“Material Adverse Effect” means any event, occurrence, fact, condition or change that, individually or in the aggregate, is materially adverse to (a) the business, results of operations, financial condition, assets or liabilities of the Company and its Subsidiaries taken as a whole; or (b) the ability of the Company or any Seller to consummate the transactions contemplated by this Agreement; provided, however, that “Material Adverse Effect” shall not include any event, occurrence, fact, condition or change, directly or indirectly, arising out of or attributable to: (i) general economic or political conditions; (ii) conditions generally affecting the industry in which the Company operates; (iii) any changes in financial, banking or securities markets in general, including any disruption thereof and any decline in the price of any security or any market index or any change in prevailing interest rates; (iv) acts of war (whether or not declared), armed hostilities or terrorism, or the escalation or worsening thereof; (v) any action required or permitted by this Agreement or any action taken (or omitted to be taken) with the written consent of or at the written request of Buyer; (vi) any changes in applicable Laws or accounting rules (including GAAP) or the enforcement, implementation or interpretation thereof; (vii) the announcement, pendency or completion of the transactions contemplated by this Agreement, including losses or threatened losses of employees, suppliers or others having</text>
         <pageUUID>beb325e0-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
         <text>relationships with the Company; (viii) any natural or man-made disaster or acts of God; (ix) any failure by the Company to meet any internal or published projections, forecasts or revenue or earnings predictions (provided that the underlying causes of such failures (subject to the other provisions of this definition) shall not be excluded); or (x) any divestitures of properties or assets required pursuant to Section 5.09(b) unless such divestitures result, or are reasonably likely to result, in a Regulatory Material Adverse Effect.</text>
@@ -194,37 +194,37 @@
         <text>“Objection Notice” has the meaning set forth in Section 2.05(b).</text>
         <text>“Other Repairs” has the meaning set forth in Section 5.16.</text>
       </definition>
-      <definition standardID="0eb82377f380b00b">
+      <definition standardID="0eb82377f380b00b" term="outside date">
         <text>“Outside Date” means the date six (6) months after the date of this Agreement; provided that if on the Outside Date the conditions to Closing set forth in Section 6.01 shall not have been satisfied but all other conditions to Closing shall be satisfied or shall be capable of being satisfied upon satisfaction of the conditions to Closing set forth in such Section, then the Representative or the Buyer shall have the right to extend the Outside Date an additional ninety (90) days by notifying the other party in writing of such election before the Outside Date.</text>
         <text>“Payoff Letters” has the meaning set forth in Section 2.04.</text>
         <text>“Pending Claims” has the meaning set forth in Section 2.03(b).</text>
       </definition>
-      <definition standardID="e901f870740ab42b">
+      <definition standardID="e901f870740ab42b" term="percentage interest">
         <text>“Percentage Interest” of a Seller means the percentage of Shares owned by such Seller immediately prior to the Closing, as compared to all Sellers in the aggregate, as set forth on Exhibit B.</text>
       </definition>
-      <definition standardID="eb1bba67dfbe7a37">
+      <definition standardID="eb1bba67dfbe7a37" term="permits">
         <text>“Permits” means all permits, licenses, franchises, and authorizations required to be obtained from Governmental Authorities.</text>
       </definition>
-      <definition standardID="b0e470147e4d35ca">
+      <definition standardID="b0e470147e4d35ca" term="person">
         <text>“Person” means an individual, corporation, partnership, joint venture, limited liability company, Governmental Authority, unincorporated organization, trust, association or other entity.</text>
         <text>“Pre Closing Tax Returns” has the meaning set forth in Section 5.05(a)(ii).</text>
         <text>“Privileged Materials” has the meaning set forth in Section 9.14.</text>
         <text>“Purchase Price” has the meaning set forth in Section 2.02.</text>
       </definition>
-      <definition standardID="c72dd7d146b5278a">
+      <definition standardID="c72dd7d146b5278a" term="real property">
         <text>“Real Property” means the real property owned, leased, subleased or licensed by any Acquired Company, together with all buildings, structures and facilities located thereon.</text>
         <text>“Referee” has the meaning set forth in Section 2.05(b).</text>
       </definition>
-      <definition standardID="93f818d18219d629">
+      <definition standardID="93f818d18219d629" term="regulatory material adverse effect">
         <text>“Regulatory Material Adverse Effect” means any divestiture of theaters of the Company, Buyer or any of their respective Subsidiaries required to be made by Buyer by any</text>
         <pageUUID>beb32c66-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
         <text>Governmental Authority pursuant to Section 5.09(b) that, individually or in the aggregate, accounted for greater than $4,400,000 in theater level cash flow during the trailing twelve fiscal months ended March 31, 2015, which as to the Company and its Subsidiaries shall be the amounts set forth on Schedule I attached hereto; provided, however, subject to compliance with all requirements imposed by such Governmental Authority, in determining whether to divest Buyer’s or the Company’s (or their respective Subsidiaries’) theaters, Buyer shall use its best lawful efforts to divest the theaters owned by the Company and its Subsidiaries in such markets.</text>
         <text>“Repair Amount” has the meaning set forth in Section 5.16.</text>
       </definition>
-      <definition standardID="7981d0ead65f0728">
+      <definition standardID="7981d0ead65f0728" term="representative">
         <text>“Representative” means Trinity Hunt Management, L.P., a Delaware limited partnership, and any successor representative appointed pursuant to the provisions of Article X hereof to act on its behalf.</text>
       </definition>
-      <definition standardID="7981d0ead65f0728">
+      <definition standardID="7981d0ead65f0728" term="representative holdback amount">
         <text>“Representative Holdback Amount” means $300,000 of the Purchase Price to be held by the Representative pursuant to the provisions of Article X hereof.</text>
         <text>“Restricted Seller” has the meaning set forth in Section 5.15(a).</text>
         <text>“Seller Group” has the meaning set forth in Section 9.14.</text>
@@ -233,36 +233,36 @@
         <text>“Shares” has the meaning set forth in the recitals.</text>
         <text>“Store Lender Consent” has the meaning set forth in Section 5.09(d).</text>
       </definition>
-      <definition standardID="acf26aa6537ca6e1">
+      <definition standardID="acf26aa6537ca6e1" term="subsidiary">
         <text>“Subsidiary” means, with respect to any Person, another Person in which such first Person owns, directly or indirectly, an amount of the voting securities, other voting ownership or voting partnership interests of which is sufficient to elect at least a majority of its board of directors or other governing body (or, if there are no such voting interests, fifty percent (50%) or more of the equity interests of such Person).</text>
         <text>“Tax Contest” has the meaning set forth in Section 5.05(c).</text>
       </definition>
-      <definition standardID="0e24d6498e2b6315">
+      <definition standardID="0e24d6498e2b6315" term="taxes">
         <text>“Taxes” means all federal, state, local, foreign and other income, gross receipts, sales, use, production, ad valorem, transfer, franchise, registration, profits, license, lease, service, service use, withholding, payroll, employment, unemployment, estimated, excise, severance, environmental, stamp, occupation, premium, property (real or personal), real property gains, windfall profits, customs, duties or other taxes, fees, assessments or charges of any kind whatsoever, together with any interest, additions or penalties with respect thereto and any interest in respect of such additions or penalties.</text>
         <text>“Tax Indemnity” has the meaning set forth in Section 5.05(b).</text>
       </definition>
       <pageUUID>beb332a6-4a0f-11f0-8d00-be44a5e954c9</pageUUID>
-      <definition standardID="a708f83a2fd82bd5">
+      <definition standardID="a708f83a2fd82bd5" term="tax return">
         <text>“Tax Return” means any return, declaration, report, claim for refund, information return or statement or other document required to be filed with respect to Taxes, including any schedule or attachment thereto, and including any amendment thereof.</text>
         <text>“Theater Repairs” has the meaning set forth in Section 5.16.</text>
         <text>“Third-Party Claim” has the meaning set forth in Section 7.05(a).</text>
       </definition>
-      <definition standardID="5c3562da90615e4a">
+      <definition standardID="5c3562da90615e4a" term="working capital">
         <text>“Working Capital” means Current Assets minus Current Liabilities calculated utilizing only the line items set forth on Exhibit C.</text>
       </definition>
-      <definition standardID="5c3562da90615e4a">
+      <definition standardID="5c3562da90615e4a" term="working capital deficiency">
         <text>“Working Capital Deficiency” means the amount by which the Working Capital Minimum Target exceeds the Working Capital.</text>
       </definition>
-      <definition standardID="5c3562da90615e4a">
+      <definition standardID="5c3562da90615e4a" term="working capital maximum target">
         <text>“Working Capital Maximum Target” means the Working Capital Target plus $25,000.</text>
       </definition>
-      <definition standardID="5c3562da90615e4a">
+      <definition standardID="5c3562da90615e4a" term="working capital minimum target">
         <text>“Working Capital Minimum Target” means the Working Capital Target less $25,000.</text>
       </definition>
-      <definition standardID="5c3562da90615e4a">
+      <definition standardID="5c3562da90615e4a" term="working capital surplus">
         <text>“Working Capital Surplus” means the amount by which Working Capital exceeds the Working Capital Maximum Target.</text>
       </definition>
-      <definition standardID="5c3562da90615e4a">
+      <definition standardID="5c3562da90615e4a" term="working capital target">
         <text>“Working Capital Target” means a negative balance of $5,850,000.</text>
       </definition>
     </article>

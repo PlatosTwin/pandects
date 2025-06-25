@@ -19,355 +19,355 @@
     <article title="ARTICLE I DEFINITIONS" standardId="43f412ac5c772c0a">
       <text>Capitalized and certain other terms used in this Agreement have the meanings set forth below. Unless the context otherwise requires, such terms shall include the singular and plural and the conjunctive and disjunctive forms of the terms defined.</text>
       <pageUUID>e04ea9c4-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-      <definition standardID="6ac95f89defd0a11">
+      <definition standardID="6ac95f89defd0a11" term="acquisition proposal">
         <text>“Acquisition Proposal” shall mean any inquiry, proposal or offer relating to (i) the acquisition by any Person after the date hereof of twenty percent (20%) or more of the outstanding shares of capital stock or twenty percent (20%) or more of the aggregate outstanding voting securities of the Company, (ii) a merger, consolidation, business combination, reorganization, share exchange, recapitalization, liquidation, dissolution or similar transaction involving the Company or any of its Subsidiaries which would result in any Person owning twenty percent (20%) or more of the outstanding shares of capital stock or twenty percent (20%) or more of the aggregate outstanding voting securities of the Company, (iii) a merger, consolidation, business combination, reorganization, share exchange, sale of substantially all assets, recapitalization, liquidation, dissolution or similar transaction which would result in any Person acquiring twenty percent (20%) or more of the fair market value, immediately prior to such transaction, of the assets (including capital stock of the Company’s Subsidiaries) of the Company and its Subsidiaries, taken as a whole, (iv) any other transaction which would, directly or indirectly, result in a Person acquiring twenty percent (20%) or more of the fair market value, immediately prior to such transaction, of the assets (including capital stock of the Company’s Subsidiaries) of the Company and its Subsidiaries, taken as a whole, (whether by purchase of assets, acquisition of stock of a Subsidiary or otherwise), or (v) any combination of the foregoing.</text>
       </definition>
-      <definition standardID="1198c4a699797a12">
+      <definition standardID="1198c4a699797a12" term="affiliate">
         <text>“Affiliate” shall have the meaning set forth in Rule 12b-2 promulgated under the Exchange Act.</text>
       </definition>
-      <definition standardID="4fd7b56c45064fc7">
+      <definition standardID="4fd7b56c45064fc7" term="affiliate letter">
         <text>“Affiliate Letter” shall have the meaning set forth in Section 6.13.</text>
       </definition>
-      <definition standardID="ed44df6584800976">
+      <definition standardID="ed44df6584800976" term="agreement">
         <text>“Agreement” shall have the meaning set forth in the Preamble hereto.</text>
       </definition>
-      <definition standardID="5e636c599b7d2da1">
+      <definition standardID="5e636c599b7d2da1" term="audit">
         <text>“Audit” means any audit, assessment, or other examination relating to Taxes by any Tax Authority or any judicial or administrative proceedings relating to Taxes.</text>
       </definition>
-      <definition standardID="60c60127ac6cdd2b">
+      <definition standardID="60c60127ac6cdd2b" term="bankruptcy and equity exception">
         <text>“Bankruptcy and Equity Exception” shall have the meaning set forth in Section 4.4.</text>
       </definition>
-      <definition standardID="95593187fceae4fc">
+      <definition standardID="95593187fceae4fc" term="benefit plan">
         <text>“Benefit Plan” shall have the meaning set forth in Section 4.10(a).</text>
       </definition>
-      <definition standardID="a5200bdd4f9d84cd">
+      <definition standardID="a5200bdd4f9d84cd" term="business day">
         <text>“Business Day” shall mean any day, other than a Saturday, Sunday and any day which is a legal holiday under the Laws of the State of California or New York or is a day on which banking institutions located in such States are authorized or required by Law or other governmental action to close.</text>
       </definition>
-      <definition standardID="068b372713ab93bb">
+      <definition standardID="068b372713ab93bb" term="certificate of merger">
         <text>“Certificate of Merger” shall have the meaning set forth in Section 2.3.</text>
       </definition>
-      <definition standardID="68487c2d62e231f1">
+      <definition standardID="68487c2d62e231f1" term="cgcl">
         <text>“CGCL” shall mean the California General Corporation Law.</text>
       </definition>
-      <definition standardID="4126f332aaa33fd7">
+      <definition standardID="4126f332aaa33fd7" term="closing">
         <text>“Closing” shall have the meaning set forth in Section 2.2.</text>
       </definition>
-      <definition standardID="80e0b1493ec809fd">
+      <definition standardID="80e0b1493ec809fd" term="closing date">
         <text>“Closing Date” shall have the meaning set forth in Section 2.2.</text>
       </definition>
       <pageUUID>e04eaeec-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-      <definition standardID="830cadef7f764f83">
+      <definition standardID="830cadef7f764f83" term="code">
         <text>“Code” shall have the meaning set forth in the Recitals.</text>
       </definition>
-      <definition standardID="6bbc3120df7240f3">
+      <definition standardID="6bbc3120df7240f3" term="company">
         <text>“Company” shall have the meaning set forth in the Preamble hereto.</text>
       </definition>
-      <definition standardID="7050ad709162d928">
+      <definition standardID="7050ad709162d928" term="company 401(k) plan">
         <text>“Company 401(k) Plan” shall have the meaning set forth in Section 6.14(b).</text>
       </definition>
-      <definition standardID="7a64d3b1b5538616">
+      <definition standardID="7a64d3b1b5538616" term="company adverse recommendation change">
         <text>“Company Adverse Recommendation Change” shall have the meaning set forth in Section 6.4(a).</text>
       </definition>
-      <definition standardID="2aa87a87cf9968aa">
+      <definition standardID="2aa87a87cf9968aa" term="company affiliates">
         <text>“Company Affiliates” shall have the meaning set forth in Section 6.13.</text>
       </definition>
-      <definition standardID="68b8e3a6469fe2c4">
+      <definition standardID="68b8e3a6469fe2c4" term="company certificate">
         <text>“Company Certificate” shall have the meaning set forth in Section 3.5.</text>
       </definition>
-      <definition standardID="5f28ce08edc6b326">
+      <definition standardID="5f28ce08edc6b326" term="company common stock">
         <text>“Company Common Stock” shall mean the common stock of the Company, no par value per share.</text>
       </definition>
-      <definition standardID="e559b325fe3dda61">
+      <definition standardID="e559b325fe3dda61" term="company contract">
         <text>“Company Contract” shall have the meaning set forth in Section 4.12(a).</text>
       </definition>
-      <definition standardID="bf52234cf490e0b1">
+      <definition standardID="bf52234cf490e0b1" term="company disclosure schedule">
         <text>“Company Disclosure Schedule” shall have the meaning set forth in Article IV.</text>
       </definition>
-      <definition standardID="e9897bbb859db916">
+      <definition standardID="e9897bbb859db916" term="company employees">
         <text>“Company Employees” shall mean the employees of the Company or its Subsidiaries as of the Effective Time.</text>
       </definition>
-      <definition standardID="693c647569c0f90b">
+      <definition standardID="693c647569c0f90b" term="company financial advisor">
         <text>“Company Financial Advisor” shall have the meaning set forth in Section 4.22.</text>
       </definition>
-      <definition standardID="9cc6f041ba4fc426">
+      <definition standardID="9cc6f041ba4fc426" term="company intellectual property">
         <text>“Company Intellectual Property” shall have the meaning set forth in Section 4.18(a).</text>
       </definition>
-      <definition standardID="a7a2b28b177d786c">
+      <definition standardID="a7a2b28b177d786c" term="company mae proviso">
         <text>“Company MAE Proviso” shall have the meaning set forth in the definition of “Company Material Adverse Effect” in Article I hereof.</text>
       </definition>
-      <definition standardID="cfbc705a19a3d042">
+      <definition standardID="cfbc705a19a3d042" term="company material adverse effect">
         <text>“Company Material Adverse Effect” shall mean a fact, event or circumstance which is materially adverse to the business, properties, assets, condition (financial or otherwise) or results of operations of the Company and its Subsidiaries, taken as a whole; provided, however, that none of the following shall be deemed to constitute or be taken into account in determining whether that has been or will or could be, a “Company Material Adverse Effect”: (A) any changes resulting from or arising out of general market, economic or political conditions (including any changes arising out of acts of terrorism or war, weather conditions or other force majeure events), provided that such changes do not have a substantially disproportionate impact on the Company and its Subsidiaries, taken as a whole, (B) any changes resulting from or arising out of general market, economic or political conditions in the industries in which the Company or any of its Subsidiaries conduct business (including any changes arising out of acts of terrorism, or war, weather conditions or other force majeure events), provided that such changes do not have a substantially disproportionate impact on the Company and its</text>
         <pageUUID>e04eb28e-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
         <text>Subsidiaries, taken as a whole, (C) any changes resulting from or arising out of actions taken pursuant to (and required by) this Agreement or at the request of Parent or the failure to take any actions due to restrictions set forth in this Agreement, (D) any changes in the price or trading volume of the Company’s stock, in and of itself, provided that such exclusion shall not apply to any underlying fact, event or circumstance that may have caused or contributed to such change in market price or trading volume, (E) any failure by the Company to meet published revenue or earnings projections, in and of itself, provided that such exclusion shall not apply to any underlying fact, event or circumstance that may have caused or contributed to such failure to meet published revenue or earnings projections, and (F) any changes or effects arising out of or resulting from any legal claims or other proceedings made by any of the Company’s shareholders (on their own behalf or on behalf of the Company) arising out of or related to this Agreement, the Merger or any other transactions contemplated hereby; provided, further, however, that for purposes of Section 7.2(c), a “Company Material Adverse Effect” shall include (any of the following being referred to as the “Company MAE Proviso”) (1) the loss of the services of either or both of the Company Employees identified on Section 7.2(c)(i) of the Parent Disclosure Schedule by reason of death, disability or otherwise, (2) the loss of the services of a majority of the Company Employees identified on Schedule 7.2(c)(ii) of the Parent Disclosure Schedule by reason of death, disability or otherwise (other than as a result of a voluntary leave of absence), (3) receipt of notice by the Company and/or its Subsidiaries from (a) either or both of the Company Employees identified on Section 7.2(c)(i) of the Parent Disclosure Schedule and/or (b) a majority of the Company Employees identified on Schedule 7.2(c)(ii) of the Parent Disclosure Schedule, in either case, that they intend to terminate their employment with the Company or its Subsidiaries after the Effective Time, and (4) any combination of the foregoing clauses (2) and (3) with respect to the Company Employees identified on Schedule 7.2(c)(ii) of the Parent Disclosure Schedule.</text>
       </definition>
-      <definition standardID="525531a34126fc57">
+      <definition standardID="525531a34126fc57" term="company option">
         <text>“Company Option” shall have the meaning set forth in Section 3.4(b).</text>
       </definition>
-      <definition standardID="a22246421e2da8a3">
+      <definition standardID="a22246421e2da8a3" term="company permits">
         <text>“Company Permits” shall have the meaning set forth in Section 4.14(a).</text>
       </definition>
-      <definition standardID="54483ae54440cfdc">
+      <definition standardID="54483ae54440cfdc" term="company preferred stock">
         <text>“Company Preferred Stock” shall have the meaning set forth in Section 4.2(a).</text>
       </definition>
-      <definition standardID="33f8c98660557c59">
+      <definition standardID="33f8c98660557c59" term="company sec documents">
         <text>“Company SEC Documents” shall have the meaning set forth in Section 4.7(a).</text>
       </definition>
-      <definition standardID="dbf182ea0f515b45">
+      <definition standardID="dbf182ea0f515b45" term="company shareholder approval">
         <text>“Company Shareholder Approval” shall have the meaning set forth in Section 4.4.</text>
       </definition>
-      <definition standardID="dbf182ea0f515b45">
+      <definition standardID="dbf182ea0f515b45" term="company shareholder meeting">
         <text>“Company Shareholder Meeting” shall have the meaning set forth in Section 4.24.</text>
       </definition>
-      <definition standardID="cfb1b1ac11bbeb2e">
+      <definition standardID="cfb1b1ac11bbeb2e" term="company stock plans">
         <text>“Company Stock Plans” shall mean the Company’s 1995 Stock Plan, 1995 Director Option Plan and 2004 Equity Incentive Plan.</text>
       </definition>
       <pageUUID>e04eb748-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-      <definition standardID="16233256d7b09963">
+      <definition standardID="16233256d7b09963" term="contract">
         <text>“Contract” shall mean any note, bond, mortgage, indenture, lease, license, permit, concession, franchise, contract, agreement or other instrument or obligation.</text>
       </definition>
-      <definition standardID="0446524d57d9669f">
+      <definition standardID="0446524d57d9669f" term="d&amp;o insurance">
         <text>“D&amp;O Insurance” shall have the meaning set forth in Section 6.10(b).</text>
       </definition>
-      <definition standardID="53877294504e830a">
+      <definition standardID="53877294504e830a" term="development projects">
         <text>“Development Projects” means all Films other than Library Films and Films in Progress that are being developed, produced or acquired (by license or otherwise), or that have been proposed to be developed, produced or acquired, by or on behalf of the Company or any of its Subsidiaries for which pre-production has not commenced, regardless of the stage of development of such work or project and including any abandoned or “turnaround” works or projects.</text>
       </definition>
-      <definition standardID="256be21c14581018">
+      <definition standardID="256be21c14581018" term="dgcl">
         <text>“DGCL” shall mean the Delaware General Corporation Law.</text>
       </definition>
-      <definition standardID="fb0859b192e17547">
+      <definition standardID="fb0859b192e17547" term="dissenting shares">
         <text>“Dissenting Shares” shall have the meaning set forth in Section 3.3(a).</text>
       </definition>
-      <definition standardID="6449203fd8838c18">
+      <definition standardID="6449203fd8838c18" term="effective time">
         <text>“Effective Time” shall have the meaning set forth in Section 2.3.</text>
       </definition>
-      <definition standardID="a57308b4158df9e8">
+      <definition standardID="a57308b4158df9e8" term="elements">
         <text>“Elements” shall mean the following physical embodiments of or relating to a Film or its elements wherever located (including in any film laboratory or storage facility), in any video, audio or other format (including PAL, NTSC and high definition) and whether existing on film, print, tape, disc or other media: (i) all positive, negative, fine grain and answer prints; (ii) all exposed or developed film, pre-print materials (including positives, interpositives, negatives, internegatives, color reversals, intermediates, lavenders, fine grain master prints and matrices and all other forms of pre-print elements which may be necessary or useful to produce prints or other copies or additional pre-print elements, whether now known or hereafter devised), subtitles, special effects, cutouts, stock footage, outtakes, tabs and trims; (iii) all sound and music tracks, audio and video recordings of all types and gauges (whether analog, digital or otherwise) in all languages and (iv) all cells, drawings, storyboards, models, sculptures, puppets, bibles, outlines, scripts, screenplays, marketing and publicity materials and other physical properties of every kind and nature relating to a Film or its elements in whatever state of completion.</text>
       </definition>
-      <definition standardID="cb75fb473fd318db">
+      <definition standardID="cb75fb473fd318db" term="environmental claim">
         <text>“Environmental Claim” shall mean any claim, action, cause of action, investigation or notice (written or oral) by any person or entity alleging potential liability (including potential liability for investigatory costs, cleanup costs, governmental response costs, natural resources damages, property damages, personal injuries, or penalties) arising out of, based on or resulting from (i) the presence, or release into the environment, of any Material of Environmental Concern at any location, whether or not owned or operated by the Company or any Company Subsidiary or (ii) circumstances forming the basis of any violation, or alleged violation, of any Environmental Law.</text>
       </definition>
-      <definition standardID="cb75fb473fd318db">
+      <definition standardID="cb75fb473fd318db" term="environmental laws">
         <text>“Environmental Laws” shall mean all federal, state, local and foreign Laws and regulations and common laws relating to pollution, protection of human health or worker safety (as such matters relate to Materials of Environmental Concern) or the environment (including ambient air, surface water, ground water, land surface or subsurface strata, and natural resources), including Laws relating to emissions,</text>
         <pageUUID>e04ebacc-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
         <text>discharges, releases or threatened releases of Materials of Environmental Concern, or otherwise relating to the manufacture, processing, distribution, use, treatment, storage, disposal, transport or handling of Materials of Environmental Concern.</text>
       </definition>
-      <definition standardID="74c990176e1d016f">
+      <definition standardID="74c990176e1d016f" term="erisa">
         <text>“ERISA” shall have the meaning set forth in Section 4.10(a).</text>
       </definition>
-      <definition standardID="84828abef6161c5c">
+      <definition standardID="84828abef6161c5c" term="erisa affiliate">
         <text>“ERISA Affiliate” shall have the meaning set forth in Section 4.10(c).</text>
       </definition>
-      <definition standardID="af14b9374a223e77">
+      <definition standardID="af14b9374a223e77" term="exchange act">
         <text>“Exchange Act” shall mean the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.</text>
       </definition>
-      <definition standardID="c9d7a995199203e3">
+      <definition standardID="c9d7a995199203e3" term="exchange agent">
         <text>“Exchange Agent” shall have the meaning set forth in Section 3.5.</text>
       </definition>
-      <definition standardID="5fed63bc634d0665">
+      <definition standardID="5fed63bc634d0665" term="exchange ratio">
         <text>“Exchange Ratio” shall have the meaning set forth in Section 3.1.</text>
       </definition>
-      <definition standardID="9bfab2fca972d813">
+      <definition standardID="9bfab2fca972d813" term="exchange fund">
         <text>“Exchange Fund” shall have the meaning set forth in Section 3.5.</text>
       </definition>
-      <definition standardID="77c9d66fb9750730">
+      <definition standardID="77c9d66fb9750730" term="exploit">
         <text>“Exploit” shall mean, with respect to the Films, to release, reproduce and distribute, perform, display, exhibit, broadcast or telecast, license, or sell, market, create merchandising or otherwise commercially exploit by any and all known or new or changed (i) technology, (ii) uses, (iii) media, (iv) formats, (v) modes of transmission and (vi) methods of distribution, dissemination or performance. The meaning of the term “Exploitation” shall be correlative to the foregoing.</text>
       </definition>
-      <definition standardID="46804f86e021f402">
+      <definition standardID="46804f86e021f402" term="films">
         <text>“Films” shall mean all motion pictures (including features, shorts and trailers), television, cable or satellite programming (including on-demand and pay-per-view programming), Internet programming, direct-to-video/DVD programming or other live action, animated, filmed, taped or recorded entertainment of any kind or nature, known or unknown, and all components thereof, including titles, themes, content, dialogue, characters, plots, concepts, scenarios, characterizations, elements and music (whether or not now known or recognized) as to which the Company or any of its Subsidiaries owns or controls any right, title or interest, including: (i) completed and released works or projects; (ii) works or projects in any stage of progress, including works or projects in development and/or pre-production, in principal photography and/or post-production, and completed but not released as of the Closing Date; (iii) “turnaround” works or projects; (iv) copyright and other intellectual property or proprietary rights in and to the literary, dramatic and musical and other material associated with or related to or necessary to the Exploitation of the works or projects referred to in the foregoing clauses (i) through (iii); (v) to the extent related to the works or projects referred to in the foregoing clauses (i) through (iii), sequel, prequel and remake rights and other derivative production rights, including all novelization, merchandising, character, serialization, game and interactive rights; (vi) all other allied, ancillary, subsidiary and derivative rights (including theme park rights), known and unknown, throughout the world related to the works and projects referenced in the foregoing clauses (i) through (v); and (vii) all contractual and other rights associated with or related to such works or projects referenced in the foregoing clauses (i) through (v), whether in any media now known or hereafter developed. For the avoidance of doubt, the term “Films” shall include all Library Films, Films in Progress and Development Projects.</text>
       </definition>
       <pageUUID>e04ebfae-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-      <definition standardID="aa2c872078590d43">
+      <definition standardID="aa2c872078590d43" term="films in progress">
         <text>“Films In Progress” shall have the meaning set forth in Section 4.20.</text>
       </definition>
-      <definition standardID="cccfd4e8d545452f">
+      <definition standardID="cccfd4e8d545452f" term="foreign plan">
         <text>“Foreign Plan” shall have the meaning set forth in Section 4.10(m).</text>
       </definition>
-      <definition standardID="6806bf3cfac69a87">
+      <definition standardID="6806bf3cfac69a87" term="form s-4">
         <text>“Form S-4” shall have the meaning set forth in Section 6.6.</text>
       </definition>
-      <definition standardID="62576e3dbc32a781">
+      <definition standardID="62576e3dbc32a781" term="gaap">
         <text>“GAAP” shall mean accounting principles generally accepted in the United States of America.</text>
       </definition>
-      <definition standardID="3af35c84d74f202e">
+      <definition standardID="3af35c84d74f202e" term="governmental entity">
         <text>“Governmental Entity” shall mean any governmental body, court, agency, official or regulatory or other authority, whether federal, state, local or foreign.</text>
       </definition>
-      <definition standardID="e22540c010f35a36">
+      <definition standardID="e22540c010f35a36" term="hsr act">
         <text>“HSR Act” shall mean the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.</text>
       </definition>
-      <definition standardID="2d2d4e4a3a6b5be1">
+      <definition standardID="2d2d4e4a3a6b5be1" term="indemnified parties">
         <text>“Indemnified Parties” shall have the meaning set forth in Section 6.10(a).</text>
       </definition>
-      <definition standardID="27daa9f0cf9bd2db">
+      <definition standardID="27daa9f0cf9bd2db" term="intellectual property">
         <text>“Intellectual Property” shall have the meaning set forth in Section 4.18(a).</text>
       </definition>
-      <definition standardID="fe632f8aca59f0d0">
+      <definition standardID="fe632f8aca59f0d0" term="ip contracts">
         <text>“IP Contracts” shall have the meaning set forth in Section 4.18(a).</text>
       </definition>
-      <definition standardID="0b77b75a7103b942">
+      <definition standardID="0b77b75a7103b942" term="irs">
         <text>“IRS” shall mean the Internal Revenue Service.</text>
         <text>“Knowledge” or any similar formulation of knowledge shall mean the actual knowledge (after reasonable inquiry) of those members of senior management of the Company or Parent, as the case may be, whose duties would, in the normal course of the Company’s or Parent’s affairs, as the case may be, result in such member or members having such knowledge.</text>
       </definition>
-      <definition standardID="7839a99f4fddb184">
+      <definition standardID="7839a99f4fddb184" term="law">
         <text>“Law” shall mean any statute, law, ordinance, rule, regulation or other enforceable requirement of any Governmental Entity.</text>
       </definition>
-      <definition standardID="067c54a75345a1b7">
+      <definition standardID="067c54a75345a1b7" term="library films">
         <text>“Library Films” shall mean any and all Films that have been completed and/or acquired, delivered, and for which the Exploitation has commenced on or prior to the date of this Agreement, and any and all additional Films that have been completed and/or acquired, delivered, and for which the Exploitation has commenced after the date of this Agreement, but on or prior to the Closing Date. For the avoidance of doubt, the term “Library Films” shall include all Films other than Films In Progress and Development Projects.</text>
       </definition>
-      <definition standardID="36468fae9eeefabf">
+      <definition standardID="36468fae9eeefabf" term="liens">
         <text>“Liens” shall mean, with respect to any asset, pledges, mortgages, title defects or objections, claims, liens, charges, encumbrances and security interests of any kind or nature.</text>
       </definition>
-      <definition standardID="faadef4ec436caa4">
+      <definition standardID="faadef4ec436caa4" term="materials of environmental concern">
         <text>“Materials of Environmental Concern” shall mean chemicals, pollutants, contaminants, wastes, toxic substances, hazardous substances, petroleum and petroleum products, asbestos or asbestos-containing materials or products, polychlorinated biphenyls, lead or lead-based paints or materials, radon, fungus or mold.</text>
       </definition>
       <pageUUID>e04ec364-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-      <definition standardID="9b3ce3842dca2973">
+      <definition standardID="9b3ce3842dca2973" term="maximum annual premium">
         <text>“Maximum Annual Premium” shall have the meaning set forth in Section 6.10(b).</text>
       </definition>
-      <definition standardID="ff35c9516aaf5adb">
+      <definition standardID="ff35c9516aaf5adb" term="merger">
         <text>“Merger” shall have the meaning set forth in Section 2.1.</text>
       </definition>
-      <definition standardID="20c6f22719f59d62">
+      <definition standardID="20c6f22719f59d62" term="merger consideration">
         <text>“Merger Consideration” shall have the meaning set forth in Section 3.1.</text>
       </definition>
-      <definition standardID="8be257a7be068f9d">
+      <definition standardID="8be257a7be068f9d" term="merger sub">
         <text>“Merger Sub” shall have the meaning set forth in the Preamble hereto.</text>
       </definition>
-      <definition standardID="8978ee0f79fd2012">
+      <definition standardID="8978ee0f79fd2012" term="nasd">
         <text>“NASD” shall mean the National Association of Securities Dealers.</text>
       </definition>
-      <definition standardID="8f87700865bf2b7d">
+      <definition standardID="8f87700865bf2b7d" term="non-competition agreement">
         <text>“Non-Competition Agreement” shall mean a Contract that prohibits or materially restricts the ability of the Company or any of its Subsidiaries to operate in any geographical area or compete or operate in any line of business in which the Company or such Subsidiary, as applicable, presently is engaged, other than (a) provisions relating to geographic exclusivity and/or exclusivity by medium or manner of Exploitation contained in agreements for the Exploitation of Films or Intellectual Property licenses or (b) channel distribution restrictions.</text>
       </definition>
-      <definition standardID="16c71ae5be1f8383">
+      <definition standardID="16c71ae5be1f8383" term="non-owned intellectual property">
         <text>“Non-Owned Intellectual Property” shall have the meaning set forth in Section 4.18(a).</text>
       </definition>
-      <definition standardID="8a19af93ce30868e">
+      <definition standardID="8a19af93ce30868e" term="notice of superior proposal">
         <text>“Notice of Superior Proposal” shall have the meaning set forth in Section 6.4(c).</text>
       </definition>
-      <definition standardID="398fb2a6b1b00927">
+      <definition standardID="398fb2a6b1b00927" term="nyse">
         <text>“NYSE” shall mean the New York State Exchange.</text>
       </definition>
-      <definition standardID="4f1349c4781f227c">
+      <definition standardID="4f1349c4781f227c" term="order">
         <text>“Order” shall mean any judgment, order, writ, preliminary or permanent injunction or decree of any Governmental Entity.</text>
       </definition>
-      <definition standardID="6ab7d50fb7fc1c09">
+      <definition standardID="6ab7d50fb7fc1c09" term="owned intellectual property">
         <text>“Owned Intellectual Property” shall have the meaning set forth in Section 4.18(a).</text>
       </definition>
-      <definition standardID="cd74758b275602ff">
+      <definition standardID="cd74758b275602ff" term="parent">
         <text>“Parent” shall have the meaning set forth in the Preamble hereto.</text>
       </definition>
-      <definition standardID="cb08f10cb74a6a2d">
+      <definition standardID="cb08f10cb74a6a2d" term="parent closing share price">
         <text>“Parent Closing Share Price” shall mean the average of the daily volume weighted average sale price of one share of Parent Common Stock for the five trading days immediately preceding the Closing Date on the NYSE.</text>
       </definition>
-      <definition standardID="fa9a7bb116418cc6">
+      <definition standardID="fa9a7bb116418cc6" term="parent common stock">
         <text>“Parent Common Stock” shall mean the common stock of Parent, par value $0.01 per share.</text>
       </definition>
-      <definition standardID="639f9ef1b7e241da">
+      <definition standardID="639f9ef1b7e241da" term="parent disclosure schedule">
         <text>“Parent Disclosure Schedule” shall have the meaning set forth in Article V.</text>
       </definition>
-      <definition standardID="c425ed34853c1c5c">
+      <definition standardID="c425ed34853c1c5c" term="parent financial advisors">
         <text>“Parent Financial Advisors” shall have the meaning set forth in Section 5.10.</text>
       </definition>
-      <definition standardID="0f24431f7cdef922">
+      <definition standardID="0f24431f7cdef922" term="parent ip">
         <text>“Parent IP” shall have the meaning set forth in Section 4.18(a).</text>
       </definition>
       <pageUUID>e04ec85a-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-      <definition standardID="8500278a486e25aa">
+      <definition standardID="8500278a486e25aa" term="parent mae proviso">
         <text>“Parent MAE Proviso” shall have the meaning set forth in the definition of “Parent Material Adverse Effect” in Article I hereof.</text>
       </definition>
-      <definition standardID="29cc606db84b6893">
+      <definition standardID="29cc606db84b6893" term="parent material adverse effect">
         <text>“Parent Material Adverse Effect” shall mean a fact, event or circumstance which is materially adverse to the business, properties, assets, condition (financial or otherwise) or results of operations of Parent and its Subsidiaries, taken as a whole; provided, however, that none of the following shall be deemed to constitute or be taken into account in determining whether that has been or will or could be, a “Parent Material Adverse Effect”: (A) any changes resulting from or arising out of general market, economic or political conditions (including any changes arising out of acts of terrorism, or war, weather conditions or other force majeure events), provided that such changes do not have a substantially disproportionate impact on Parent and its Subsidiaries, taken as a whole, (B) any changes resulting from or arising out of general market, economic or political conditions in the industries in which Parent or any of its Subsidiaries conduct business (including any changes arising out of acts of terrorism, or war, weather conditions or other force majeure events), provided that such changes do not have a substantially disproportionate impact on Parent and its Subsidiaries, taken as a whole, (C) any changes resulting from or arising out of actions taken pursuant to (and required by) this Agreement or at the request of the Company or the failure to take any actions due to restrictions set forth in this Agreement, (D) any changes in the price or trading volume of Parent’s stock, in and of itself, provided that such exclusion shall not apply to any underlying fact, event or circumstance that may have caused or contributed to such change in market price or trading volume, (E) any failure by Parent to meet published revenue or earnings projections, in and of itself, provided that such exclusion shall not apply to any underlying fact, event or circumstance that may have caused or contributed to such failure to meet published revenue or earnings projections, and (F) any changes or effects arising out of or resulting from any legal claims or other proceedings made by any of Parent’s stockholders (on their own behalf or on behalf of Parent) arising out of or related to this Agreement, the Merger or any other transactions contemplated hereby provided, further, however, that for purposes of Section 7.3(c), a “Parent Material Adverse Effect” shall include (the following being referred to as the “Parent MAE Proviso”) the loss of the services of the individual identified on Section 7.3(c) of the Company Disclosure Schedule as indicated on Section 7.3(c) of the Company Disclosure Schedule.</text>
       </definition>
-      <definition standardID="22bd20feb8af2d9d">
+      <definition standardID="22bd20feb8af2d9d" term="parent permits">
         <text>“Parent Permits” shall have the meaning set forth in Section 5.8(a).</text>
       </definition>
-      <definition standardID="456638eea1521f0c">
+      <definition standardID="456638eea1521f0c" term="parent preferred shares">
         <text>“Parent Preferred Shares” shall have the meaning set forth in Section 5.2(a).</text>
       </definition>
-      <definition standardID="956ad3a549600dc8">
+      <definition standardID="956ad3a549600dc8" term="parent sec documents">
         <text>“Parent SEC Documents” shall have the meaning set forth in Section 5.5(a).</text>
       </definition>
-      <definition standardID="843d49b7c43a91de">
+      <definition standardID="843d49b7c43a91de" term="patents">
         <text>“Patents” shall have the meaning set forth in Section 4.18(a).</text>
       </definition>
-      <definition standardID="9cb8304e358fc0d6">
+      <definition standardID="9cb8304e358fc0d6" term="pension plans">
         <text>“Pension Plans” shall have the meaning set forth in Section 4.10(a).</text>
       </definition>
       <pageUUID>e04ecbc0-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-      <definition standardID="104c4455779c30e0">
+      <definition standardID="104c4455779c30e0" term="person">
         <text>“Person” shall mean an individual, corporation, limited liability company, partnership, association, trust or any other entity or organization, including any Governmental Entities.</text>
       </definition>
-      <definition standardID="ed4aa7ca23addd9d">
+      <definition standardID="ed4aa7ca23addd9d" term="principal shareholder">
         <text>“Principal Shareholder” shall have the meaning set forth in the Recitals hereto.</text>
       </definition>
-      <definition standardID="c63b6676df2ecf21">
+      <definition standardID="c63b6676df2ecf21" term="proxy statement">
         <text>“Proxy Statement” shall have the meaning set forth in Section 4.5(a).</text>
       </definition>
-      <definition standardID="ed56370ad521e1f7">
+      <definition standardID="ed56370ad521e1f7" term="qualified acquisition proposal">
         <text>“Qualified Acquisition Proposal” shall have the meaning set forth in Section 8.3(a).</text>
       </definition>
-      <definition standardID="7d7c10c6ae2eed4d">
+      <definition standardID="7d7c10c6ae2eed4d" term="release">
         <text>“Release” shall mean any release, pumping, pouring, emptying, injecting, escaping, leaching, migrating, dumping, seepage, spill, leak, flow, discharge, disposal or emission.</text>
       </definition>
-      <definition standardID="7981d0ead65f0728">
+      <definition standardID="7981d0ead65f0728" term="representatives">
         <text>“Representatives” shall have the meaning set forth in Section 6.3(a).</text>
       </definition>
-      <definition standardID="5a3252ffc2effc9b">
+      <definition standardID="5a3252ffc2effc9b" term="reinstated recommendation">
         <text>“Reinstated Recommendation” shall have the meaning set forth in Section 6.5.</text>
       </definition>
-      <definition standardID="7580b993b2fa3a57">
+      <definition standardID="7580b993b2fa3a57" term="sarbanes-oxley act">
         <text>“Sarbanes-Oxley Act” shall have the meaning set forth in Section 4.7(a).</text>
       </definition>
-      <definition standardID="0442b1c21cf87337">
+      <definition standardID="0442b1c21cf87337" term="sec">
         <text>“SEC” shall mean the United States Securities and Exchange Commission or the staff thereof.</text>
       </definition>
-      <definition standardID="9848955121fceaf7">
+      <definition standardID="9848955121fceaf7" term="secretary of state">
         <text>“Secretary of State” shall have the meaning set forth in Section 2.3.</text>
       </definition>
-      <definition standardID="70ee2b7c25af1529">
+      <definition standardID="70ee2b7c25af1529" term="securities act">
         <text>“Securities Act” shall mean the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.</text>
       </definition>
-      <definition standardID="4ccf332e950ef3c8">
+      <definition standardID="4ccf332e950ef3c8" term="separate film">
         <text>“Separate Film” shall have the meaning set forth in Section 4.18(b).</text>
       </definition>
-      <definition standardID="86031110c8a6ec15">
+      <definition standardID="86031110c8a6ec15" term="software products">
         <text>“Software Products” shall have the meaning set forth in Section 4.18(b).</text>
       </definition>
-      <definition standardID="acf26aa6537ca6e1">
+      <definition standardID="acf26aa6537ca6e1" term="subsidiary">
         <text>“Subsidiary” of any Person shall mean (i) a corporation more than 50% of the combined voting power of the outstanding voting stock of which is owned, directly or indirectly, by such Person or by one of more other Subsidiaries of such Person or by such Person and one or more other Subsidiaries thereof, (ii) a partnership of which such Person, or one or more other Subsidiaries of such Person or such Person and one or more other Subsidiaries thereof, directly or indirectly, is the general partner and has the power to direct the policies, management and affairs of such partnership, (iii) a limited liability company of which such Person or one or more other Subsidiaries of such Person or such Person and one or more other Subsidiaries thereof, directly or indirectly, is the managing member and has the power to direct the policies, management and affairs of such company or (iv) any other Person (other than a corporation, partnership or limited liability company) in which such Person, or one or more other Subsidiaries of such Person or such Person and one or more other Subsidiaries thereof, directly or indirectly, has at least a majority ownership and power to direct the policies, management and affairs thereof.</text>
       </definition>
       <pageUUID>e04ed0a2-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
-      <definition standardID="5381b58174a51b09">
+      <definition standardID="5381b58174a51b09" term="superior proposal">
         <text>“Superior Proposal” shall mean a bona fide written Acquisition Proposal (with all of the provisions in the definition of Acquisition Proposal adjusted to increase the percentages referenced therein to one hundred percent (100%)) which the Company’s Board of Directors determines in good faith (after consultation with its financial advisors) to be more favorable to the shareholders of the Company as compared to the transactions provided for herein (including any revisions to this Agreement made or proposed in writing by Parent) and any alternative transaction proposed in writing by Parent in accordance with Section 6.4(c) hereof, taking into account, among other things, (i) the Person making such Acquisition Proposal, (ii) the likelihood that the transaction contemplated by such Acquisition Proposal will be consummated and the timing thereof, (iii) the terms and conditions of this Agreement and such Acquisition Proposal, including any conditions relating to financing, regulatory approvals or other events or circumstances beyond the control of the party invoking the condition and (iv) any revisions to this Agreement made or proposed in writing by Parent prior to the time of determination and any alternative transaction proposed in writing by Parent in accordance with Section 6.4(c) hereof.</text>
       </definition>
-      <definition standardID="1296577d913ac559">
+      <definition standardID="1296577d913ac559" term="surviving corporation">
         <text>“Surviving Corporation” shall have the meaning set forth in Section 2.1.</text>
       </definition>
-      <definition standardID="e0a5d1823315053d">
+      <definition standardID="e0a5d1823315053d" term="tax">
         <text>“Tax” or “Taxes” means all Federal, state, local, and foreign taxes, and other assessments of a similar nature (whether imposed directly or through withholding), including any interest, additions to tax, or penalties applicable thereto, imposed by any Tax Authority.</text>
       </definition>
-      <definition standardID="62cc55fab7add61c">
+      <definition standardID="62cc55fab7add61c" term="tax authority">
         <text>“Tax Authority” means the IRS and any other domestic or foreign governmental authority responsible for the administration of any Taxes.</text>
       </definition>
-      <definition standardID="6c48dfe99c875c1c">
+      <definition standardID="6c48dfe99c875c1c" term="tax opinions">
         <text>“Tax Opinions” shall have the meaning set forth in Section 6.17.</text>
       </definition>
-      <definition standardID="5c503b64610a7962">
+      <definition standardID="5c503b64610a7962" term="tax returns">
         <text>“Tax Returns” mean all federal, state, local, and foreign tax returns, declarations, statements, reports, schedules, forms, and information returns and any amendments thereto.</text>
       </definition>
-      <definition standardID="721b25c5c1e28ced">
+      <definition standardID="721b25c5c1e28ced" term="termination date">
         <text>“Termination Date” shall have the meaning set forth in Section 8.1(b)(i).</text>
       </definition>
-      <definition standardID="721b25c5c1e28ced">
+      <definition standardID="721b25c5c1e28ced" term="termination fee">
         <text>“Termination Fee” shall have the meaning set forth in Section 8.3(a).</text>
       </definition>
-      <definition standardID="ab67db297753acbe">
+      <definition standardID="ab67db297753acbe" term="trade secrets">
         <text>“Trade Secrets” shall have the meaning set forth in Section 4.18(a).</text>
       </definition>
-      <definition standardID="f2507dc531d35cf2">
+      <definition standardID="f2507dc531d35cf2" term="warn act">
         <text>“WARN Act” shall mean the Worker Adjustment and Retraining Notification Act of 1988, as amended.</text>
       </definition>
-      <definition standardID="cf331e751ddff619">
+      <definition standardID="cf331e751ddff619" term="welfare plans">
         <text>“Welfare Plans” shall have the meaning set forth in Section 4.10(a).</text>
       </definition>
       <pageUUID>e04ed408-4a0d-11f0-8d00-be44a5e954c9</pageUUID>
